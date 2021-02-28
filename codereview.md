@@ -53,7 +53,11 @@ Code review я перевожу как «ревизия кода» и дальш
 
 Огромный поток бывших инженеров, не занимавшихся организацией процессов производства, но бывших субъектами и участниками этих процессов, стали играть управленческие роли.
 
-Неизбежным кажется и их слепое копирование тех практик, которые они использовали ранее в современные процессы производства ПО, порой без какого-либо критического осмысления.
+Например, в работе [Information Needs in Contemporary Code Review](https://fpalomba.github.io/pdf/Conferencs/C36.pdf) товарищей Pascarella, Spadini, Palomba, Bruntink, Bachelli говорится:
+
+> Even though studies have shown that modern code review has the potential to support software quality and dependability [17, 39, 41], researchers have also provided strong empirical evidence that the outcome of this process is rather erratic and often unsatisfying or misaligned with the expectations of participants [2, 10, 37].
+
+Исследования подверждают, что руководители просто слепо копируют устоявшиеся практики без какого-либо критического осмысления.
 
 Например, интересно, что в вышедшей в 2013 году статья товарищи авторы Alberto Bacchelli и Christian Bird — [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf), резюмируют:
 
@@ -136,3 +140,4 @@ Code review я перевожу как «ревизия кода» и дальш
 - [A review of software Inspections, Porter, Siy, Votta, 1996](https://www.researchgate.net/publication/222504163_A_Review_of_Software_Inspections)
 - [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf)
 - [Investigating technical and non-technical factors influencing modern code review, 2015](https://www.cs.ubc.ca/~rtholmes/papers/ese_2015_baysal.pdf)
+- [Information Needs in Contemporary Code Review, Pascarella, Spadini, Palomba, Bruntink, Bachelli, 2018](https://fpalomba.github.io/pdf/Conferencs/C36.pdf)
