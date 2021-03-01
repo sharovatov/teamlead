@@ -88,7 +88,11 @@ Code review я перевожу как «ревизия кода» и дальш
 
 Потом попробуйте представить, какими другими, более дешёвыми процессными решениями можно было бы обнаружить эти дефекты.
 
-Если руководитель проводит такое исследование, чаще всего оказывается, что инструмент ревизии кода нецелесообразен для обнаружения дефектов. При этом очень часто в такой момент сознание руководителя, иррационально держащееся за привычки, делает «финт», и внезапно ревизия кода уже «не только для дефектов, но и для обучения и обмена знаниями».
+Например, товарищи Jacek Czerwonka, Michaela Greiler и Jack Tilford в Microsoft [посмотрели и обнаружили](https://pdfs.semanticscholar.org/c079/0dc547c56ca48b78bc418b21cc0687513743.pdf):
+
+> Code reviews do not find as many bugs as you may think
+
+Если вы как руководитель проведёте подобное исследование, чаще всего окажется, что инструмент ревизии кода экономически нецелесообразен для обнаружения дефектов: находит мало дефектов, но сильно замедляет разработку. Будьте аккуратны, сознание иррационально довольно крепко держится за привычки, и может сделать «финт», и внезапно ревизия кода уже «не только для дефектов, но и для обучения и обмена знаниями».
 
 Понятно, что во фразе «не только для дефектов» подразумевается на самом деле «совсем не для дефектов».
 
@@ -150,3 +154,4 @@ Code review я перевожу как «ревизия кода» и дальш
 - [Information Needs in Contemporary Code Review, Pascarella, Spadini, Palomba, Bruntink, Bachelli, 2018](https://fpalomba.github.io/pdf/Conferencs/C36.pdf)
 - [The Cost of Interrupted Work: More Speed and Stress, Mark, Gudith, Klocke, 2008](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)
 - [The myth of multitasking, Nass, 2013](https://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking)
+- [Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down](https://www.microsoft.com/en-us/research/publication/code-reviews-do-not-find-bugs-how-the-current-code-review-best-practice-slows-us-down/)
