@@ -19,7 +19,7 @@ Code review я перевожу как «ревизия кода» и дальш
 
 Думаю, достаточно очевидна причина появления фазы «инспекция кода» и её место в цикле.
 
-В то время ревизия кода совершалась группами программистов (не 1 ревьювер, а много), и это всё равно оказывалось экономически эффективно, ведь цикл обнаружения ошибки и её последующего исправления была чрезвычайно долог и дорог.
+В то время ревизия кода совершалась группами программистов (не 1 ревизор, а много), и это всё равно оказывалось экономически эффективно, ведь цикл обнаружения ошибки и её последующего исправления была чрезвычайно долог и дорог.
 
 Проблемы социальных динамик (обсуждаемые ниже) при сравнительно низкой цене программистов были малоинтересны.
 
@@ -58,6 +58,7 @@ Code review я перевожу как «ревизия кода» и дальш
 > Even though studies have shown that modern code review has the potential to support software quality and dependability [17, 39, 41], researchers have also provided strong empirical evidence that the outcome of this process is rather erratic and often unsatisfying or misaligned with the expectations of participants [2, 10, 37].
 
 Исследования подверждают, что руководители просто слепо копируют устоявшиеся практики без какого-либо критического осмысления.
+
 
 Например, интересно, что в вышедшей в 2013 году статья товарищи авторы Alberto Bacchelli и Christian Bird — [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf), резюмируют:
 
@@ -135,9 +136,21 @@ Code review я перевожу как «ревизия кода» и дальш
 
 Чтобы сравнить «обучение с помощью ревизии кода» и «обучение» нормальное, попробуйте провести эксперимент.
 
+## Другие негативные факторы, привносимые практикой ревизии кода
+
+### 1. Отвлечения
+
+В процессе ревизии кода 
+
+В работe [The Cost of Interrupted Work: More Speed and Stress, Mark, Gudith, Klocke, 2008](https://www.ics.uci.edu/~gmark/chi08-mark.pdf) исследуется проблема цены переключения контекста. 
+
+ллл
+
 ## Ссылки
 
 - [A review of software Inspections, Porter, Siy, Votta, 1996](https://www.researchgate.net/publication/222504163_A_Review_of_Software_Inspections)
 - [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf)
 - [Investigating technical and non-technical factors influencing modern code review, 2015](https://www.cs.ubc.ca/~rtholmes/papers/ese_2015_baysal.pdf)
 - [Information Needs in Contemporary Code Review, Pascarella, Spadini, Palomba, Bruntink, Bachelli, 2018](https://fpalomba.github.io/pdf/Conferencs/C36.pdf)
+- [The Cost of Interrupted Work: More Speed and Stress, Mark, Gudith, Klocke, 2008](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)
+- [The myth of multitasking, Nass, 2013](https://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking)
