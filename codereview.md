@@ -59,7 +59,6 @@ Code review я перевожу как «ревизия кода» и дальш
 
 Исследования подверждают, что руководители просто слепо копируют устоявшиеся практики без какого-либо критического осмысления.
 
-
 Например, интересно, что в вышедшей в 2013 году статья товарищи авторы Alberto Bacchelli и Christian Bird — [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf), резюмируют:
 
 > Our results show that, although the top motivation driving code reviews is finding defects, the practice and the actual outcomes are less about finding errors than expected: Defect related comments comprise a small proportion and mainly cover small logical low-level issues.
@@ -83,6 +82,10 @@ Code review я перевожу как «ревизия кода» и дальш
 Этот сценарий — оптимистичен, в нём всего один цикл доработки.
 
 У вас наверняка есть статистика по времени нахождения задачи в каждом из приведённых статусов, посчитайте среднее время, потребное на прохождение этих статусов.
+
+Например, [товарищи из Google посчитали задержку](https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google):
+
+> During the week, 70% of changes are committed less than 24 hours after they are mailed out for an initial review.
 
 Дальше возьмите набор последних ревизий и обратите внимание, какие дефекты были обнаружены. Сформулируйте их критичность.
 
@@ -146,6 +149,11 @@ Code review я перевожу как «ревизия кода» и дальш
 
 ### 1. Цена отвлечения
 
+Человеческий мозг 
+https://www.apa.org/research/action/multitask
+
+Иногда встречается мнение, что ревизия кода является более простой задачей, и переключение на неё является «отдыхом». Однако, безотносительно оценки сложности самого процесса ревизии кода, [исследования показывают](https://pubmed.ncbi.nlm.nih.gov/11004879/), что «цена переключения» даже на более простую задачу очень высока.
+
 ## Ссылки
 
 - [A review of software Inspections, Porter, Siy, Votta, 1996](https://www.researchgate.net/publication/222504163_A_Review_of_Software_Inspections)
@@ -155,3 +163,5 @@ Code review я перевожу как «ревизия кода» и дальш
 - [The Cost of Interrupted Work: More Speed and Stress, Mark, Gudith, Klocke, 2008](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)
 - [The myth of multitasking, Nass, 2013](https://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking)
 - [Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down](https://www.microsoft.com/en-us/research/publication/code-reviews-do-not-find-bugs-how-the-current-code-review-best-practice-slows-us-down/)
+- [Modern code review: a case study at google, 2018](https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google)
+- [Reconfiguration of task-set: Is it easier to switch to the weaker task? Psychological Research, Monsell, S., Yeung, N., & Azuma, R. (2000)](https://pubmed.ncbi.nlm.nih.gov/11004879/)
