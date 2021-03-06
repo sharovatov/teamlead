@@ -7,3 +7,8 @@
 - [примитив роста и развития](growth.md)
 - [словарь рекрутера](recruiting.md)
 - [code review — обзор истории и анализ целесообразности](codereview.md)
+
+## Донаты (₽):
+
+- Альфа-банк MasterCard 5559 4941 2704 5937
+- YooMoney: [https://sobe.ru/na/teamlead101](https://sobe.ru/na/teamlead101)
