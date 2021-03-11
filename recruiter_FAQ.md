@@ -26,4 +26,26 @@
 
 ## Где искать разработчика / тестировщика / боевого пловца?
 
-В каналах, которые вы выбрали как наиболее подходящие под профиль кандидата.
+В каналах, которые вы выбрали как наиболее подходящие под профиль кандидата. Вы же составили вместе с менеджером профиль кандидата, прежде, чем его искать?
+
+Каналы в телеграме:
+- [javascript jobs](https://t.me/javascript_jobs)
+- [HR jobs](https://t.me/job4hr)
+- [products jobs](https://t.me/products_jobs)
+- [QA jobs](https://t.me/qa_jobs)
+- [Java jobs](https://t.me/javadevjob)
+- [Architects jobs](https://t.me/itarchitect_jobs)
+- [Marketing jobs](https://t.me/marketing_jobs)
+- [Teamlead jobs](https://t.me/TeamLeadJobs)
+
+Ещё можно искать в:
+- linkedin
+- бирже труда
+- facebook
+- ВУЗах
+- headhunter
+- superjob
+
+Чем в бОльшем числе каналов вы будете искать, тем хуже будет поиск.
+
+**Совет**: скомпонуйте с нанимающим менеджером профиль кандидата. Опишите нормально EVP. Поймите, какой канал поиска будет максимально подходящим.
