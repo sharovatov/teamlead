@@ -1,6 +1,8 @@
 # Вопросы начинающего рекрутера к более опытным товарищам
 
-Стоит также ознакомиться со [словарём рекрутера](https://github.com/sharovatov/teamlead/blob/master/recruiting.md)
+Вначале стоит ознакомиться с [профстандартом специалиста по подбору](https://rark-kazan.ru/files/docs/ps_spup_na_24_09_15_mintrud.pdf).
+
+Потом нужно ознакомиться со [словарём рекрутера](https://github.com/sharovatov/teamlead/blob/master/recruiting.md)
 
 ## Какие софтскиллы нужны разработчику (сыну маминой подруги, аналитику, боевому пловцу)?
 
