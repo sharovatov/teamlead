@@ -12,6 +12,7 @@
 - [доклады, что стоит посмотреть](talks.md)
 - [каналы в телеграме](tg-channels.md)
 - [готовим к увольнению с первого дня](firing.md)
+- [process decision record](PDR.md)
 
 ## Мелочи
 
