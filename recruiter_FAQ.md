@@ -39,6 +39,7 @@
 - [Architects jobs](https://t.me/itarchitect_jobs)
 - [Marketing jobs](https://t.me/marketing_jobs)
 - [Teamlead jobs](https://t.me/TeamLeadJobs)
+- [Devops jobs](https://t.me/ru_devops)
 
 Ещё можно искать в:
 - linkedin
