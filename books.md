@@ -67,3 +67,19 @@
 Монография поможет разобраться, почему 360 обзор и eNPS — бессмысленная хрень. Крайне полезно.
 
 Скачать книгу [можно здесь](http://sociolog.od.ua/docs/1985-soznanie-i-dejatelnost.pdf)
+
+## Информационная экология
+
+**Автор**: Алексей Ерёмин
+
+Эта статья в журнале даёт самое поверхностное понимание информационной экологии в разных областях — от политической до конфликтов в команде.
+
+Почитать [можно тут](https://www.researchgate.net/profile/Eryomin-Alexey/publication/240515256_Eryomin_A_Information_ecology_-_A_viewpoint/links/02e7e52ab73c81fe3e000000/Eryomin-A-Information-ecology-A-viewpoint.pdf?origin=publication_detail)
+
+## Эргономика
+
+**Автор**: Фех А.И
+
+Учебник описывает понятие эргономики и рассказывает о влиянии среды на производительность труда и многое другое.
+
+Почитать [можно тут](https://portal.tpu.ru/SHARED/f/FEHAI/for_students/Tab2/Tab2/IK_Fekh.pdf)
