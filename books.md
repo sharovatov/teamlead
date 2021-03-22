@@ -60,7 +60,7 @@
 
 Скачать книгу [можно здесь](https://www.isras.ru/files/File/publ/Toschenko_Zvetkova_soc_truda.pdf)
 
-## Сознание и деятельность
+## Сознание и трудовая деятельность
 
 **Автор**: Попова И.М.
 
