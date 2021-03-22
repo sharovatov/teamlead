@@ -60,3 +60,10 @@
 
 Скачать книгу [можно здесь](https://www.isras.ru/files/File/publ/Toschenko_Zvetkova_soc_truda.pdf)
 
+## Сознание и деятельность
+
+**Автор**: Попова И.М.
+
+Монография поможет разобраться, почему 360 обзор и eNPS — бессмысленная хрень. Крайне полезно.
+
+Скачать книгу [можно здесь](http://sociolog.od.ua/docs/1985-soznanie-i-dejatelnost.pdf)
