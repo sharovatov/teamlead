@@ -8,7 +8,5 @@
 
 Процесс подготовки к докладам [я веду тут на гитхабе](talks.md).
 
-Прошлые доклады можно посмотреть в моём плейлисте на youtube:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playList&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Прошлые доклады можно посмотреть в [моём плейлисте на youtube](https://www.youtube.com/watch?v=-ZXhMJ4M9xI&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
