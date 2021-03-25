@@ -1,0 +1,14 @@
+# мои грядущие доклады
+
+- о вреде регулярных 1-1 — место пока неизвестно, дата тоже
+- основы психологии для тимлидов с Кириллом Зубовым — место неизвестно, дата тоже
+- о подготовке к выступлениям — место пока неизвестно, дата тоже
+- вред тайм-трекинга — место пока неизвестно, дата тоже
+- работа с инновациями или как тимлиду перестать быть плохим для всех — [codefest 2021](https://11.codefest.ru), 29-30 Мая 2021. Возможно, сделаю там пару квартирников ещё.
+
+Процесс подготовки к докладам [я веду тут на гитхабе](talks.md).
+
+Прошлые доклады можно посмотреть в моём плейлисте на youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playList&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
