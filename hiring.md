@@ -8,6 +8,8 @@
 - [cлайды презентации](/talks/hiring-bulk-vs-iterations.key)
 - [модель](https://cloud.anylogic.com/model/a66875c0-7b08-4042-b55f-4b36c7127a98?mode=SETTINGS&tab=GENERAL)
 
+-----
+
 Изначально найм — проблема.
 
 Часто говорят, что разработка не справляется с реализацией запросов бизнеса.
