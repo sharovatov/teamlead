@@ -68,3 +68,10 @@ High challenge / low threat модель описана [в книге Mary Myat
 ## Реклама компании
 
 Написание мною статей выгодно и компании, в которой я работаю — среди соискателей и клиентов формируется более выгодный имидж компании.
+
+
+### Релевантные ссылки
+
+- [о других плюсах и эффектах мышления через письмо](https://habr.com/ru/post/526336/)
+- [понимание механизмов работы мозга — ключ к созданию новой науки об обучении](https://www.oecd-ilibrary.org/education/understanding-the-brain/summary/russian_9789264174986-sum-ru;jsessionid=v4d5WWJcy6x2s57K7N5sOMsM.ip-10-240-5-92)
+- [high challenge / low threat](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X)
