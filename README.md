@@ -25,7 +25,7 @@
 - [github effect — почему писать статьи выгодно](github-effect.md)
 
 ## Курсы и семинары
-- [курс по найму](recruiting_course.md)
+- [курс по найму](recruiter_course.md)
 
 ## Рекомендации
 - [книги, обязательные к прочтению](books.md)
