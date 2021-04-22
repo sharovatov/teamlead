@@ -133,7 +133,6 @@ C [точки зрения закона](https://www.garant.ru/products/ipo/prim
 - ДИ позволяют уменьшить финансовые и процессные риски
 - ДИ не позволяет полностью избавиться от этих рисков, программист может всё равно объявить итальянскую забастовку
 
-
 **Ссылки**:
 - [что делать, если сотрудник отказывается подписывать ДИ](https://rusjurist.ru/kadry/dolzhnostnye_instrukcii/chto_delat_esli_rabotnik_otkazyvaetsya_podpisyvat_dolzhnostnuyu_instrukciyu/)
 - [письмо федеральной службы по труду и занятости от 9 августа 2007 года](https://www.garant.ru/products/ipo/prime/doc/91749/)
