@@ -25,6 +25,7 @@
 - [правовые нюансы увольнения](firing_law.md)
 - [github effect — почему писать статьи выгодно](github-effect.md)
 - [культура менторства](mentorship.md)
+- [культура ответственности, не вины](blameless_responsibility.md)
 
 ## Курсы, семинары, обучающие программы
 - [курс по найму](recruiter_course.md)
