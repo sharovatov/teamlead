@@ -175,10 +175,13 @@ Code review я перевожу как «ревизия кода» и дальш
 
 ### 1. Цена отвлечения
 
-Человеческий мозг ... [todo] proceed
-https://www.apa.org/research/action/multitask
+Человеческий мозг плохо предназначен для выполнения нескольких задач одновременно. Мы можем «думать» лишь одну мысль, но можем пытаться переключаться между ними часто, считая, что мы «многозадачны».
 
-Иногда встречается мнение, что ревизия кода является более простой задачей, и переключение на неё является «отдыхом». Однако, безотносительно оценки сложности самого процесса ревизии кода, [исследования показывают](https://pubmed.ncbi.nlm.nih.gov/11004879/), что «цена переключения» даже на более простую задачу очень высока.
+Иногда встречается мнение, что ревизия кода является более простой задачей, и переключение на неё является «отдыхом».
+
+Однако, [исследования](https://pubmed.ncbi.nlm.nih.gov/11004879/) [показывают](https://www.apa.org/pubs/journals/releases/xhp274763.pdf), что какими бы не были типы задач, между которыми пытаются переключаться люди, потери времени значительны и неизбежны.
+
+**Работа с фокусом на одной задаче гораздо продуктивнее**.
 
 ## Ссылки
 
@@ -191,3 +194,5 @@ https://www.apa.org/research/action/multitask
 - [Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down](https://www.microsoft.com/en-us/research/publication/code-reviews-do-not-find-bugs-how-the-current-code-review-best-practice-slows-us-down/)
 - [Modern code review: a case study at google, 2018](https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google)
 - [Reconfiguration of task-set: Is it easier to switch to the weaker task? Psychological Research, Monsell, S., Yeung, N., & Azuma, R. (2000)](https://pubmed.ncbi.nlm.nih.gov/11004879/)
+- [Multitasking: Switching costs (american psychological association)](https://www.apa.org/research/action/multitask)
+- [Executive Control of Cognitive Processes in Task Switching — Joshua S. Rubinstein, David E. Meyer, Jeffrey E. Evans](https://www.apa.org/pubs/journals/releases/xhp274763.pdf)
