@@ -11,6 +11,8 @@ Eсли хотите, чтобы я выступил с какой-то темо
 - [ ] 30 мая: работа с инновациями или как тимлиду перестать быть плохим для всех — [codefest 2021](https://11.codefest.ru/lecture/1777)
 - [ ] 16 сентября, [Saint TeamLead Conf](https://tlconf.info), Санкт-Петербург, оффлайн+онлайн: работа тимлида с людьми начинается до найма и не заканчивается с уходом из компании
 - [x] 29 апреля, headz.io, онлайн: Должностные Инструкции, обзор. [Статья](talks/kdp.md), [видео]()
+- [x] 24 марта, softwise, онлайн+оффлайн, Улучшение процесса найма (PDCA). [тезисы](talks/softwise-2021-03-24.md), [видео](https://www.youtube.com/watch?v=CuBmbnGeC6M), [презентация](talks/hiring-bulk-vs-iterations.key)
+- [x] 21 марта, podlodka teamlead crew, онлайн: О росте тимлидов — [Статья](podlodka-2021-03-20.md), [видео](https://www.youtube.com/watch?v=-ZXhMJ4M9xI)
 
 Процесс подготовки к докладам [я веду тут на гитхабе](talks/README.md).
 
