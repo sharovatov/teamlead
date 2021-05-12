@@ -16,34 +16,28 @@
 
 На мой вкус, лучшая работа даёт и удовольствие в моменте, когда каждое утро вы с улыбкой начинаете рабочий день; и отложенное удовольствие, выраженное в получении хорошей зарплаты.
 
-To me the best job provides both immediate and deferred pleasure: I enjoy working and enjoy getting my salary.
+Из чего же состоит хорошая работа? Для меня — из отличных (умных и хороших) людей, отличного продукта и хорошей зарплаты.
 
-What does a good job consist of?
+А у вас на работе все три параметра удовлетворены?
 
-For me it’s simple: good (smart and nice) people, great product, great salary.
+Если нет, то что вы делаете для улучшения ситуации?
 
-Are you happy with all these three?
+И как вы можете эту ситуацию улучшать?
 
-If not, what are you doing to improve one or all of them?
+Можете ли вы влиять на сотрудников? Можете ли вести за собой, показывать пример, являетесь ли авторитетом?
 
-Before actually doing anything, you need to understand what and how you’re doing.
+Можете ли приводить классных людей в команду?
 
-Can you influence your team members? Can you guide them, lead them by example?
+А если вы соберётесь уходить из компании, как вы будете искать работу? Подаваться в разные компании и ждать, кому вы «подойдёте»?
 
-Can you bring better people to your team?
+А что, если я скажу, что вы можете лучше справляться со всеми этими задачами, и увеличивать свою эвдаймонию на работе?
 
-And if you decide to quit and find a better company, how do you do this?
+Вы можете:
+- сильнее влиять на вашу команду
+- легче находить более хорошую работу
+- получать больше удовольствия от самой работы
 
-As usual, apply to many and see who wants you?
-
-What if I say that you could do much better at the following:
-- influencing your own team
-- finding a better job
-- having more eudaimonia while just working?
-
-And all it takes — **just start being public**.
-
-
+И всё, что надо — просто стать публично известным.
 
 
 - Difference between internal and external events?
