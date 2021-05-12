@@ -32,6 +32,18 @@ Can you bring better people to your team?
 
 And if you decide to quit and find a better company, how do you do this?
 
+As usual, apply to many and see who wants you?
+
+What if I say that you could do much better at the following:
+- influencing your own team
+- finding a better job
+- having more eudaimonia while just working?
+
+And all it takes — **just start being public**.
+
+
+
+
 - Difference between internal and external events?
 - What kind of knowledge sharing could be?
 - Is there any difference in preparation for the article, meetup, speech at a conference, etc?
