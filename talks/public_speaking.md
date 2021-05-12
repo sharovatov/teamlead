@@ -24,7 +24,13 @@ Are you happy with all these three?
 
 If not, what are you doing to improve one or all of them?
 
+Before actually doing anything, you need to understand what and how you’re doing.
 
+Can you influence your team members? Can you guide them, lead them by example?
+
+Can you bring better people to your team?
+
+And if you decide to quit and find a better company, how do you do this?
 
 - Difference between internal and external events?
 - What kind of knowledge sharing could be?
