@@ -1,12 +1,14 @@
-## Why we should do this?
+## Зачем выступать?
 
-For me, things are usually done for one main reason: eudaimonia.
+Я живу для эвдаймонии.
 
-Eudaimonia means happiness, pleasure, welfare, etc.
+Эвдаймония — счастье, радость, удовольствие.
 
-Pleasure can be immediate, e.g.:
- - from creative activities — creating a piece of art, writing an article or coding
- - from consuming activities — reading a book, eating, taking a bath, etc
+Удовольствие может быть в моменте:
+ - от созидательных активностей — создание объекта искусства, написание статьи или книги, проектирование и программирование
+ - от потребительских активностей — чтение книг, прослушивание верки сердючки или брамса, потребление вкусной пищи и тп.
+
+
 
 Pleasures can also be deferred or prolongated: like earning money, teaching a student, etc. — where the pleasure can happen or proceed later on.
 
