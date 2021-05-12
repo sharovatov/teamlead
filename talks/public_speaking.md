@@ -8,13 +8,13 @@
  - от созидательных активностей — создание объекта искусства, написание статьи или книги, проектирование и программирование
  - от потребительских активностей — чтение книг, прослушивание верки сердючки или брамса, потребление вкусной пищи и тп.
 
+Удовольствия так же могут быть отложенными: например, зарабатывание денег, обучение студентов — в случаях, когда удовольствие приносит результат.
 
+К чему я это говорю?
 
-Pleasures can also be deferred or prolongated: like earning money, teaching a student, etc. — where the pleasure can happen or proceed later on.
+Всё просто. Если вы работаете в компании, которая вам не нравится, даже если вы зарабатываете немало, вы упускаете много удовольствия, эвдаймонию упускаете.
 
-Why am I saying all this?
-
-Simple. If you work hard at a company you hate, even if you earn enough there, you are missing a whole lot of pleasure, you’re not living up to eudaimonia :)
+На мой вкус, лучшая работа даёт и удовольствие в моменте, когда каждое утро вы с улыбкой начинаете рабочий день; и отложенное удовольствие, выраженное в получении хорошей зарплаты.
 
 To me the best job provides both immediate and deferred pleasure: I enjoy working and enjoy getting my salary.
 
