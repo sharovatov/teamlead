@@ -4,7 +4,7 @@
 
 Eсли хотите, чтобы я выступил с какой-то темой (список [можно посмотреть тут](topics.md) или запросить какую-то иную) — создайте github issue с темой «сделать выступление о Х».
 
-- [ ] о вреде регулярных 1-1 ([голосовать](https://github.com/sharovatov/teamlead/issues/8)
+- [ ] о вреде регулярных 1-1 ([голосовать](https://github.com/sharovatov/teamlead/issues/8))
 - [ ] основы психологии для тимлидов с Кириллом Зубовым ([голосовать](https://github.com/sharovatov/teamlead/issues/9))
 - [ ] о подготовке к выступлениям ([голосовать](https://github.com/sharovatov/teamlead/issues/10))
 - [ ] вред оценки и тайм-трекинга ([голосовать](https://github.com/sharovatov/teamlead/issues/11)). Подготовка [тут ведётся](talks/estimation_and_tracking.md)
