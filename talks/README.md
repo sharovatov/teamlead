@@ -8,4 +8,5 @@
 
 - ? — [цена и эффективность прогнозирования сроков](estimation_and_tracking.md)
 - ? inteamwetrust.com — [от human resources к human relations](HR.md)
+- 13 May QA breakfast on public speaking [why and how](public_speaking.md)
 
