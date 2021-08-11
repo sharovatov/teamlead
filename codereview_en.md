@@ -22,19 +22,13 @@ You can easily guess why CR instrument appeared, which stage it was added to, an
 
 CR was done by a group of developers and yet it still was cost-effective as defects’ find-and-fix cycle was extremely long and expensive.
 
-Problematic sociodynamics that I highlight below were not that important as software developers’ time was cheap and the demand for developers labour was low.
+Problematic sociodynamics that I highlight below were not that important as software developers’ time was cheap and the demand for developers’ labour was low.
 
-Also the 
+Also androgogical practice wasn’t that well applied to software development as most of the software developers were already highly educated, and could learn well.
 
-Вопрос обучения и распространения знаний о коде тоже не стоял так резко. Программист, написавший некорректный код, вполне себе дообучался сам или с помощью коллег.
+But decades passed, computers’ computation time became extremely cheap, defects’ find-and-fix cycle became very short in most cases while software developers’ time was becoming more and more expensive.
 
-С течением времени время компьютеров становилось дешевле, программистов дороже. Цикл «загрузил код — выполнил — проверил результаты» стал короче и дешевле в большинстве случаев.
-
-В некоторых случаях (прошивки «железа», например) цикл «загрузил — выполнил — проверил результаты» сократился, но несущественно.
-
-Получается, что для целей обнаружения ошибок со временем ревизия кода становится всё менее экономически целесообразной.
-
-Где-то к концу 80-х вопрос экономической нецелесообразности групповой ревизии кода встаёт в сообществе, многие компании начинают переходить к практике ревизии кода в малых группах или даже 1-1.
+The question of CR’s economical efficiency for defects’ detection started to arise around 80th, when many companies shifted from group CR to mini-group CR or even peer CR (1-to-1).
 
 В 1996 году публикуется работа авторов A. Porter, H. Siy, и L. Votta — [A review of software inspections](https://www.sciencedirect.com/science/article/pii/S0065245808604842), в которой авторы составили таксономию подходов к ревизии кода и анализируют экономическую целесообразность разных подходов.
 
