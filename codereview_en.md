@@ -30,19 +30,21 @@ But decades passed, computers’ computation time became extremely cheap, defect
 
 The question of CR’s economical efficiency for defects’ detection started to arise around 80th, when many companies shifted from group CR to mini-group CR or even peer CR (1-to-1).
 
-В 1996 году публикуется работа авторов A. Porter, H. Siy, и L. Votta — [A review of software inspections](https://www.sciencedirect.com/science/article/pii/S0065245808604842), в которой авторы составили таксономию подходов к ревизии кода и анализируют экономическую целесообразность разных подходов.
+In 1996 A. Porter, H. Siy, и L. Votta published their work [A review of software inspections](https://www.sciencedirect.com/science/article/pii/S0065245808604842) where they provided CR approaches taxonomy and analysed their economical efficiency.
 
-Вывод, к которому пришли авторы:
+These were the conclusions:
 
 > At the global level we see that software inspection is still an effective method for detecting and removing defects.
 > However, whether it is cost-effective remains to be seen.
 
-К концу прошлого тысячелетия осталось совсем мало отраслей, где цикл «загрузил код — выполнил — проверил результаты» оставался дороже, чем время программистов, затрачиваемое на ревизию кода. С другой стороны, стало появляться всё больше автоматизированных средств выявления дефектов:
-- компиляторы и интерпретаторы выдавали всё больше информации
-- линтеры и статические анализаторы становились всё лучше
-- юнит, интеграционные и функциональные тесты отрабатывали всё быстрее
-- отладчики работали все лучше
-- получили физическую возможность и распространение практики парного проектирования и программирования
+So by the end of the last millennia there were only a few areas where «loading code -> running code -> checking results» cycle was more expensive than developers’ time spent on CR.
+
+On the other side more and more automated defects detecting tools appeared:
+- compilers, interpreters and debuggers were providing more and more information
+- linters and static analyzers were improving
+- unit, integrational and functional tests were getting faster and faster
+- pair programming practices were becoming more popular
+
 
 Таким образом, кажется, что уже к 2000 экономического обоснования использования процесса ревизии кода для обнаружения дефектов почти не осталось.
 
