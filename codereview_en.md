@@ -45,8 +45,8 @@ On the other side more and more automated defects detecting tools appeared:
 - unit, integrational and functional tests were getting faster and faster
 - pair programming practices were becoming more popular
 
+It seems that by 2000 using CR to detect defects had almost no economical justification.
 
-Таким образом, кажется, что уже к 2000 экономического обоснования использования процесса ревизии кода для обнаружения дефектов почти не осталось.
 
 К нулевым индустрия пережила огромный приток инвестиций и кадров, и, соответственно, общий уровень управленческой компетенции неизбежно снизился.
 
