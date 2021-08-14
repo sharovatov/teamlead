@@ -3,9 +3,15 @@
 Code review = CR.
 
 !!! **Короткая ссылка на эту страницу**: `https://git.io/codereview_analysis`
-I will try to investigate CR limits to applicability.
+I will try to investigate CR limits to applicability, iterating each (result, price) tuple.
 
 ## CR used to find defects
+
+One of the first goals that CR is expected to achieve is usually stated as «find defects».
+
+Usually CR is used in «blocking» or «sync» way whereas the code is not made available to the client until it gets reviewed.
+
+There is an interesting history of this tool.
 
 In 60th software deployment and verification cycle was quite long and computer time was more expensive than developers’ time.
 
@@ -45,24 +51,22 @@ On the other side more and more automated defects detecting tools appeared:
 - unit, integrational and functional tests were getting faster and faster
 - pair programming practices were becoming more popular
 
-It seems that by 2000 using CR to detect defects had almost no economical justification.
+It seems that by 2000 using CR to detect defects had almost no economical justification but was still used widely.
 
+My hypothethis is that this using a tool which is not effective was due to the unprecedented growth the industry witnessed: companies grew blazingly fast, developers got promoted to managerial roles with almost no training so that rational sociotechnical systems and processes design was (and still is) almost a «no-clue».
 
-К нулевым индустрия пережила огромный приток инвестиций и кадров, и, соответственно, общий уровень управленческой компетенции неизбежно снизился.
-
-Огромный поток бывших инженеров, не занимавшихся организацией процессов производства, но бывших субъектами и участниками этих процессов, стали играть управленческие роли.
-
-Например, в работе [Information Needs in Contemporary Code Review](https://fpalomba.github.io/pdf/Conferencs/C36.pdf) товарищей Pascarella, Spadini, Palomba, Bruntink, Bachelli говорится:
+Pascarella, Spadini, Palomba, Bruntink, Bachelli in their
+ [Information Needs in Contemporary Code Review](https://fpalomba.github.io/pdf/Conferencs/C36.pdf) work are somewhat proving my hypothethis
 
 > Even though studies have shown that modern code review has the potential to support software quality and dependability [17, 39, 41], researchers have also provided strong empirical evidence that the outcome of this process is rather erratic and often unsatisfying or misaligned with the expectations of participants [2, 10, 37].
 
-Исследования подверждают, что руководители просто слепо копируют устоявшиеся практики без какого-либо критического осмысления.
-
-Например, интересно, что в вышедшей в 2013 году статья товарищи авторы Alberto Bacchelli и Christian Bird — [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf), резюмируют:
+Also Alberto Bacchelli & Christian Bird in their 2013’s [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf) work find:
 
 > Our results show that, although the top motivation driving code reviews is finding defects, the practice and the actual outcomes are less about finding errors than expected: Defect related comments comprise a small proportion and mainly cover small logical low-level issues.
 
-Как мы видим, к 2013 году у специалистов начинает формироваться понимание, что использование ревизии кода для поиска дефектов уже не имеет ни экономической целесообразности, ни фактической.
+Once again, it seems that now there is pretty much no economical benefit in using CR for finding defects (and if your team expects CR to find defects, I encourage you to check the CR history and see how many defects were found and how much CR process costs).
+
+
 
 При этом до сих пор в индустрии массово используется ревизия кода в блокирующем формате — когда для того, чтобы код оказался в системе, нужно получить формальное согласование коллеги-ревизора.
 
