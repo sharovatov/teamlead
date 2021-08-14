@@ -24,13 +24,11 @@ The cycle consisted of the following steps:
 - inspecting the test computation results
 - if anything goes wrong, loading previous software version’s cards to the computer and rejecting the new version — moving it back to development
 
-You can easily guess why CR instrument appeared, which stage it was added to, and why it was very cost-effective.
+You can easily guess why CR instrument appeared, which stage it was added to, and why it was very cost-effective in a blocking way.
 
 CR was done by a group of developers and yet it still was cost-effective as defects’ find-and-fix cycle was extremely long and expensive.
 
 Problematic sociodynamics that I highlight below were not that important as software developers’ time was cheap and the demand for developers’ labour was low.
-
-Also androgogical practice wasn’t that well applied to software development as most of the software developers were already highly educated, and could learn well.
 
 But decades passed, computers’ computation time became extremely cheap, defects’ find-and-fix cycle became very short in most cases while software developers’ time was becoming more and more expensive.
 
