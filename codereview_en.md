@@ -98,15 +98,9 @@ To summarise, you might find that «blocking» CR is economically ineffective as
 
 Next goal most often cited as one that CR achieves is knowledge sharing.
 
-Если вы как руководитель проведёте подобное исследование, чаще всего окажется, что инструмент ревизии кода экономически нецелесообразен для обнаружения дефектов: находит мало дефектов, но сильно замедляет разработку. Будьте аккуратны, сознание иррационально довольно крепко держится за привычки, и может сделать «финт», и внезапно ревизия кода уже «не только для дефектов, но и для обучения и обмена знаниями».
+## CR as knowledge sharing tool
 
-Понятно, что во фразе «не только для дефектов» подразумевается на самом деле «совсем не для дефектов».
-
-## Ревизия кода как обмен знаниями
-
-Иногда руководители говорят, что используют ревизию кода для обмена знаниями внутри команды о том, как функционал реализован, чтобы «улучшить командное владение кодом».
-
-Если снова обратиться к работе товарищей Bachelli и Bird, мы увидим, что таких руководителей много и правда:
+Alberto Bacchelli & Christian Bird in their 2013’s [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf) work have this:
 
 > one of the things that should be happening with code reviews over time is a distribution of knowledge. If you do a code review and did not learn anything about the area and you still do not know anything about the area, then that was not as good code review as it could have been.
 
@@ -118,35 +112,42 @@ Next goal most often cited as one that CR achieves is knowledge sharing.
 
 > Programmers answering the survey declared knowledge transfer to be their first motivation for code review in 73 (8%) cases, their second in 119 (14%), and their third in 141 (16%).
 
-Фокус эффекта тут на команде, мол, члены команды получают знания о новом коде.
+These findings do show that for some reason developers and managers consider CR to be a proper tool for knowledge sharing.
 
-Но если ревизия кода используется для обмена знаниями, надо ли использовать этот инструмент в блокирующем формате?
+It seems that if we consider CR as knowledge sharing tool, we should not even consider using it in «blocking» mode — as knowledge sharing isn’t as urgent as deploying code.
 
-Можем ли мы перестать блокировать путь каждой фичи? Например, выпустить функционал на прод, и потом уже изучать написанный код сколь угодно долго?
+## CR as a process of teaching
 
-Но не будем забывать об иррациональности сознания, прочно держащегося за привычки даже в свете очевидных фактов, показывающих неэффективность этих привычек.
+Let’s start with some theory.
 
-Внезапно фокус эффекта ревизии кода перемещается на пишущего код. Руководитель говорит «джун пишет код, и **ему** нужно указать на потенциальные неоптимальности и проблемы».
+**What is teaching?**
 
-## Ревизия кода как инструмент обучения написавшего код
-
-Начну с теории.
-
-**Что же такое обучение?**
+Teaching is an pedagogical (or, in most of our cases, androgogical) process of organising and stimulating student’s activities aimed at understanding and appropriating certain knowledge and skills.
 
 Обучение — целенаправленный педагогический процесс организации и стимулирования активной учебно-познавательной деятельности учащихся по овладению знаниями, умениями и навыками.
 
-Под обучением, в узком смысле, понимается руководство учением. В широком понимании обучение — процесс двусторонний, он включает передачу и усвоение учебного материала, то есть деятельность учителя (преподавание) и учащихся (учение).
+So teaching process essentially is managing the process of learning. Teaching process is bi-directional, it includes both information transfer and accepting, understanding and appropriating of the transferred information. The process includes activities performed by both teacher and student.
 
-Получается, что если рассматривать ревизию кода как процесс обучения, то передача навыков происходит _после_ практики, совершенной без навыков или с их недостатком.
+Effective teaching process generally consists of the following steps:
+- teacher provides information, gives theoretical background and guides through practical activities
+- student spends time on practicing
+- teacher verifies results and highlights mistakes
+- student practices again
 
-Грубо говоря, сначала человек делает «неправильно», потом ему показывают, как неправильно он сделал и просят переделать.
+With CR the process consists of these steps:
+- student spends time on practicing
+- teacher verifies results and highlights mistakes
+- student practices again
 
-Ключевое различие между обучением и «тыканьем в ошибки» в ревизиях кода в том, что обучением занимаются **до** практики.
+Isn’t it obvious that the essential step is missing here?
 
-Достаточно посмотреть на любой методический материал нормальный — везде можно увидеть вначале передачу знаний, потом их закрепление на практике, но не наоборот.
+Teacher never explains why and how things should be done, so student has to rely on either knowledge from previous occasions when she practiced, or has to blindly guess.
 
-Также хороший процесс обучения показывает улучшение качества практики у обучаемого — то есть, в домашних работах на одну тему должно становиться всё меньше ошибок.
+Also proper teaching process improves student’s skills, so that every next task in the same knowledge domain is done with less and less mistakes.
+
+If CR was effective as a teaching process, wouldn’t every developer have zero mistakes after some time? If yes, how long have you been using CR and why do you still use it? :)
+
+
 
 Получается, что с точки зрения педагогики чем больше ошибок допускает обучаемый в практике, тем больше внимания нужно уделять его дообучению. Иначе говоря — если ревизия кода показала, что обучаемый допускает много ошибок, его необходимо _доучить_, прежде, чем допускать до практики снова.
 
