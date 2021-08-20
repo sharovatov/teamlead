@@ -1,4 +1,4 @@
-# Code review — плохо, дорого, не нужно (в большинстве случаев)
+# Code review — bad, expensive, ineffective (in most cases)
 
 Code review = CR.
 
@@ -96,6 +96,7 @@ You might also find that you are amongst those who rarely find any defects durin
 
 To summarise, you might find that «blocking» CR is economically ineffective as a tool used for finding defects.
 
+Next goal most often cited as one that CR achieves is knowledge sharing.
 
 Если вы как руководитель проведёте подобное исследование, чаще всего окажется, что инструмент ревизии кода экономически нецелесообразен для обнаружения дефектов: находит мало дефектов, но сильно замедляет разработку. Будьте аккуратны, сознание иррационально довольно крепко держится за привычки, и может сделать «финт», и внезапно ревизия кода уже «не только для дефектов, но и для обучения и обмена знаниями».
 
@@ -186,6 +187,11 @@ To summarise, you might find that «blocking» CR is economically ineffective as
 **Работа с фокусом на одной задаче гораздо продуктивнее**.
 
 Стало быть, если дать возможность людям фокусироваться на их конкретной задаче, их труд будет значительно более продуктивным, чем если отрывать их, прося срочно выполнить ревизию чьего-то кода.
+
+to cover:
+- pci dss
+- 
+
 
 ## Ссылки
 
