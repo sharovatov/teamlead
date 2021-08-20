@@ -30,7 +30,7 @@ CR was done by a group of developers and yet it still was cost-effective as defe
 
 Problematic sociodynamics that I highlight below were not that important as software developers’ time was cheap and the demand for developers’ labour was low.
 
-But decades passed, computers’ computation time became extremely cheap, defects’ find-and-fix cycle became very short in most cases while software developers’ time was becoming more and more expensive.
+Decades passed, computers’ computation time became extremely cheap, defects’ find-and-fix cycle became very short in most cases while software developers’ time was becoming more and more expensive.
 
 The question of CR’s economical efficiency for defects’ detection started to arise around 80th, when many companies shifted from group CR to mini-group CR or even peer CR (1-to-1).
 
@@ -41,7 +41,7 @@ These were the conclusions:
 > At the global level we see that software inspection is still an effective method for detecting and removing defects.
 > However, whether it is cost-effective remains to be seen.
 
-So by the end of the last millennia there were only a few areas where «loading code -> running code -> checking results» cycle was more expensive than developers’ time spent on CR.
+By the end of the last millennia there were only a few areas where «loading code -> running code -> checking results» cycle was more expensive than developers’ time spent on CR.
 
 On the other side more and more automated defects detecting tools appeared:
 - compilers, interpreters and debuggers were providing more and more information
@@ -62,39 +62,40 @@ Also Alberto Bacchelli & Christian Bird in their 2013’s [Expectations, Outcome
 
 > Our results show that, although the top motivation driving code reviews is finding defects, the practice and the actual outcomes are less about finding errors than expected: Defect related comments comprise a small proportion and mainly cover small logical low-level issues.
 
-Once again, it seems that now there is pretty much no economical benefit in using CR for finding defects (and if your team expects CR to find defects, I encourage you to check the CR history and see how many defects were found and how much CR process costs).
+Once again, it seems that now there is pretty much no economical benefit in using CR for finding defects
 
+If your team expects CR to find defects, I encourage you to check the efficiency of the process.
 
+## Calculating the cost
 
-При этом до сих пор в индустрии массово используется ревизия кода в блокирующем формате — когда для того, чтобы код оказался в системе, нужно получить формальное согласование коллеги-ревизора.
+Typical process involving «blocking» CR will look somewhat similar to this:
+1. a snippet of code (usually a feature or some self-contained part of it) is passed to «CR» stage
+2. ** ... code awaits for CR ... **
+3. code is reviewed, defects are found (step 4) or not found (step 6)
+4. code is passed back to development
+5. **... code awaits fixing ...**
+6. code is fixed and passed to CR stage again
 
-Чтобы проверить экономический эффект от использования ревизии кода для обнаружения дефектов, проведите простые подсчёты.
+This is an optimistic scenario where code gets fixed only once.
 
-## Как посчитать
+You can certainly gather stats on time code spent in each state.
 
-Типовой сценарий процесса выпуска кода с ревизией выглядит так:
-- написанный код сдали на ревизию
-- **... ожидание ревизии ...**
-- происходит ревизия кода
-- код возвращается на доработку
-- **... ожидание доработки ...**
-- происходит доработка кода, код снова передаётся на ревизию
-
-Этот сценарий — оптимистичен, в нём всего один цикл доработки.
-
-У вас наверняка есть статистика по времени нахождения задачи в каждом из приведённых статусов, посчитайте среднее время, потребное на прохождение этих статусов.
-
-Например, [товарищи из Google посчитали задержку](https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google):
+[Google calculated the overall time spent](https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google):
 
 > During the week, 70% of changes are committed less than 24 hours after they are mailed out for an initial review.
 
-Дальше возьмите набор последних ревизий и обратите внимание, какие дефекты были обнаружены. Сформулируйте их критичность.
+## Checking the effect
 
-Потом попробуйте представить, какими другими, более дешёвыми процессными решениями можно было бы обнаружить эти дефекты.
+Now take a few code revisions and check how many defects were found during CR process and formulate how critical they were.
 
-Например, товарищи Jacek Czerwonka, Michaela Greiler и Jack Tilford в Microsoft [посмотрели и обнаружили](https://pdfs.semanticscholar.org/c079/0dc547c56ca48b78bc418b21cc0687513743.pdf):
+At this stage it should be obvious if you’re paying the right price for the amount of defects you find.
+
+You might also find that you are amongst those who rarely find any defects during CR at all — Jacek Czerwonka, Michaela Greiler and Jack Tilford at Microsoft [found that](https://pdfs.semanticscholar.org/c079/0dc547c56ca48b78bc418b21cc0687513743.pdf):
 
 > Code reviews do not find as many bugs as you may think
+
+To summarise, you might find that «blocking» CR is economically ineffective as a tool used for finding defects.
+
 
 Если вы как руководитель проведёте подобное исследование, чаще всего окажется, что инструмент ревизии кода экономически нецелесообразен для обнаружения дефектов: находит мало дефектов, но сильно замедляет разработку. Будьте аккуратны, сознание иррационально довольно крепко держится за привычки, и может сделать «финт», и внезапно ревизия кода уже «не только для дефектов, но и для обучения и обмена знаниями».
 
