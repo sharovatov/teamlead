@@ -147,11 +147,11 @@ Also proper teaching process improves student’s skills, so that every next tas
 
 If CR was effective as a teaching process, wouldn’t every developer have zero mistakes after some time? If yes, how long have you been using CR and why do you still use it? :)
 
+If CR highlights multiple mistakes in developers’ work every time, I would suggest you consider spending time on proper teaching.
 
+Or, ditch the CR (for this goal) altogether in favour of design review (see below).
 
-Получается, что с точки зрения педагогики чем больше ошибок допускает обучаемый в практике, тем больше внимания нужно уделять его дообучению. Иначе говоря — если ревизия кода показала, что обучаемый допускает много ошибок, его необходимо _доучить_, прежде, чем допускать до практики снова.
-
-Если во время ревизии кода обнаруживается множество ошибок и обнаруживаются они раз за разом, возникает вопрос о качестве процесса адаптации в команде.
+Another negative implication CR has here is that developer _learns_ the wrong way first, then reviewer highlights mistakes and the developer corrects herself. This means that wrong way of doing is remembered first.
 
 ## Другие негативные факторы, привносимые практикой ревизии кода
 
