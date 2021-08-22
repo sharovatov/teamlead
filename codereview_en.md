@@ -153,9 +153,13 @@ Or, ditch the CR (for this goal) altogether in favour of design review (see belo
 
 Another negative implication CR has here is that developer _learns_ the wrong way first, then reviewer highlights mistakes and the developer corrects herself. This means that wrong way of doing is remembered first.
 
-## Другие негативные факторы, привносимые практикой ревизии кода
+## Other negative effects CR has
 
-### Негативные социальные динамики вследствие аппроприации результатов труда
+### Negative sociodynamics due to association of work results with self
+
+Every human being associates her work results with herself.
+
+Valuing things we spend effort on doing is  innate to our nature.
 
 Человеку свойственно «присваивать» результат своего труда. Когда сотрудник написал код, он ощущает его «своим детищем», и все комментарии и указания «переделай вот так» воспринимает «на свой счёт».
 
