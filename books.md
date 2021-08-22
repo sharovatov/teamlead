@@ -129,3 +129,11 @@
 Книга обязательна к прочтению всем.
 
 Купить можно [тут](https://www.labirint.ru/books/746160/).
+
+## Introduction to psycholinguistics
+
+**Автор**: Mathew J. Traxler
+
+Матфей составил прямо-таки показательно качественный учебник по психолингвистике: о том, как взаимосвязаны речь, язык и мышление.
+
+Купить можно [в Wiley](https://www.wiley.com/en-us/Introduction+to+Psycholinguistics%3A+Understanding+Language+Science-p-9781405198622)
