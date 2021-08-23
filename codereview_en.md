@@ -175,26 +175,21 @@ Solving the problem properly would be introducing teaching or planning phase bef
 
 ### Cost of focus switch
 
+Using CR in blocking mode means that the team is naturally motivated to review the code as soon as possible to get it deployed.
 
+This means that «blocking» CR introduces one more reason for developers to switch their context.
 
-Выполняемый в синхронном формате процесс ревизии кода (сделал задачу — ждёшь ревизии — выкладываешь задачу) характеризуется не только долгим периодом ожидания, но и необходимость «отрыва» сотрудников-ревизоров от выполняемых ими задач.
+There are multiple publications on how multitasking and switching contexts are ineffective:
 
-Человеческий мозг плохо предназначен для выполнения нескольких задач одновременно. Мы можем «думать» лишь одну мысль, но можем пытаться переключаться между ними часто, считая, что мы «многозадачны».
+- [The myth of multitasking, Nass, 2013](https://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking)
+- [Multitasking: Switching costs (american psychological association)](https://www.apa.org/research/action/multitask)
+- [Executive Control of Cognitive Processes in Task Switching — Joshua S. Rubinstein, David E. Meyer, Jeffrey E. Evans](https://www.apa.org/pubs/journals/releases/xhp274763.pdf)
+- [Reconfiguration of task-set: is it easier to switch to the weaker task?](https://pubmed.ncbi.nlm.nih.gov/11004879/)
+- [Executive Control of Cognitive Processes in Task Switching](https://www.apa.org/pubs/journals/releases/xhp274763.pdf)
 
-Иногда встречается мнение, что ревизия кода является более простой задачей, и переключение на неё является «отдыхом».
+There’s good scientific evidence that work on one single task at a time with as few context switches as possible.
 
-Однако, [исследования](https://pubmed.ncbi.nlm.nih.gov/11004879/) [показывают](https://www.apa.org/pubs/journals/releases/xhp274763.pdf), что какими бы не были типы задач, между которыми пытаются переключаться люди, потери времени значительны и неизбежны.
-
-**Работа с фокусом на одной задаче гораздо продуктивнее**.
-
-Стало быть, если дать возможность людям фокусироваться на их конкретной задаче, их труд будет значительно более продуктивным, чем если отрывать их, прося срочно выполнить ревизию чьего-то кода.
-
-to cover:
-- pci dss
-- 
-
-
-## Ссылки
+## References
 
 - [A review of software Inspections, Porter, Siy, Votta, 1996](https://www.researchgate.net/publication/222504163_A_Review_of_Software_Inspections)
 - [Expectations, Outcomes, and Challenges of Modern Code Review, 2013](https://sback.it/publications/icse2013.pdf)
