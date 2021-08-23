@@ -2,7 +2,7 @@
 
 Code review = CR in a «blocking» mode (where code waiting for review is not deployed until reviewed).
 
-I will try to investigate CR limits to applicability, iterating each (result, price) tuple.
+I will try to investigate CR limits to applicability.
 
 ## CR used to find defects
 
