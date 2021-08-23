@@ -1,8 +1,7 @@
 # Code review — bad, expensive, ineffective (in most cases)
 
-Code review = CR.
+Code review = CR in a «blocking» mode (where code waiting for review is not deployed until reviewed).
 
-!!! **Короткая ссылка на эту страницу**: `https://git.io/codereview_analysis`
 I will try to investigate CR limits to applicability, iterating each (result, price) tuple.
 
 ## CR used to find defects
