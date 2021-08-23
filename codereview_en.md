@@ -159,13 +159,13 @@ Another negative implication CR has here is that developer _learns_ the wrong wa
 
 Every human being associates her work results with herself.
 
-Valuing things we spend effort on doing is  innate to our nature.
+Valuing things we spend effort on doing is innate to our nature.
 
-Человеку свойственно «присваивать» результат своего труда. Когда сотрудник написал код, он ощущает его «своим детищем», и все комментарии и указания «переделай вот так» воспринимает «на свой счёт».
+Whenever a developer receives feedback like «this has to be redone», she will inevitably associate this feedback with herself.
 
-Неизбежен сценарий «обиды» разработчика, которого «разнесли на ревью». Люди справляются с подобным сценарием по-разному. Часто слышать можно мнение «что ж он за разработчик такой, что обижается». Ну, а зачем проектировать систему и процесс разработки ПО таким образом, чтоб появлялся потенциал негативных социальных динамик?
+More effort a person spent on doing something, more vulnerable she is to the critics. And while she hadn’t been taught properly how the problem should have been solved, she considers negative feedback even worse.
 
-В интернете множество литературы о том, как разные компании пытаются решить эту проблему. Например, рекомендуют ревизорам что-то вроде «address the code not the person» и проч. К сожалению, эти попытки решить изначальную проблему «присвоения результата» выглядят «костылями», а не «лекарством».
+Internet’s full of posts and articles on how to «solve» this «negativity problem». Most of these posts talk on how to provide more «positive» feedback. However, none of them offer to solve the problem properly.
 
 Я обнаружил [целого специалиста, пытающегося научить, как «починить» негативные социальные динамики, рождаемые процессом ревизии кода](https://www.michaelagreiler.com/accept-code-review-feedback/). Всё, что угодно, лишь бы не изначальную проблему решить, убрав процесс ревизии кода вовсе.
 
