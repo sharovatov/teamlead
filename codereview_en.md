@@ -165,21 +165,17 @@ Whenever a developer receives feedback like «this has to be redone», she will 
 
 More effort a person spent on doing something, more vulnerable she is to the critics. And while she hadn’t been taught properly how the problem should have been solved, she considers negative feedback even worse.
 
-Internet’s full of posts and articles on how to «solve» this «negativity problem». Most of these posts talk on how to provide more «positive» feedback. However, none of them offer to solve the problem properly.
+Internet’s full of posts and articles on how to «solve» this «negativity problem». Most of these posts talk on how to provide more «positive» feedback.
 
-Я обнаружил [целого специалиста, пытающегося научить, как «починить» негативные социальные динамики, рождаемые процессом ревизии кода](https://www.michaelagreiler.com/accept-code-review-feedback/). Всё, что угодно, лишь бы не изначальную проблему решить, убрав процесс ревизии кода вовсе.
+Microsoft even hired a [fully dedicated specialist](https://www.michaelagreiler.com/accept-code-review-feedback/) working on this issue.
 
-Нормальным «лекарством» является простое налаженное обучение и парное программирование, выполняемое до тех пор, пока сотрудник не начнёт производить нужного качества код.
+However, this all seems palliative treatment, none of these approaches offer to solve the problem properly.
 
-Стилистические же различия в коде и вовсе не стоят того, чтобы из-за них блокировалась поставка кода потребителям. Здесь я снова предложу обратить внимание на цену такой задержки.
+Solving the problem properly would be introducing teaching or planning phase before the effort on doing the task is spent and feeling of achievement emerges.
 
-К тому же для многих языков программирования есть средства, позволяющие или автоматизировать стилизацию, или же не допустить оформленный по «неправильному» стилю код в репозиторий.
+### Cost of focus switch
 
-Для javascript, например, дело решается eslint + prettier + husky.
 
-Чтобы сравнить «обучение с помощью ревизии кода» и «обучение» нормальное, попробуйте провести эксперимент.
-
-### Цена отвлечения
 
 Выполняемый в синхронном формате процесс ревизии кода (сделал задачу — ждёшь ревизии — выкладываешь задачу) характеризуется не только долгим периодом ожидания, но и необходимость «отрыва» сотрудников-ревизоров от выполняемых ими задач.
 
