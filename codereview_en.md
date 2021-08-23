@@ -149,7 +149,7 @@ If CR was effective as a teaching process, wouldn’t every developer have zero 
 
 If CR highlights multiple mistakes in developers’ work every time, I would suggest you consider spending time on proper teaching.
 
-Or, ditch the CR (for this goal) altogether in favour of design review (see below).
+Or, ditch the CR (for this goal) altogether in favour of design review.
 
 Another negative implication CR has here is that developer _learns_ the wrong way first, then reviewer highlights mistakes and the developer corrects herself. This means that wrong way of doing is remembered first.
 
