@@ -69,7 +69,7 @@ If your team expects CR to find defects, I encourage you to check the efficiency
 
 Typical process involving «blocking» CR will look somewhat similar to this:
 1. a snippet of code (usually a feature or some self-contained part of it) is passed to «CR» stage
-2. ** ... code awaits for CR ... **
+2. **... code awaits for CR ...**
 3. code is reviewed, defects are found (step 4) or not found (step 6)
 4. code is passed back to development
 5. **... code awaits fixing ...**
@@ -122,8 +122,6 @@ Let’s start with some theory.
 **What is teaching?**
 
 Teaching is an pedagogical (or, in most of our cases, androgogical) process of organising and stimulating student’s activities aimed at understanding and appropriating certain knowledge and skills.
-
-Обучение — целенаправленный педагогический процесс организации и стимулирования активной учебно-познавательной деятельности учащихся по овладению знаниями, умениями и навыками.
 
 So teaching process essentially is managing the process of learning. Teaching process is bi-directional, it includes both information transfer and accepting, understanding and appropriating of the transferred information. The process includes activities performed by both teacher and student.
 
