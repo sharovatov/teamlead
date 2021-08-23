@@ -34,7 +34,7 @@
 - [все ребята хороши: рост или не рост?](growth-stability.md)
 
 ## Рационализация процессов
-- [code review — обзор истории и анализ целесообразности](codereview.md)
+- [code review — обзор истории и анализ целесообразности](codereview.md) [EN](codereview_en.md)
 - [готовим к увольнению с первого дня](firing.md)
 - [правовые нюансы увольнения](firing_law.md)
 - [github effect — почему писать статьи выгодно](github-effect.md)
