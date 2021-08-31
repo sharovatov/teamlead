@@ -9,7 +9,7 @@ Eсли хотите, чтобы я выступил с какой-то темо
 - [ ] основы психологии для тимлидов с Кириллом Зубовым ([голосовать](https://github.com/sharovatov/teamlead/issues/9))
 - [ ] о подготовке к выступлениям ([голосовать](https://github.com/sharovatov/teamlead/issues/10))
 - [ ] 16 сентября, [Saint TeamLead Conf](https://teamleadconf.ru/spb/2021/abstracts/7658tlconf.info), Санкт-Петербург, оффлайн+онлайн: работа тимлида с людьми начинается до найма и не заканчивается с уходом из компании
-- [ ] 18 июня: как и зачем строить культуру менторства в компании — [techrec 2021](https://www.techrec.co/programpreview2021)
+- [ ] 4 сентября, [RndTech](https://rndtech.pro/tpost/x589kgyzh1-obuchenie-bistro-dyoshevo-kachestvenno), Ростов-на-Дону, офлайн: Обучение — быстро, дёшево, качественно (статья, слайды и видео будут позже)
 - [x] 30 мая: работа с инновациями или как тимлиду перестать быть плохим для всех — [codefest 2021](https://11.codefest.ru/lecture/1777) ([статья](talks/innovations.md), [слайды](talks/innovations.key), видео будет позже)
 - [x] 22 мая: митап «RndTech + Тимлид на диване»: нужно ли оценивать сроки? ([статья](talks/estimation_and_tracking.md), [видео](https://www.youtube.com/watch?v=quzrjdXKz2s), [слайды](talks/estimations.key))
 - [x] 29 апреля, headz.io, онлайн: Должностные Инструкции, обзор. [Статья](talks/kdp.md), [видео]()
