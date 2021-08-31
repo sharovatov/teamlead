@@ -41,6 +41,7 @@
 - [github effect — почему писать статьи выгодно](github-effect.md)
 - [кружок качества](quality_circle.md)
 - [кружок выступающих](speaking_club.md)
+- [PDR — process decision record](PDR.md)
 
 ## Курсы, семинары, обучающие программы
 - [курс по найму](recruiter_course.md)
