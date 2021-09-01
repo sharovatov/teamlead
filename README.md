@@ -35,7 +35,7 @@
 - [все ребята хороши: рост или не рост?](growth-stability.md)
 
 ## Process rationalisation
-- [‘code review’ review — history and effectiveness ](codereview_en.md) (translations: [:ru:](codereview.md))
+- [‘code review’ review — history and effectiveness ](codereview_en.md) (translations: [:ru: Russian](codereview.md))
 - [готовим к увольнению с первого дня](firing.md)
 - [правовые нюансы увольнения](firing_law.md)
 - [github effect — почему писать статьи выгодно](github-effect.md)
