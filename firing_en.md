@@ -29,24 +29,26 @@ There’s a good saying that precisely characterises a catastrophic situation of
 
 This saying is almost always true: a new starter has some trust and loyalty credit which diminishes more and more with each managerial fuck-up: starting with “cargo-cult” implementations of some practices and ending with abusing developer’s trust.
 
-A good example of abusing developer’s trust is ignoring issues she brings.
+A good example of abusing developer’s trust is ignoring the issues she brings.
 
+Now to the point: good manager can positively influence the newjoiners, showing them that pretty much any issue can and should be discussed in a stress-free way:
+- manager shows that she accepts the fact that the employee will eventually leave the company anyway;
+- manager will do her best to increase employee’s “market value” by supporting as much growth as the employee feels comfortable.
 
-Однако руководитель может повлиять даже на новых сотрудников, с самого первого дня «готовя их к увольнению». Если руководитель сразу прозрачно и четко объяснит, что:
-- он понимает и принимает факт того, что сотрудник когда-то уволится;
-- такой обычно сложный и стрессовый вопрос, как увольнение, всегда можно будет обсудить спокойно и принять взвешенное решение;
-- способствуя росту и развитию сотрудника, он поможет ему повысить ценность на рынке труда, —
+This is quite paradoxical: earlier the manager starts preparing the developer’s leaving, longer the developer stays.
 
-то сотрудник будет совершенно поражен в хорошем смысле. Подобный подход абсолютно точно увеличит кредит доверия к руководителю. В результате получается парадокс: если руководитель готовит к увольнению как можно раньше, увольнение это оттягивается как можно дальше.
+## How to prepare developer’s leave
 
-## Как готовиться к увольнению
+Software development process generally is a process of constant knowledge accumulation.
 
-Каждый сотрудник в процессе работы накапливает знания и опыт, и по умолчанию это и есть его takeaway package.
+It’s usually a good practice to record information that will be used in the future — test plans, product documentation, ADRs etc.
 
-Весь процесс производства ПО и нашей работы вообще — процесс непрерывного накопления знаний и опыта.
+So it also might be a good idea to start collecting all the appraisal-worthy information for the employee — her growth history, her achievements, her participation in projects.
 
-Хороший руководитель иногда дает толковый «референс» сотруднику — поясняет новым работодателям, чем сотрудник был хорош, а чем не очень.
+This record can be considered a “takeaway package” for the developer when she leaves — essentially a log record of how she helped the company and how she grew as a specialist.
 
-Но что мешает начать собирать информацию о работе, зонах ответственности, успехах и неудачах сотрудника и решении им проблем (!) с самого начала, а при увольнении выдать ему подробный отчет обо всем, что он делал и как? Не думаю, что кто-то откажется от подобного приложения к резюме.
+If the manager explains a newjoiner that her takeaway package would have all this information, I don’t think she’d reject this nice addition to a good reference.
 
-Забавная штука: такой подход формирует у работников понимание, что руководитель заботится не только о выгоде компании, но и об их выгоде. А осознав это, сотрудник будет гораздо более лоялен компании и с большей вероятностью проработает в ней дольше.
+This approach also adds to employee’s feeling that the manager cares of both parties interests, not only about the company’s. And as a consequence, employee’s loyalty boosts.
+
+So, earlier the manager starts preparing employee’s leave, longer and better the employee works.
