@@ -1,4 +1,4 @@
-# Preparing developer’s firing starts on his first day
+# Preparing developer’s leave starts on her first day
 
 Manager is responsible for the whole team results. Making sure the team operates well requires not only managing software development processes, but also managing people, each one of them actually.
 
