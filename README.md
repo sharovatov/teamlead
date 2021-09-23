@@ -23,10 +23,9 @@
 - [FAQ рекрутера](recruiter_FAQ.md)
 - [примитив роста и развития](growth.md)
 
-## Культура труда
+## Work ethics and culture
 
-Команде и руководителю стоит рассмотреть следующие составляющие хорошей культуры труда и подумать, какие изменения в культуре своего труда рационально произвести:
-
+- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian: контр-интуитивные концепции в управлении](tl_bias.md)
 - [ответственность, не вина](blameless_responsibility.md)
 - [накопление знаний](knowledge.md)
 - [менторство](mentorship.md)
