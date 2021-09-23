@@ -25,7 +25,7 @@
 
 ## Work ethics and culture
 
-- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian: контр-интуитивные концепции в управлении](tl_bias.md)
+- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian: контр-интуитивные концепции в управлении](tl_bias.md))
 - [ответственность, не вина](blameless_responsibility.md)
 - [накопление знаний](knowledge.md)
 - [менторство](mentorship.md)
