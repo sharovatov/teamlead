@@ -25,7 +25,7 @@
 
 ## Work ethics and culture
 
-- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian: контр-интуитивные концепции в управлении](tl_bias.md))
+- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian](tl_bias.md))
 - [ответственность, не вина](blameless_responsibility.md)
 - [накопление знаний](knowledge.md)
 - [менторство](mentorship.md)
@@ -35,7 +35,7 @@
 
 ## Process rationalisation
 - [‘code review’ review — history and effectiveness ](codereview_en.md) (translations: [:ru: Russian](codereview.md))
-- [Preparing developer’s firing starts on her first day](firing_en.md) (translations: [:ru: Russian: готовим к увольнению с первого дня](firing.md))
+- [Preparing developer’s firing starts on her first day](firing_en.md) (translations: [:ru: Russian](firing.md))
 - [правовые нюансы увольнения](firing_law.md)
 - [github effect — почему писать статьи выгодно](github-effect.md)
 - [кружок качества](quality_circle.md)
