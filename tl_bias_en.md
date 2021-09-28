@@ -33,3 +33,18 @@ The easiest way to plan developer’s leave is to show what takeaway package she
 The takeaway package will contain all her growth log, achievements and development participation history.
 
 More [here](firing_en.md).
+
+## Adding more people to the team slows team performance
+
+
+
+## Metrics and targets hurt performance
+
+## Diversity over standards
+
+Diversity provides wider pool of options to choose from.
+
+arguing, conflicts — only constructive
+can a conflict be constructive?
+
+## processes and approaches once decided should be often reconsidered to check if they still give value
