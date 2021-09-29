@@ -24,16 +24,11 @@ What’s the business roadmap, plan and vision?
 
 The interviewer must possess clear and non-contradictory understanding of what the employee should and shouldn’t do, and how to measure their performance.
 
-У собеседника должно быть четкое и непротиворечивое понимание, что он вкладывает в понятие «тимлид» и какие критерии используются для оценки работы тимлида.
+## Who else will interview me and why?
 
-Возможно, это понимание даже прописано в должностных инструкциях.
+Some companies have absolutely ridiculous multi-tier interview process, you should find it out in advance and decide if you’re tolerant enough to waste time on them.
 
-Где-то тимлид должен быть разработчиком (то есть, писать код), где-то руководителем.
-
-## Кто ещё (кроме Вас) будет меня собеседовать и зачем?
-
-Разные компании имеют разный регламент проведения собеседований. Стоит прояснить этот вопрос заранее, чтобы не было удивления, если вас придет собеседовать уборщица и проверять квалификацию в уборке.
-
+## What was the reason of leaving of the last employee?
 ## Почему и как уволился / был уволен последний ушедший сотрудник?
 
 Собеседник обязан быть в курсе увольнения сотрудников, знать причины их ухода.
