@@ -6,17 +6,23 @@ If you think that your question should be here — send a PR.
 
 ## How does the company earn money?
 
-Является ли компания прибыльной или тратит деньги инвесторов?
+Is the company profitable?
 
-Как выглядит бизнесовый план развития?
+Does it live from investments?
 
-Если деньги инвесторские, на сколько времени их хватит?
+If yes, for how long will they last?
 
-## Официальное ли (по ТК РФ) оформление?
+Are new rounds planned?
 
-До сих пор некоторые компании используют незаконную практику «серых» зарплат в целях ухода от налогов.
+Will there be shares for the employees?
 
-## Расскажите про ваше понимание «хорошего тимлида»
+How are they vested?
+
+What’s the business roadmap, plan and vision?
+
+## What is your vision of a good employee? What do expect of them?
+
+The interviewer must possess clear and non-contradictory understanding of what the employee should and shouldn’t do, and how to measure their performance.
 
 У собеседника должно быть четкое и непротиворечивое понимание, что он вкладывает в понятие «тимлид» и какие критерии используются для оценки работы тимлида.
 
