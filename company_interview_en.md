@@ -29,11 +29,10 @@ The interviewer must possess clear and non-contradictory understanding of what t
 Some companies have absolutely ridiculous multi-tier interview process, you should find it out in advance and decide if you’re tolerant enough to waste time on them.
 
 ## What was the reason of leaving of the last employee?
-## Почему и как уволился / был уволен последний ушедший сотрудник?
 
-Собеседник обязан быть в курсе увольнения сотрудников, знать причины их ухода.
+The way how managers handle firing/leaving is very showing.
 
-Можно еще спросить контакт последнего уволившегося или уволенного человека, связаться с ним и выяснить его точку зрения на произошедшее.
+It might also be a good idea to ask for one of the leavers contacts and ask them how it all went.
 
 ## За что вообще могут уволить? Что является «провалом» в плане работы / результатов / поведения?
 
