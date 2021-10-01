@@ -8,9 +8,11 @@
 
 Список моих прошлых и предстоящих выступлений можно [посмотреть тут](alltalks.md).
 
-# Все о тимлидстве
+# Everything on team leadership
 
-Все документы — «живые», пул-реквесты, обсуждения  — welcome.
+All the documents are “live”, I try to update them whenever I find time or inspiration.
+
+Pull requests and discussions are always welcome.
 
 ## Про найм, рост и развитие
 
