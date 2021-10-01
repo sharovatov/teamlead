@@ -34,15 +34,15 @@ The way how managers handle firing/leaving is very showing.
 
 It might also be a good idea to ask for one of the leavers contacts and ask them how it all went.
 
-## За что вообще могут уволить? Что является «провалом» в плане работы / результатов / поведения?
+## What might be considered a reason to fire me?
 
-Как и в случае с пониманием, кто такой «хороший тимлид», у руководителя всегда должно быть четко транслируемое и однозначное понимание того, что является неприемлимым в работе, за что может быть сотрудник уволен.
+It’s always good to know what’s unacceptable.
 
-## Какие показатели текучести персонала в компании? Удовлетворяют ли они вас? Если нет, что делаете для улучшения показателей?
+## What is the staff turnover statistics? Are you satisfied with the current status quo? If not, what are you doing to improve the situation?
 
-Руководитель должен знать показатели текучести своих команд, и, конечно же, принимаемых мер для улучшения этого показателя.
+Good companies try to make sure employees work as long and productive as possible.
 
-## Насколько быстро растёт компания?
+## How quickly is your company growing?
 
 Взрывной рост сильно отличается от постепенного, процессы, проходящие в компании, сильно разные.
 
