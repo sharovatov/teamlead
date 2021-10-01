@@ -14,9 +14,7 @@ All the documents are “live”, I try to update them whenever I find time or i
 
 Pull requests and discussions are always welcome.
 
-## Про найм, рост и развитие
-
-Отдельные очерки про найм, рост и развитие.
+## Employee lifecycle: hiring, growth and development
 
 - [жизненный цикл сотрудника](lifecycle.md)
 - [что спросить компанию на собеседовании](company_interview.md)
