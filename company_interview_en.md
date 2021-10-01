@@ -44,9 +44,11 @@ Good companies try to make sure employees work as long and productive as possibl
 
 ## How quickly is your company growing?
 
-Взрывной рост сильно отличается от постепенного, процессы, проходящие в компании, сильно разные.
+A company growing really quickly has a very distinctive atmosphere compared to stable ones.
 
-## Расскажите про оргструктуру и взаимодействия по ней
+## What is your organisational structure? How do people operate in it?
+
+
 
 Стоит заранее разобраться в том, какая иерархия в компании, кто руководит чем, с кем предстоит взаимодействовать.
 
