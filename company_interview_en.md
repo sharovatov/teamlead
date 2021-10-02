@@ -58,9 +58,15 @@ Will you be required to travel? How often?
 
 What are the rules of travel expenses reimbursement?
 
-## Кто будет заниматься моей адаптацией и каков её процесс?
+## What is the onboarding process?
 
-В интересах нанимающего менеджера быстрая адаптация нового сотрудника, процесс адаптации должен быть хотя бы в голове определён.
+Who will be my mentor?
+
+It should be obvious that the company is interested in getting you to a full speed, so it should be a red flag if you’re just given code in a “go figure for yourself” way.
+
+## How many other candidates are competing for this position?
+
+
 
 ## Какой я по счёту кандидат на это место, почему не подошли люди до меня?
 
