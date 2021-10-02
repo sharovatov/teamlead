@@ -38,7 +38,11 @@ It might also be a good idea to ask for one of the leavers contacts and ask them
 
 It’s always good to know what’s unacceptable.
 
-## What is the staff turnover statistics? Are you satisfied with the current status quo? If not, what are you doing to improve the situation?
+## What is the staff turnover statistics?
+
+Are you satisfied with the current status quo?
+
+If not, what are you doing to improve the situation?
 
 Good companies try to make sure employees work as long and productive as possible.
 
@@ -48,17 +52,11 @@ A company growing really quickly has a very distinctive atmosphere compared to s
 
 ## What is your organisational structure? How do people operate in it?
 
+## Are there offices in other cities / countries?
 
+Will you be required to travel? How often?
 
-Стоит заранее разобраться в том, какая иерархия в компании, кто руководит чем, с кем предстоит взаимодействовать.
-
-## Офисы в других городах, командировки
-
-Предстоит ли ездить в командировки?
-
-Если да, то какие правила оплаты поездок и командировочных? Размер командировочных (суточных), не облагаемых НДФЛ — 700 рублей в сутки. Иногда компании платят больше.
-
-Минимальный лимит — 100 рублей в сутки.
+What are the rules of travel expenses reimbursement?
 
 ## Кто будет заниматься моей адаптацией и каков её процесс?
 
