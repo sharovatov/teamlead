@@ -114,19 +114,19 @@ How are they designed?
 
 Some companies blindly adopt scrum or any other rigid non-agile process
 
-## Что с безопасностью в проекте/компании?
+## What are the infosecurity politics?
 
-Есть ли СБ, какие процедуры работы с ними?
+Some companies have PCI DSS or other requirements like working through VPN with some resources blocked.
 
-Порой может быть даже полиграф.
+If you’re offered an office job, is there BYOD politics?
 
-Что с информационной безопасностью? Нет ли запретов на выход в интернет определённому софту? (Например, в одном банке, где я работал, нельзя было пользоваться телеграмом)
+## Are there overtimes?
 
-Есть ли политика BYOD?
+How often do they happen on average?
 
-## Есть ли в компании переработки, как часто? Как вы с этим боретесь?
+When was the last time when employees had to work extra time? Why did this happen?
 
-Когда это было в последний раз и по какой причине? Как были оплачены переработки сотрудникам?
+What measures do you take to prevent overtimes?
 
 ## Есть ли бюджет на обучение сотрудников? Каким образом выделяется?
 
