@@ -21,7 +21,7 @@ Pull requests and discussions are always welcome.
 ## Employee lifecycle: hiring, growth and development
 
 - [жизненный цикл сотрудника](lifecycle.md)
-- [что спросить компанию на собеседовании](company_interview.md)
+- [what to ask a company during or before the interview](company_interview_en.md) (translations: [:ru: Russian](company_interview.md))
 - [найм — что с ним не так](hiring.md)
 - [словарь рекрутера](recruiting.md)
 - [FAQ рекрутера](recruiter_FAQ.md)
