@@ -34,9 +34,15 @@ The takeaway package will contain all her growth log, achievements and developme
 
 More [here](firing_en.md).
 
-## Adding more people to the team slows team performance
+## Adding more people to the late project slows its delivery
 
+Two types of costs are added with every newjoiner:
+- onboarding costs
+- sync & comms costs
 
+Project-based approach requires estimation. Estimates are based on current status of the team, they can’t predict if an employee leaves during project.
+
+If a person leaves,
 
 ## Metrics and targets hurt performance
 

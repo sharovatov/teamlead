@@ -48,7 +48,6 @@ Pull requests and discussions are always welcome.
 - [regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md)) *placeholder for now
 
 ## Курсы, семинары, обучающие программы
-- [курс по найму](recruiter_course.md)
 - [школа кадрового резерва в АМТЕХ](https://github.com/AMTECH-dev/shkar)
 - [подготовка к выступлениям](speaking_club.md)
 
