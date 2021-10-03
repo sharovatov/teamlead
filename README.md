@@ -45,7 +45,7 @@ Pull requests and discussions are always welcome.
 - [кружок качества](quality_circle.md)
 - [кружок выступающих](speaking_club.md)
 - [PDR — process decision record](PDR.md)
-- [regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md)) *placeholder for now
+- [regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md))
 
 ## Курсы, семинары, обучающие программы
 - [школа кадрового резерва в АМТЕХ](https://github.com/AMTECH-dev/shkar)
