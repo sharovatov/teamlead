@@ -51,17 +51,12 @@ Pull requests and discussions are always welcome.
 - [школа кадрового резерва в АМТЕХ](https://github.com/AMTECH-dev/shkar)
 - [подготовка к выступлениям](speaking_club.md)
 
-## Рекомендации
+## Recommendations
 - [книги, обязательные к прочтению](books.md)
 - [доклады, что стоит посмотреть](talks.md)
 - [каналы в телеграме](tg-channels.md)
+- [articles](articles_en.md)
 
-## Мелочи
-- [.vimrc](.vimrc) — моя конфигурация вима, хорошо настроенная для работы с текстами
+## Minor things
+- [.vimrc](.vimrc) — my vim config
 
-## Донаты (₽):
-
-Если хотите поддержать мою просветительскую работу, я буду рад.
-
-- Альфа-банк MasterCard 5559 4941 2704 5937
-- YooMoney: [https://sobe.ru/na/teamlead101](https://sobe.ru/na/teamlead101)
