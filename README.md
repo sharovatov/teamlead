@@ -8,7 +8,9 @@ I’d be glad to give lectures in your company or mentor you or your teamleads.
 
 My telegram is [@vitaly19842](http://t.me/vitaly19842), feel free to text me there.
 
-The playlist of all my talks is [on youtube](https://www.youtube.com/watch?v=0DwEsMgMbj0&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY)
+The playlist of all my talks is [on youtube](https://www.youtube.com/watch?v=0DwEsMgMbj0&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
+
+I work for [Qase](https://qase.io). We promote TestOps philosophy and help companies manage quality.
 
 # Everything on team leadership
 
