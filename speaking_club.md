@@ -45,6 +45,23 @@
 
 Получается, подготовка людей размазывается равномерно по году, также формируется постоянный приток готовых для публикации или выступлений материалов.
 
+### Литература
+
+Из того, что когда-то понравилось и показалось полезным при подготовке выступлений:
+
+[Алексей Каптерев: "Мастерство презентаций"](https://www.ozon.ru/product/masterstvo-prezentatsii-28292343/?asb=WxPiIojpLPbIgVq%252BeHSxQW0kf2HkC5jBICk7Exvlooc%253D&asb2=85LijSZYjjg6kVzM9TUUHw8e4bGCp2O3Yh2bLa1uaHU&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=c7iWh4X2)
+
+[Алексей Каптерев: "Хорошая, плохая, продающая"](https://www.ozon.ru/product/horoshaya-plohaya-prodayushchaya-masterstvo-prezentatsii-2-0-kapterev-aleksey-sergeevich-253331044/?asb=UNFv%252BgCXPM578u6qPm1IhfUhbmSFW0WL1P7U3litsLU%253D&asb2=DrJR1DbbOP8ACPt6aq_ywsju0hX_H98aadABKBM7MEs&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=b92Blyz1)
+
+[Роберт МакГи: История на миллион](https://www.ozon.ru/product/istoriya-na-million-dollarov-master-klass-dlya-stsenaristov-pisateley-i-ne-tolko-makki-robert-231112410/?asb=Kpg4DM8EZUq3GQXyX5OpPvBdDamTD7S4POd%252FI%252Fh8jdE%253D&asb2=vtSC4oF8G0KR3SjQqZaepfgEIoODFCq6oCX68ie8ciz3Y4vk-sCSgPxcBPEY31XH&keywords=%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D0%BD%D0%B0+%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD&sh=vK0MD6ar)
+
+[Garr Reynolds: Presentations Zen](https://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0135800919/ref=sr_1_1?dchild=1&keywords=presentation+zen&qid=1634149613&sr=8-1)
+
+[Andrew Abela: Advanced presentations by design](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
+
+[Nancy Duarte: Resonate](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
+
+
 **добавить про:**
 - методика обучения / литература
 - примеры
