@@ -62,6 +62,3 @@
 [Nancy Duarte: Resonate](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
 
 
-**добавить про:**
-- методика обучения / литература
-- примеры
