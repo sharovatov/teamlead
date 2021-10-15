@@ -49,6 +49,8 @@
 
 Из того, что когда-то понравилось и показалось полезным при подготовке выступлений:
 
+[Сергей Гиппиус: Гимнастика чувств](https://www.ozon.ru/product/akterskiy-trening-gimnastika-chuvstv-uchebnoe-posobie-dlya-spo-gippius-sergey-vasilevich-241208378/)
+
 [Алексей Каптерев: "Мастерство презентаций"](https://www.ozon.ru/product/masterstvo-prezentatsii-28292343/?asb=WxPiIojpLPbIgVq%252BeHSxQW0kf2HkC5jBICk7Exvlooc%253D&asb2=85LijSZYjjg6kVzM9TUUHw8e4bGCp2O3Yh2bLa1uaHU&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=c7iWh4X2)
 
 [Алексей Каптерев: "Хорошая, плохая, продающая"](https://www.ozon.ru/product/horoshaya-plohaya-prodayushchaya-masterstvo-prezentatsii-2-0-kapterev-aleksey-sergeevich-253331044/?asb=UNFv%252BgCXPM578u6qPm1IhfUhbmSFW0WL1P7U3litsLU%253D&asb2=DrJR1DbbOP8ACPt6aq_ywsju0hX_H98aadABKBM7MEs&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=b92Blyz1)
