@@ -19,15 +19,16 @@ I’ve asked a question «why and what for do you need your team or individual c
 - ‘business’ needs to understand how much the feature costs
 - ‘business’ needs to be able to choose which feature to do first
 
-Попытаюсь разобраться в каждой причине.
+I will go through each reason and dig deeper.
 
-### Чтобы понять нагрузку на команду
+## To see team load/capacity
 
-Я не смог разобраться с тем, как связана нагрузка команды и желание оценить время разработки.
+I honestly could not figure out how team load or capacity yields a necessity to gather estimates.
 
-Продуктовые компании занимаются созданием новой ценности для своих клиентов и обслуживают уже созданную.
+Companies create value for their clients and support features that clients value.
 
-Ценностью может быть как сформулированный запрос клиента, как и гипотеза менеджера по продукту, так и исправление дефекта, влияющего на работу клиентов.
+The request for the value might come from client themselves, from product manager, customer support. Also the request for support might come as a request to fix a defect.
+
 
 Если на вход в разработку поступает больше запросов, чем разработка может выполнить, то есть всего три варианта решения этой проблемы:
 - подавать меньше запросов (меньше гипотез о новых нуждах от продуктового менеджера)
