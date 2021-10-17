@@ -29,11 +29,12 @@ Companies create value for their clients and support features that clients value
 
 The request for the value might come from client themselves, from product manager, customer support. Also the request for support might come as a request to fix a defect.
 
+If the team receives more requests than it can process, requests are logged, forming a backlog.
 
-Если на вход в разработку поступает больше запросов, чем разработка может выполнить, то есть всего три варианта решения этой проблемы:
-- подавать меньше запросов (меньше гипотез о новых нуждах от продуктового менеджера)
-- смотреть на потери информации в процессе производства и решать проблемы, найденные там
-- расширять команду
+If the team is not delivering enough, there are a few ways to improve the situation:
+- request less
+- check the information flow in the system and optimise the processes
+- hire more people
 
 Важно именно в вышеозначенном порядке проводить мероприятия, потому как они следуют в порядке убывания важности.
 
