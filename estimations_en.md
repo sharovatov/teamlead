@@ -12,13 +12,12 @@ I will try to investigate estimation limits to applicability and try to rational
 
 Before considering the instrument effectiveness I need to clarify the goal — why the instrument is supposed to be used.
 
-Я задал вопрос «для чего менеджеры просят оценить время» в нескольких сообществах, и вот какие основные ответы получил:
-
-- :heavy_minus_sign: «чтобы понять нагрузку на команду»
-- :heavy_plus_sign: «тендер имеет конкретные сроки»
-- :heavy_minus_sign: «чтобы бизнес знал, когда»
-- :heavy_minus_sign: «чтобы бизнес понимал, сколько стоит производство фичи»
-- :heavy_minus_sign: «чтобы бизнес мог выбрать, какую фичу делать первее»
+I’ve asked a question «why and what for do you need your team or individual contributors to estimate?», and these are the answers:
+- to see team load/capacity
+- public tender requires estimates
+- ‘business’ needs to know ‘when’
+- ‘business’ needs to understand how much the feature costs
+- ‘business’ needs to be able to choose which feature to do first
 
 Попытаюсь разобраться в каждой причине.
 
