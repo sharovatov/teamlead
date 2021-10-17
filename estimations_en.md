@@ -8,9 +8,9 @@ The definition of ‘estimation’ states that one judges approximately the size
 
 Our industry is well-known for teamleads, product managers and others demanding estimations from the team or individual contributors.
 
-Хочу попытаться рационализировать применимость инструмента «оценка времени» и выяснить границы его применимости.
+I will try to investigate estimation limits to applicability and try to rationalise the use of the instrument.
 
-Чтобы понять, нужна ли эффективность инструмента вообще, нужно сначала определиться с целью применения инструмента.
+Before considering the instrument effectiveness I need to clarify the goal — why the instrument is supposed to be used.
 
 Я задал вопрос «для чего менеджеры просят оценить время» в нескольких сообществах, и вот какие основные ответы получил:
 
