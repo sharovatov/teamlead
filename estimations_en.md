@@ -40,11 +40,7 @@ It is important to perform these activities in this particular order:
 
 1. if hypotheses quality is improved and ‘better’ features come from product managers, there’s pretty much no need to optimise the information flow in development processes
 
-Если улучшать качество гипотез в апстриме (от продуктовиков) и откидывать больше «некачественных»,нужные пользователю, и потери информации не так важны, и команду не нужно расширять.
-
-* Алексей Пименов делал недавно [хороший доклад про работу с апстримом](https://www.youtube.com/watch?v=UxMDo9N4IYU&feature=youtu.be).
-
-Если потери информации в процессе производства уменьшить, то меньше будет непродуктивной работы, и команду не нужно расширять.
+2. if information loss is decreased in the development processes, existing team can do more and there’s no need to hire more people
 
 Расширение команды — последний и наименее эффективный способ борьбы с проблемой «команда выполняет мало», так как расширение команды — очень дорогой и управленчески сложный процесс.
 
