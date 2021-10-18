@@ -36,7 +36,9 @@ If the team is not delivering enough, there are a few ways to improve the situat
 - check the information flow in the system and optimise the processes
 - hire more people
 
-Важно именно в вышеозначенном порядке проводить мероприятия, потому как они следуют в порядке убывания важности.
+It is important to perform these activities in this particular order:
+
+1. if hypotheses quality is improved and ‘better’ features come from product managers, there’s pretty much no need to optimise the information flow in development processes
 
 Если улучшать качество гипотез в апстриме (от продуктовиков) и откидывать больше «некачественных»,нужные пользователю, и потери информации не так важны, и команду не нужно расширять.
 
