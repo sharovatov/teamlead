@@ -44,9 +44,9 @@ It is important to perform these activities in this particular order:
 
 3. hiring more people is the last and the least effective way of improving team performance as increasing team members count yields higher management complexity and costs
 
-В любом случае, я не вижу, как связана «нагрузка команды» и желание пытаться оценить время выполнения запросов. Если вы понимаете, напишите мне пожалуйста.
+In any case I can’t see how ‘seeing team productivity’ is connected with estimations.
 
-:heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
+:heavy_minus_sign: **investing in estimations is not rationalised**
 
 ### Тендер имеет конкретные сроки
 
