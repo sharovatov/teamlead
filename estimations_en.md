@@ -42,7 +42,7 @@ It is important to perform these activities in this particular order:
 
 2. if information loss is decreased in the development processes, existing team can do more and there’s no need to hire more people
 
-Расширение команды — последний и наименее эффективный способ борьбы с проблемой «команда выполняет мало», так как расширение команды — очень дорогой и управленчески сложный процесс.
+3. hiring more people is the last and the least effective way of improving team performance as increasing team members count yields higher management complexity and costs
 
 В любом случае, я не вижу, как связана «нагрузка команды» и желание пытаться оценить время выполнения запросов. Если вы понимаете, напишите мне пожалуйста.
 
