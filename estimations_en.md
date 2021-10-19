@@ -66,13 +66,17 @@ Most common reasons for this request that I’ve heard are:
 - an external event with set date emerged (for example, FIFA world cup) and managers need to understand if certain features can be launched on time
 - team coordination is required
 
-#### Маркетинговая кампания
+### Marketing campaign
 
-Кажется, что ситуация, когда разработку делают «заложником» некорректно спланированного маркетинга, не является нормой.
+Marketing team works alongside IT team for the same company.
 
-Планирование и проектирование маркетинговых работ проще (меньше неизвестных), чем планирование и проектирование работ по производству ПО.
+The whole company goal is to make client happier.
 
-Стало быть, ограничением в этой связке является именно процесс производства ПО, и «завязывать» работы стоит на производство ПО.
+So why can’t these teams collaborate in a high-trust environment?
+
+Can marketing predict exact number of sales they will generate for a certain budget (essentially, the outcome)?
+
+If not, why does the IT team need to predict the outcome of their work?
 
 Сравните два сценария:
 1. разработка реализует функционал, маркетинг запускает рекламу готового функционала
