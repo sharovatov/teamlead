@@ -38,7 +38,7 @@ If the team is not delivering enough, there are a few ways to improve the situat
 
 It is important to perform these activities in this particular order:
 
-1. if hypotheses quality is improved and ‘better’ features come from product managers, there’s pretty much no need to optimise the information flow in development processes
+1. if hypotheses quality is improved and ‘better’ features come from product managers, there’s less need to optimise the information flow in development processes
 
 2. if information loss is decreased in the development processes, existing team can do more and there’s no need to hire more people
 
@@ -47,6 +47,10 @@ It is important to perform these activities in this particular order:
 In any case I can’t see how ‘seeing team productivity’ is connected with estimations.
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
+
+## Public tender has ‘production time’ as a condition
+
+The time constraint is external to the company so if the company needs this contract it has to comply.
 
 ### Тендер имеет конкретные сроки
 
