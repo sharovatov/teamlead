@@ -48,29 +48,22 @@ In any case I can’t see how ‘seeing team productivity’ is connected with e
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
-## Public tender has ‘production time’ as a condition
+## Public tender has ‘time’ and ‘budget’ as a condition
 
 The time and budget constraints are external to the company so if the company needs this contract it has to comply.
 
 The company has to decide if producing the required system within required budget and time is economically beneficial.
 
-
 :heavy_plus_sign: **investing in estimations is rationalised**
 
-### Тендер имеет конкретные сроки
+## Manager needs to know ‘when it will be done’
 
-Ограничение по времени тут внешнее для компании, потому кажется, что оценку времени приходится проводить.
+This request is very abstract.
 
-Заказчик либо доподлинно знает ожидаемую выгоду от покупки произведённой вами системы, либо по каким-то иным (внешним для компании-исполнителя) причинам готов потратить выделенную сумму.
+Most common reasons for this request that I’ve heard are:
 
-Компании-исполнителю же необходимо оценить, имеет ли исполнение контракта экономическую целесообразность, для этого же оценку времени придётся выполнить.
+- marketing campaign starts on the X date and we need to understand if the team manages to build and launch a feature
 
-
-### Чтобы бизнес знал, когда
-
-Максимально абстрактное желание, в котором хочется разобраться.
-
-Слышал следующие примеры причин такого желания:
 - маркетинговая кампания стартует Х числа, и хочется понять, успеет ли команда запустить функционал
 - событие внешнее произошло (внешнеполитическое, или экономическое, например: ЧМ по футболу), и надо понять, успеет ли команда запустить функционал
 - нужна координация работы отделов
