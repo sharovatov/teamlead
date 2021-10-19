@@ -78,11 +78,11 @@ Can marketing predict exact number of sales they will generate for a certain bud
 
 If not, why does the IT team need to predict the outcome of their work?
 
-Сравните два сценария:
-1. разработка реализует функционал, маркетинг запускает рекламу готового функционала
-2. маркетинг говорит «кампания запускается тогда-то, реализуйте»
+Compare these two scenarios:
+1. IT team produces some value for the clients and marketing team starts advertising this new value to potential and existing clients
+2. Marketing team dictates the IT team ‘the advertising campaign will be launched on X date, you must be on time’.
 
-Кажется, что первый вариант не провоцирует ухудшение качества и не требует траты времени на оценку времени.
+To me it looks that the first scenario doesn’t provoke quality decrease and also doesn’t require spending resources on estimation.
 
 :heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
 
