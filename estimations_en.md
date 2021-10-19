@@ -63,10 +63,8 @@ This request is very abstract.
 Most common reasons for this request that I’ve heard are:
 
 - marketing campaign starts on the X date and we need to understand if the team manages to build and launch a feature
-
-- маркетинговая кампания стартует Х числа, и хочется понять, успеет ли команда запустить функционал
-- событие внешнее произошло (внешнеполитическое, или экономическое, например: ЧМ по футболу), и надо понять, успеет ли команда запустить функционал
-- нужна координация работы отделов
+- an external event with set date emerged (for example, FIFA world cup) and managers need to understand if certain features can be launched on time
+- team coordination is required
 
 #### Маркетинговая кампания
 
