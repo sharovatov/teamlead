@@ -50,7 +50,12 @@ In any case I can’t see how ‘seeing team productivity’ is connected with e
 
 ## Public tender has ‘production time’ as a condition
 
-The time constraint is external to the company so if the company needs this contract it has to comply.
+The time and budget constraints are external to the company so if the company needs this contract it has to comply.
+
+The company has to decide if producing the required system within required budget and time is economically beneficial.
+
+
+:heavy_plus_sign: **investing in estimations is rationalised**
 
 ### Тендер имеет конкретные сроки
 
@@ -60,7 +65,6 @@ The time constraint is external to the company so if the company needs this cont
 
 Компании-исполнителю же необходимо оценить, имеет ли исполнение контракта экономическую целесообразность, для этого же оценку времени придётся выполнить.
 
-:heavy_plus_sign: **Вывод: инвестиции в оценку времени оправданы.**
 
 ### Чтобы бизнес знал, когда
 
