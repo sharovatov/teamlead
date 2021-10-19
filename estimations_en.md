@@ -84,7 +84,7 @@ Compare these two scenarios:
 
 To me it looks that the first scenario doesn’t provoke quality decrease and also doesn’t require spending resources on estimation.
 
-:heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
+:heavy_minus_sign: **investing in estimations is not rationalised**
 
 #### Событие внешнее произошло
 
