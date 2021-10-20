@@ -98,17 +98,13 @@ If the result of estimation shows that even the minimum minimorum of features ca
 
 There’s a good question though — how often do events like this occur?
 
-In the example of UEFA championship there are two things to weigh and compare: 
-- amount of resources required to estimate + amount of resources required for ensuring the project is done on time
-- the probability of country winning the UEFA championship
+In the example of UEFA championship there are two things to weigh and compare:
+1. amount of resources required to estimate + amount of resources required for ensuring the project is done on time
+2. the probability of country winning the UEFA championship
 
-If the probability is high, it might be beneficial to bid on it and prepare the software in advance.
+If the probability (2) is high, it might be beneficial to bid on it and prepare the software in advance and just turn it on when needed.
 
-Вопрос, на который важно ответить в этом случае — насколько часто происходят внешние события, влияющие на работу бизнеса? Раз в год?
-
-Если такие события приключаются чаще, то, возможно, стоит пересмотреть процессы работы?
-
-:heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
+:heavy_plus_sign:/:heavy_minus_sign: **not sure if estimation is rationalised**
 
 ### Чтобы бизнес понимал, сколько стоит производство фичи
 
