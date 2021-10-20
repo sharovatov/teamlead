@@ -96,6 +96,13 @@ For example, the country wins an opportunity to hold UEFA championship. Then the
 
 If the result of estimation shows that even the minimum minimorum of features can’t be built on time, the company will decide now to even start building these features.
 
+There’s a good question though — how often do events like this occur?
+
+In the example of UEFA championship there are two things to weigh and compare: 
+- amount of resources required to estimate + amount of resources required for ensuring the project is done on time
+- the probability of country winning the UEFA championship
+
+If the probability is high, it might be beneficial to bid on it and prepare the software in advance.
 
 Вопрос, на который важно ответить в этом случае — насколько часто происходят внешние события, влияющие на работу бизнеса? Раз в год?
 
