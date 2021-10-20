@@ -106,15 +106,15 @@ If the probability (2) is high, it might be beneficial to bid on it and prepare 
 
 :heavy_plus_sign:/:heavy_minus_sign: **not sure if estimation is rationalised**
 
-### Чтобы бизнес понимал, сколько стоит производство фичи
+## manager needs to understand how much a certain feature costs to develop
 
-Интересно разобраться в причинах этого желания.
+There usually are two reasons for this particular request:
+1. manager wants to compare features based on their cost
+2. manager wants to understand if a certain feature ‘is worth it’
 
-Часто описывают следующие причины:
-1. чтобы мог сравнить фичи по стоимости
-2. чтобы понять, «стоит ли овчинка выделки»
+### 1. manager wants to compare feature based on their cost
 
-#### 1. Чтобы мог сравнить фичи по стоимости
+
 
 Если от одной фичи бизнес планирует получить $1M, а от другой $2M, кажется, очевидно, что надо выбирать вторую.
 
