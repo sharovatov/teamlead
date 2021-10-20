@@ -86,7 +86,9 @@ To me it looks that the first scenario doesn’t provoke quality decrease and al
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
-#### Событие внешнее произошло
+### External event occurred
+
+There might occur an external event which makes the company require estimation 
 
 Иногда происходит важное внешнее событие, которое является поводом выполнить определённую разработку к определённому сроку.
 
@@ -204,3 +206,6 @@ To me it looks that the first scenario doesn’t provoke quality decrease and al
 - сроки трансформируются в дедлайны
 - дедлайны создают стресс
 
+## Result
+
+Investment in estimation is only rational if the ‘ready date’ is a constraint external to the company.
