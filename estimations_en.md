@@ -88,11 +88,14 @@ To me it looks that the first scenario doesn’t provoke quality decrease and al
 
 ### External event occurred
 
-There might occur an external event which makes the company require estimation 
+There might occur an external event which makes the company require estimation from the IT team.
 
-Иногда происходит важное внешнее событие, которое является поводом выполнить определённую разработку к определённому сроку.
+todo: add examples?
 
-В такой ситуации, кажется, оценку времени необходимо проводить, чтобы понять, как можно обеспечить выделение прогнозируемого времени с целью успеть в срок.
+For example, the country wins an opportunity to hold UEFA championship. Then the company needs to invest time in estimating a certain set of features to make sure it’s worthy to invest money into building those features so that they are delivered before the UEFA championshop.
+
+If the result of estimation shows that even the minimum minimorum of features can’t be built on time, the company will decide now to even start building these features.
+
 
 Вопрос, на который важно ответить в этом случае — насколько часто происходят внешние события, влияющие на работу бизнеса? Раз в год?
 
