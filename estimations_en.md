@@ -112,25 +112,19 @@ There usually are two reasons for this particular request:
 1. manager wants to compare features based on their cost
 2. manager wants to understand if a certain feature ‘is worth it’
 
-### 1. manager wants to compare feature based on their cost
+These reasons are deeply intervened.
 
+First, before any development estimation is done, product ‘estimation’ needs to be reviewed.
 
+If a manager ‘just tells to build the feature’ with no prediction on how the feature will benefit the clients and the company, there’s absolutely no need to do any ‘estimation’ of development.
 
-Если от одной фичи бизнес планирует получить $1M, а от другой $2M, кажется, очевидно, что надо выбирать вторую.
+In this scenario manager just throws unsupported guesses to the development team – pure leap of faith.
 
-«Планирует получить» тут — гипотеза продуктовой команды.
+So in this scenario manager doesn’t get any estimations — manager first need to explain why the company needs the feature, i.e. why the manager is going to spend development team time and effort.
 
-Чтобы выбирать между двумя прогнозами, нужно знать вероятность успешности каждого.
+If our manager does provide economical rationalisation (i.e. product estimation) for the feature, next step is to check how accurate their estimations were.
 
-Есть ли статистика хотя бы по тому, насколько точны были прогнозы выручки раньше?
-
-Если статистика есть, и прогнозы бизнеса сбываются с хорошей вероятностью, то, видимо:
-
-:heavy_plus_sign: **Вывод: инвестиции в оценку времени могут быть оправданы.**
-
-Если такой статистики нет, можем ли мы осознанно выбирать между значениями «$1M» и «2M»?
-
-Кажется, что тут, скорее, «прыжок веры» — то есть можно просто брать любую из этих двух фичей в разработку.
+If manager’s estimation accuracy is low, there’s no need to do development estimation, it is a ‘leap of faith’ anyway.
 
 Итак, мы решили делать какую-то из фичей. Дальше часто встаёт вопрос «стоит ли овчинка выделки».
 
