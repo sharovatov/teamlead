@@ -126,6 +126,26 @@ If our manager does provide economical rationalisation (i.e. product estimation)
 
 If manager’s estimation accuracy is low, there’s no need to do development estimation, it is a ‘leap of faith’ anyway.
 
+Here’s an illustration:
+
+Let’s suppose both manager and IT team do their estimates:
+- manager estimates feature A1 to bring $100k and B1 to bring $200k
+- IT team estimates feature A1 to cost $30k and B1 to cost $50k
+
+For simplicity let’s assume pure revenue from feature A1 according to the estimates has to be $70k, from B1 — $150k.
+
+Seeing these estimates an obvious choice would be to do feature B1 as its revenue is bigger.
+
+However, it later turns out that:
+- feature A1 brought $200k and B1 brought $100
+- feature A1 costed $50k and B1 costed $60k
+
+If manager’s estimate is off 2 times 
+
+Прогноз прибыли: Ф1 принесёт $100k, Ф2 принесёт $200k
+Прогноз стоимости: Ф1 будет стоить $30k, Ф2 будет стоить $50k
+Какова точность прогнозов бизнеса? Статистика есть?
+
 Итак, мы решили делать какую-то из фичей. Дальше часто встаёт вопрос «стоит ли овчинка выделки».
 
 #### 2. Чтобы понять, стоит ли овчинка выделки
