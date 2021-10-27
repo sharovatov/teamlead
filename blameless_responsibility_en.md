@@ -4,18 +4,25 @@
 
 Software development process might just work. Or it might constantly adapt to ever-changing world, improving its efficiency.
 
-Пример консервативного процесса — скрам, в котором у скрам-мастера есть прямая обязанность следить за тем, чтобы процесс не менялся:
+A good example of a very conservative process is scrum, where scrum master must ensure the scrum process is done exactly as written in the guide:
 
 ```
-Scrum master serves the team by:
-...
-- Ensuring that all Scrum events take place and are positive, productive, and kept within the
-timebox.
+The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide
 
-Scrum master serves the organisation by:
 ...
-- Planning and advising Scrum implementations within the organization;
+
+Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 ```
+No changes are to be done in the process.
+
+But what happens if scrum fits the company no more?
+
+Should scrum master in that case help the team realise that scrum is an empediment and then together with the team remove this impediment?
+
+Anyway, it seems that a conservative ‘set-in-stone’ process framework might at some point become unfit — when the amount of change in the market gets bigger than the current organisational structure and process allowed to address.
+
+Good example of this occasion is Nokia’s case where they had a very rigid and conservative scrum. World changed, the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
+
 
 Кажется очевидным, что консервативный процесс производства не позволяет быстро адаптироваться к постоянным изменениям внешней среды, в которой функционирует бизнес.
 
