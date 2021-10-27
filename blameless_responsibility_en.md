@@ -23,12 +23,7 @@ Anyway, it seems that a conservative ‘set-in-stone’ process framework might 
 
 Good example of this occasion is Nokia’s case where they had a very rigid and conservative scrum. World changed, the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
 
-
-Кажется очевидным, что консервативный процесс производства не позволяет быстро адаптироваться к постоянным изменениям внешней среды, в которой функционирует бизнес.
-
-Все, должно быть, помнят пример Nokia с идеальным скрамом. Помог ли столь консервативный процесс компании отвечать на изменения рынка?
-
-Конечно, одним лишь адаптивным процессом утопающий бизнес не спасти, но если в культуре компании — принятие изменчивости мира и готовность реагировать на изменения, то вероятность, что компания сможет адекватно подстроиться к среде, выше. 
+Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that ability to change is a prerequisite for survival.
 
 ## Адаптивный процесс производства
 
