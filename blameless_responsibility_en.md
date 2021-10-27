@@ -25,9 +25,11 @@ Good example of this occasion is Nokia’s case where they had a very rigid and 
 
 Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that ability to change is a prerequisite for survival.
 
-## Адаптивный процесс производства
+## Adaptive development process
 
-Адаптивный процесс по определению должен меняться в ответ на изменения среды.
+By definition, adaptive process is able to change whenever its current state doesn’t fit the changed reality.
+
+
 
 Например, если культура труда выходит на уровень постоянного рационализованного улучшения и в результате исследования делается вывод, что регулярные встречи для коллективного анализа (по типу ретроспектив) больше не нужны, в адаптивном процессе производства такие встречи будут отменены.
 
