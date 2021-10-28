@@ -29,9 +29,8 @@ Certainly getting rid of rigid conservative process won’t be enough to ensure 
 
 By definition, adaptive process is able to change whenever its current state doesn’t fit the changed reality.
 
+Consider a case where the firm’s work culture is developed to the Kaizen state — where innovations constantly emerge — and the team provides rational explanation that regular retrospective meetings are not needed as reflection and adaptation is being done all the time, constantly, without a need to wait for week or two to end.
 
-
-Например, если культура труда выходит на уровень постоянного рационализованного улучшения и в результате исследования делается вывод, что регулярные встречи для коллективного анализа (по типу ретроспектив) больше не нужны, в адаптивном процессе производства такие встречи будут отменены.
 
 Для того чтобы процесс стал адаптивным, нужно в первую очередь непрерывно получать информацию о его функционировании в условиях постоянных внешних изменений. Нужно понимать, что идет _не так_ или _идет так, но можно лучше_.
 
