@@ -33,6 +33,10 @@ Consider a case where the firm’s work culture is developed to the Kaizen state
 
 If the pointless meeting is canceled, time is saved, everyone can be more productive.
 
+The main prerequisite for the process to be able to become adaptive — constant flow of the information on how the system is working in the constantly changing conditions.
+
+
+
 Для того чтобы процесс стал адаптивным, нужно в первую очередь непрерывно получать информацию о его функционировании в условиях постоянных внешних изменений. Нужно понимать, что идет _не так_ или _идет так, но можно лучше_.
 
 Источниками любой информации являются люди.
