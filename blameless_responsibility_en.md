@@ -35,9 +35,11 @@ If the pointless meeting is canceled, time is saved, everyone can be more produc
 
 The main prerequisite for the process to be able to become adaptive — constant flow of the information on how the system is working in the constantly changing conditions.
 
-Basically, we need to understand what’s going OK and what’s not.
+Basically, we need to understand what’s going OK and what’s not, and what can be improved/adapted and how.
 
-Источниками любой информации являются люди.
+Engineers are the source of information.
+
+
 
 Соответственно, чтобы понимать, что следует изменить в процессе производства, нужно получать информацию для анализа от всех участников процесса. А для этого необходимо, чтобы люди _не боялись_, _хотели_ и _умели_ поставлять информацию.
 
