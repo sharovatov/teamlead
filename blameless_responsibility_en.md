@@ -43,11 +43,9 @@ As information and its analysis is valued and welcomed from every member of the 
 - people must not be afraid to bring information
 - people need to be able to bring information
 
-Соответственно, чтобы понимать, что следует изменить в процессе производства, нужно получать информацию для анализа от всех участников процесса. А для этого необходимо, чтобы люди _не боялись_, _хотели_ и _умели_ поставлять информацию.
+Of course, the information they bring must be processed, but here I talk only on **the principal necessity of information flow**.
 
-Также, конечно, нужно с этой информацией что-то делать, но пока говорим лишь о **принципиальной необходимости поступления информации**.
-
-## Чтобы люди не боялись и хотели
+## People must not be afraid to bring information
 
 Человек, ощущающий вину за какой-то поступок на работе, будет опасаться совершать поступки вообще.
 
