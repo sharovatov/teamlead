@@ -39,7 +39,9 @@ Basically, we need to understand what’s going OK and what’s not, and what ca
 
 Engineers are the source of information.
 
-
+As information and its analysis is valued and welcomed from every member of the development process:
+- people must not be afraid to bring information
+- people need to be able to bring information
 
 Соответственно, чтобы понимать, что следует изменить в процессе производства, нужно получать информацию для анализа от всех участников процесса. А для этого необходимо, чтобы люди _не боялись_, _хотели_ и _умели_ поставлять информацию.
 
