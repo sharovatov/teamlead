@@ -47,6 +47,8 @@ Of course, the information they bring must be processed, but here I talk only on
 
 ## People must not be afraid to bring information
 
+If a person feels guilt for any mistake or error that they caused or produced at work, they will try to avoid taking actions altogether.
+
 Человек, ощущающий вину за какой-то поступок на работе, будет опасаться совершать поступки вообще.
 
 Как только руководитель начинает провоцировать в сотрудниках чувство вины или страха, в группе начинают происходить негативные социальные динамики — другие сотрудники неизбежно будут либо считать себя тоже «в зоне риска», либо предавать «виноватого» сотрудника остракизму.
