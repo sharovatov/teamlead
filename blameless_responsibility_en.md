@@ -51,8 +51,6 @@ If a person feels guilt for any mistake or error that they caused or produced at
 
 As soon as the manager starts provoking employees’ feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling being in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
 
-Как только руководитель начинает провоцировать в сотрудниках чувство вины или страха, в группе начинают происходить негативные социальные динамики — другие сотрудники неизбежно будут либо считать себя тоже «в зоне риска», либо предавать «виноватого» сотрудника остракизму.
-
 Испытанное однажды чувство вины или страха приводит к тому, что человек избегает выполнения определенных действий.
 
 **Рассмотрим случай**: сотрудник понял, что при проектировании системы он допустил досадную оплошность, в результате чего придется переписывать значительную часть этой системы.
