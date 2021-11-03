@@ -53,6 +53,8 @@ As soon as the manager starts provoking employees’ feelings of guilt or fear, 
 
 Once a person feels guilt or fear, they will try to avoid actions (see ‘avoidance behavior’ in psychology).
 
+**Consider a scenario**: employee figured out that they had made a mistake during system design, and this means that a significant part of the system will have to be rewritten.
+
 **Рассмотрим случай**: сотрудник понял, что при проектировании системы он допустил досадную оплошность, в результате чего придется переписывать значительную часть этой системы.
 
 Сотрудник, будучи ответственным человеком, считающим, что информацию о проблеме нужно сообщать, как только проблема обнаружена, оповестил руководителя о ситуации.
