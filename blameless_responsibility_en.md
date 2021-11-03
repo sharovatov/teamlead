@@ -51,7 +51,7 @@ If a person feels guilt for any mistake or error that they caused or produced at
 
 As soon as the manager starts provoking employees’ feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling being in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
 
-Испытанное однажды чувство вины или страха приводит к тому, что человек избегает выполнения определенных действий.
+Once a person feels guilt or fear, they will try to avoid actions (see ‘avoidance behavior’ in psychology).
 
 **Рассмотрим случай**: сотрудник понял, что при проектировании системы он допустил досадную оплошность, в результате чего придется переписывать значительную часть этой системы.
 
