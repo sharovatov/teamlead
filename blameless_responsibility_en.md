@@ -49,7 +49,7 @@ Of course, the information they bring must be processed, but here I talk only on
 
 If a person feels guilt for any mistake or error that they caused or produced at work, they will try to avoid taking actions altogether.
 
-Человек, ощущающий вину за какой-то поступок на работе, будет опасаться совершать поступки вообще.
+As soon as the manager starts provoking employees’ feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling being in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
 
 Как только руководитель начинает провоцировать в сотрудниках чувство вины или страха, в группе начинают происходить негативные социальные динамики — другие сотрудники неизбежно будут либо считать себя тоже «в зоне риска», либо предавать «виноватого» сотрудника остракизму.
 
