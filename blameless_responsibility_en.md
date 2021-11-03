@@ -63,9 +63,13 @@ Chances are that this employee will think thrice before bringing any information
 
 ‘Avoidance behaviour’ is clearly provoked by a thoughtless manager’s action — more the manager scolds, less information on the issues and mistakes they will _receive_, more and more effort the manager will have to put into _obtaining_ the information.
 
-Вероятнее всего, после такого случая сотрудник трижды подумает, прежде чем снова принесет руководителю подобную информацию. Как следствие — сообщения о проблемах, скорее, будут «заметаться под ковер», что приведет к рассинхронизации между знаниями руководства о системе и самой системой.
+Less information the manager has, less informed actions can be taken, lesser their efficiency is.
 
-Гораздо более перспективна ситуация, в которой вместо того, чтобы ругать сотрудника за ошибку, руководитель благодарит его за сообщение о проблеме. Ведь оно, с точки зрения грамотного руководителя, несет пользу: чем раньше информация будет получена, тем дешевле ее обработать.
+**Now think of the opposite scenario**:
+
+The employee brings information on the mistake, the manager praises for the information and takes an informed decision on either investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
+
+Less avoidance => more information => more informed and effective decisions => more effective process and system.
 
 ## Чтобы люди умели
 
