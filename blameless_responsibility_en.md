@@ -57,7 +57,9 @@ Once a person feels guilt or fear, they will try to avoid actions (see ‘avoida
 
 It’s the first time a mistake like that occurred, our responsible employee tells their manager about this mistake.
 
-Руководитель отругал сотрудника за допущенную ошибку.
+The manager scolded the employee for the mistake.
+
+Chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
 
 Вероятнее всего, после такого случая сотрудник трижды подумает, прежде чем снова принесет руководителю подобную информацию. Как следствие — сообщения о проблемах, скорее, будут «заметаться под ковер», что приведет к рассинхронизации между знаниями руководства о системе и самой системой.
 
