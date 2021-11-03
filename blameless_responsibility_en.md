@@ -61,6 +61,8 @@ The manager scolded the employee for the mistake.
 
 Chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
 
+‘Avoidance behaviour’ is clearly provoked by a thoughtless manager’s action — more the manager scolds, less information on the issues and mistakes they will _receive_, more and more effort the manager will have to put into _obtaining_ the information.
+
 Вероятнее всего, после такого случая сотрудник трижды подумает, прежде чем снова принесет руководителю подобную информацию. Как следствие — сообщения о проблемах, скорее, будут «заметаться под ковер», что приведет к рассинхронизации между знаниями руководства о системе и самой системой.
 
 Гораздо более перспективна ситуация, в которой вместо того, чтобы ругать сотрудника за ошибку, руководитель благодарит его за сообщение о проблеме. Ведь оно, с точки зрения грамотного руководителя, несет пользу: чем раньше информация будет получена, тем дешевле ее обработать.
