@@ -43,8 +43,6 @@ As information and its analysis is valued and welcomed from every member of the 
 - people must not be afraid to bring information
 - people need to be able to bring information
 
-Of course, the information they bring must be processed, but here I talk only on **the principal necessity of information flow**.
-
 **So**:
 - process change and adaptation is a prerequisite for the company being able to better survive market change.
 
