@@ -74,14 +74,12 @@ The employee brings information on the mistake, the manager praises for the info
 
 Less avoidance => more information => more informed and effective decisions => more effective process and system.
 
+**So**:
+- The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow
+- the information flow is a prerequisite for the process change and adaptation
+- process change and adaptation is a prerequisite for the company being able to better survive market change
+
 ## People should know how to bring information
-
-The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow.
-
-The information flow is a prerequisite for the process change and adaptation.
-
-Process change and adaptation is a prerequisite for the company being able to better survive market change.
-
 
 Начинается все с того, что полученную информацию нужно обработать. Как минимум, нужно понять, насколько проблема — проблема. Нужно определить, есть ли экономический или какой-то иной вред, как именно использовать эту информацию.
 
