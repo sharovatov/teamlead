@@ -73,9 +73,8 @@ Less avoidance => more information => more informed and effective decisions => m
 
 ## People should know how to bring information
 
+The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow.
 
-
-Выше мы поговорили об атмосфере в коллективе, которая должна способствовать тому, чтобы люди не скрывали проблемы.
 
 Также мы знаем, что информация о проблемах необходима для того, чтобы процесс можно было адаптировать.
 
