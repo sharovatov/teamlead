@@ -79,7 +79,7 @@ The employee brings information on the mistake, the manager praises for the info
 Less avoidance => more information => more informed and effective decisions => more effective process and system.
 
 ```
-3. The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow
+3. The atmosphere of psychological safety is a prerequisite for the information flow
 2. the information flow is a prerequisite for the process change and adaptation
 1. process change and adaptation is a prerequisite for the company being able to better survive market change
 ```
