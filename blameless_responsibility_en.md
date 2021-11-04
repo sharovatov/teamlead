@@ -45,6 +45,9 @@ As information and its analysis is valued and welcomed from every member of the 
 
 Of course, the information they bring must be processed, but here I talk only on **the principal necessity of information flow**.
 
+**So**:
+- process change and adaptation is a prerequisite for the company being able to better survive market change.
+
 ## People must not be afraid to bring information
 
 If a person feels guilt for any mistake or error that they caused or produced at work, they will try to avoid taking actions altogether.
@@ -79,9 +82,6 @@ The information flow is a prerequisite for the process change and adaptation.
 
 Process change and adaptation is a prerequisite for the company being able to better survive market change.
 
-Также мы знаем, что информация о проблемах необходима для того, чтобы процесс можно было адаптировать.
-
-Теперь нужно разобраться, кто и как адаптирует процесс.
 
 Начинается все с того, что полученную информацию нужно обработать. Как минимум, нужно понять, насколько проблема — проблема. Нужно определить, есть ли экономический или какой-то иной вред, как именно использовать эту информацию.
 
