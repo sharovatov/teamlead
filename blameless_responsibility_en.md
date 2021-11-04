@@ -25,7 +25,9 @@ Good example of this occasion is Nokia’s case where they had a very rigid and 
 
 Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that:
 
-```1. Process change and adaptation is a prerequisite for the company being able to better survive market change.```
+```
+1. Process change and adaptation is a prerequisite for the company being able to better survive market change.
+```
 
 ## Adaptive development process
 
@@ -45,8 +47,10 @@ As information and its analysis is valued and welcomed from every member of the 
 - people must not be afraid to bring information
 - people need to be able to bring information
 
-**2. the information flow is a prerequisite for the process change and adaptation**
-**1. process change and adaptation is a prerequisite for the company being able to better survive market change.**
+```
+2. the information flow is a prerequisite for the process change and adaptation
+1. process change and adaptation is a prerequisite for the company being able to better survive market change.
+```
 
 ## People must not be afraid to bring information
 
@@ -74,11 +78,13 @@ The employee brings information on the mistake, the manager praises for the info
 
 Less avoidance => more information => more informed and effective decisions => more effective process and system.
 
-**3. The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow**
+```
+3. The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow
 
-**2. the information flow is a prerequisite for the process change and adaptation**
+2. the information flow is a prerequisite for the process change and adaptation
 
-**1. process change and adaptation is a prerequisite for the company being able to better survive market change**
+1. process change and adaptation is a prerequisite for the company being able to better survive market change
+```
 
 ## People should know how to bring information
 
