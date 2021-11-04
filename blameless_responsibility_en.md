@@ -71,7 +71,9 @@ The employee brings information on the mistake, the manager praises for the info
 
 Less avoidance => more information => more informed and effective decisions => more effective process and system.
 
-## Чтобы люди умели
+## People should know how to bring information
+
+
 
 Выше мы поговорили об атмосфере в коллективе, которая должна способствовать тому, чтобы люди не скрывали проблемы.
 
