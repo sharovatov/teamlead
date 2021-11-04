@@ -23,7 +23,9 @@ Anyway, it seems that a conservative ‘set-in-stone’ process framework might 
 
 Good example of this occasion is Nokia’s case where they had a very rigid and conservative scrum. World changed, the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
 
-Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that ability to change is a prerequisite for survival.
+Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that:
+
+**1. Process change and adaptation is a prerequisite for the company being able to better survive market change.**
 
 ## Adaptive development process
 
@@ -43,8 +45,8 @@ As information and its analysis is valued and welcomed from every member of the 
 - people must not be afraid to bring information
 - people need to be able to bring information
 
-**So**:
-- process change and adaptation is a prerequisite for the company being able to better survive market change.
+**2. the information flow is a prerequisite for the process change and adaptation**
+**1. process change and adaptation is a prerequisite for the company being able to better survive market change.**
 
 ## People must not be afraid to bring information
 
