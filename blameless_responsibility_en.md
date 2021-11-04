@@ -75,6 +75,9 @@ Less avoidance => more information => more informed and effective decisions => m
 
 The atmosphere of psychological safety (where people are not scolded at for example) is a prerequisite for the information flow.
 
+The information flow is a prerequisite for the process change and adaptation.
+
+Process change and adaptation is a prerequisite for the company being able to better survive market change.
 
 Также мы знаем, что информация о проблемах необходима для того, чтобы процесс можно было адаптировать.
 
