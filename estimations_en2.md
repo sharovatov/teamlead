@@ -8,6 +8,8 @@ And the ideal estimation can be done just measuring how much time it actually ta
 
 Usually people choose _some_ form of estimation from the range between ideal and minimal, paying _some_ price for _some_ prognosis accuracy.
 
+But how do they determine the level of prognosis' accuracy they are willing to pay the estimation price for?
+
 
 ## To see team load/capacity
 
