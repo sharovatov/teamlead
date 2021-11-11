@@ -237,3 +237,17 @@ Investment in estimation is only rational if the ‘ready date’ is a constrain
 ### Estimation as a promise
 
 Human beings are innately irrational. We are affected by multiple cognitive biases, so even if we don’t want to ‘take prognosis as a promise’, chances are we will. And so do our managers.
+
+We ourselves think that if we estimate, we promise.
+
+Our managers think that if we estimate, we promise.
+
+What happens when we don’t get what we were -estimated- promised? We are upset. Both with the fact and with the person that ‘let us down’.
+
+What happens when we can’t do what we -estimated- promised? We are upset. Both with the fact and that we ‘let down’ the manager or our team.
+
+
+
+Upset with the person who promised but couldn’t deliver.
+
+And if we’re the person who ‘estimated’ 
