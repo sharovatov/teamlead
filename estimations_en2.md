@@ -10,6 +10,16 @@ Usually people choose _some_ form of estimation from the range between ideal and
 
 But how do they determine the level of prognosis' accuracy they are willing to pay the estimation price for?
 
+Why are they investing money in buying the prognosis in the first place?
+
+I've asked managers a lot about this, here's a list of usual reasons for investing into estimation:
+
+- to see team load/capacity
+- public tender requires estimates
+- ‘business’ needs to know ‘when’
+- ‘business’ needs to understand how much the feature costs
+- ‘business’ needs to be able to choose which feature to do first
+
 
 ## To see team load/capacity
 
