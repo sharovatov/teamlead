@@ -45,7 +45,7 @@ It is important to perform these activities in this particular order:
 
 3. hiring more people is the last and the least effective way of improving team performance as increasing team members count yields higher management complexity and costs
 
-In any case I can’t see how ‘seeing team productivity’ is connected with estimations.
+In any case I can’t see how ‘seeing team productivity’ is connected with estimations — team productivity is ‘how much value we are bringing to clients’, not ‘how often our prognosis is successful’.
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
