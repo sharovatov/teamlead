@@ -2,6 +2,8 @@
 
 There's proper math behind it, but the simple rule of thumb is: more time we spend on estimation, more accurate the estimation is.
 
+The minimal estimation takes almost 0 time and has almost 0 value — we don't know the upcoming unknowns and uncertainty, and we have no clue of the task complexity.
+
 
 ## To see team load/capacity
 
