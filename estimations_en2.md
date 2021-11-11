@@ -1,4 +1,6 @@
-# Estimation costs and side effects.
+# Estimation price, value and side effects
+
+## Price and value
 
 There's proper math behind it, but the simple rule of thumb is: more time we spend on estimation, more accurate the estimation is.
 
@@ -20,8 +22,7 @@ I've asked managers a lot about this, here's a list of usual reasons for investi
 - ‘business’ needs to understand how much the feature costs
 - ‘business’ needs to be able to choose which feature to do first
 
-
-## To see team load/capacity
+### To see team load/capacity
 
 I honestly could not figure out how team load or capacity yields a necessity to gather estimates.
 
@@ -220,6 +221,8 @@ If manager’s estimate is off 2 times
 
 В случае производства ПО, требования и контекст всегда различны, готовых «чертежей» и смет не существует, процесс опытно-конструкторской (а порой и научно-исследовательской) «не устаканен».
 
+
+
 ## Проблемы, порождаемые оценкой времени
 
 - время трансформируется в сроки
@@ -229,3 +232,6 @@ If manager’s estimate is off 2 times
 ## Result
 
 Investment in estimation is only rational if the ‘ready date’ is a constraint external to the company.
+
+
+## Side effects
