@@ -4,6 +4,10 @@ There's proper math behind it, but the simple rule of thumb is: more time we spe
 
 The minimal estimation takes almost 0 time and has almost 0 value — we don't know the upcoming unknowns and uncertainty, and we have no clue of the task complexity.
 
+And the ideal estimation can be done just measuring how much time it actually takes us to complete the task — all the unknowns are resolved, uncertainties became certainties, and the task complexity is not only known, but successfully dealt with.
+
+Usually people choose _some_ form of estimation from the range between ideal and minimal, paying _some_ price for _some_ prognosis accuracy.
+
 
 ## To see team load/capacity
 
