@@ -252,4 +252,6 @@ Overcoming these negative psychological issues and social dynamics triggered by 
 
 This is just another side effect of estimations.
 
+### Risks of coordination which relies on estimations
+
 
