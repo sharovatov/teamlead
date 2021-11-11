@@ -12,7 +12,9 @@ Usually people choose _some_ form of estimation from the range between ideal and
 
 But how do they determine the level of prognosis' accuracy they are willing to pay the estimation price for?
 
-Why are they investing money in buying the prognosis in the first place?
+It seems that usually people don’t choose the accuracy, but just bluntly do estimations :(
+
+But why are they investing money in buying the prognosis in the first place?
 
 I've asked managers a lot about this, here's a list of usual reasons for investing into estimation:
 
