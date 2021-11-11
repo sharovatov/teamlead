@@ -233,3 +233,7 @@ Investment in estimation is only rational if the ‘ready date’ is a constrain
 
 
 ## Side effects
+
+### Estimation as a promise
+
+Human beings are innately irrational. We are affected by multiple cognitive biases, so even if we don’t want to ‘take prognosis as a promise’, chances are we will. And so do our managers.
