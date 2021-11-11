@@ -76,8 +76,6 @@ Less information the manager has, less informed actions can be taken, lesser the
 
 The employee brings information on the mistake, the manager praises for the information and takes an informed decision on either investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
 
-Less avoidance => more information => more informed and effective decisions => more effective process and system.
-
 ```
 3. The atmosphere of psychological safety is a prerequisite for the information flow
 2. the information flow is a prerequisite for the process change and adaptation
@@ -85,6 +83,10 @@ Less avoidance => more information => more informed and effective decisions => m
 ```
 
 ## People should know how to bring information
+
+If people are willing to provide information, information is likely to start to flow.
+
+Now it’s time to analyse the information
 
 Начинается все с того, что полученную информацию нужно обработать. Как минимум, нужно понять, насколько проблема — проблема. Нужно определить, есть ли экономический или какой-то иной вред, как именно использовать эту информацию.
 
@@ -119,6 +121,15 @@ Less avoidance => more information => more informed and effective decisions => m
 И получается, логично и продуктивно, если руководитель будет «обнажать инструментарий», обучая сотрудников, в частности, и анализу эффективности процессов. В компании будет правильным установить, что любое процессное или технологическое изменение должно проходить процедуру оценки эффективности, лишь тогда оно оправданно.
 
 Добро пожаловать в мир [ТЭО](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование).
+
+```
+3. The atmosphere of psychological safety is a prerequisite for the information flow
+2. the information flow is a prerequisite for the process change and adaptation
+1. process change and adaptation is a prerequisite for the company being able to better survive market change
+0. rational 
+```
+
+
 
 ## Дополнительно
 
