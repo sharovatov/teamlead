@@ -49,7 +49,7 @@ In any case I can’t see how ‘seeing team productivity’ is connected with e
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
-## Public tender has ‘time’ and ‘budget’ as a condition
+### Public tender has ‘time’ and ‘budget’ as a condition
 
 The time and budget constraints are external to the company so if the company needs this contract it has to comply.
 
@@ -57,7 +57,7 @@ The company has to decide if producing the required system within required budge
 
 :heavy_plus_sign: **investing in estimations is rationalised**
 
-## Manager needs to know ‘when it will be done’
+### Manager needs to know ‘when it will be done’
 
 This request is very abstract.
 
@@ -67,7 +67,7 @@ Most common reasons for this request that I’ve heard are:
 - an external event with set date emerged (for example, FIFA world cup) and managers need to understand if certain features can be launched on time
 - team coordination is required
 
-### Marketing campaign
+#### Marketing campaign
 
 Marketing team works alongside IT team for the same company.
 
@@ -90,8 +90,6 @@ To me it looks that the first scenario doesn’t provoke quality decrease and al
 ### External event occurred
 
 There might occur an external event which makes the company require estimation from the IT team.
-
-todo: add examples?
 
 For example, the country wins an opportunity to hold UEFA championship. Then the company needs to invest time in estimating a certain set of features to make sure it’s worthy to invest money into building those features so that they are delivered before the UEFA championshop.
 
