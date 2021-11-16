@@ -34,7 +34,7 @@ The request for the value might come from client themselves, from product manage
 
 If the team receives more requests than it can process, requests are logged, forming a backlog.
 
-If the team is not delivering enough, there are a few ways to improve the situation:
+If the team is not delivering enough (the backlog accumulates more requests for value than the team process), there are a few ways to improve the situation:
 - request less
 - check the information flow in the system and optimise the processes
 - hire more people
@@ -43,7 +43,7 @@ It is important to perform these activities in this particular order:
 
 1. if hypotheses quality is improved and ‘better’ features come from product managers, there’s less need to optimise the information flow in development processes
 
-2. if information loss is decreased in the development processes, existing team can do more and there’s no need to hire more people
+2. if information loss is decreased in the development processes and less waste is generated, existing team can do more and there’s no need to hire more people
 
 3. hiring more people is the last and the least effective way of improving team performance as increasing team members count yields higher management complexity and costs
 
@@ -85,7 +85,7 @@ Compare these two scenarios:
 1. IT team produces some value for the clients and marketing team starts advertising this new value to potential and existing clients
 2. Marketing team dictates the IT team ‘the advertising campaign will be launched on X date, you must be on time’.
 
-To me it looks that the first scenario doesn’t provoke quality decrease and also doesn’t require spending resources on estimation.
+To me it looks that the first scenario doesn’t provoke quality decrease (due to rushing) and also doesn’t require spending resources on estimation.
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
@@ -123,9 +123,9 @@ In this scenario manager just throws unsupported guesses to the development team
 
 So in this scenario manager doesn’t get any estimations — manager first need to explain why the company needs the feature, i.e. why the manager is going to spend development team time and effort.
 
-If our manager does provide economical rationalisation (i.e. product estimation) for the feature, next step is to check how accurate their estimations were.
+If our manager does provide economical rationalisation (i.e. product value estimation) for the feature, next step is to check how accurate their estimations were.
 
-If manager’s estimation accuracy is low, there’s no need to do development estimation, it is a ‘leap of faith’ anyway.
+If manager’s previous estimation accuracy is low, there’s no need to do development estimation, it is a ‘leap of faith’ anyway.
 
 Here’s an illustration:
 
