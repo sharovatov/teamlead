@@ -129,8 +129,9 @@ If manager’s previous estimation accuracy is low, there’s no need to do deve
 
 Here’s an illustration:
 
+Let’s say that a Product Manager comes up with three features: Square, Circle and Triangle.
 
-Product estimation for the gains which features Square, Circle, Triangle will bring:
+Product Manager provides the following profit estimation:
 
 ```
 +-----------+-------------+
@@ -142,7 +143,7 @@ Product estimation for the gains which features Square, Circle, Triangle will br
 +-------------------------+
 ```
 
-IT estimation for time the team will spend on the delivering features:
+Dev team gives the following estimations for time the team will spend on the delivering features:
 
 ```
 +-----------+-----------+
@@ -153,7 +154,6 @@ IT estimation for time the team will spend on the delivering features:
 |  Triangle |  20-24d   |
 +-----------+-----------+
 ```
-
 
 Built together with team time converted to money (1d to $1k for simplicity):
 
@@ -195,6 +195,8 @@ Well, real life is tough, estimations fail lots of the times.
 But here's what's important: **it makes more sense optimising the quality of estimation on the left, on the product side**.
 
 There's another conclusion: **there's no point in doing estimations in IT if PM doesn't have a decent estimation quality (and a proven record of providing estimates of decent quality)**.
+
+It’s also quite obvious that comparing any features on their _cost_ only makes pretty much no sense as well — it makes sense only in the case when PM’s revenue estimation quality of prognosis is ridiculously high :)
 
 :heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
 
