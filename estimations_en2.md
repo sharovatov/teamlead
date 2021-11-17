@@ -20,9 +20,9 @@ I've asked managers a lot about this, here's a list of usual reasons for investi
 
 - to see team load/capacity
 - public tender requires estimates
-- ‘business’ needs to know ‘when’
-- ‘business’ needs to understand how much the feature costs
-- ‘business’ needs to be able to choose which feature to do first
+- manager needs to know when the feature will be done
+- manager needs to understand how much the feature costs
+- manager needs to be able to choose which feature to do first
 
 ### To see team load/capacity
 
