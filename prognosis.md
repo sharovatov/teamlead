@@ -14,6 +14,7 @@ What do we take into consideration when providing such prognosis?
    - if they will actually want to perform the changes
    - if they will possess enough resources to perform the changes (nothing blocking, enough information present)
 
+It seems obvious that 
 The quality of this prognosis obviously depends on how much effort we spend in reducing the uncertainty in the feature.
 
 We cannot guarantee the accuracy of the prognosis 
