@@ -129,53 +129,72 @@ If manager’s previous estimation accuracy is low, there’s no need to do deve
 
 Here’s an illustration:
 
-Let’s suppose both manager and IT team do their estimates:
-- manager estimates feature A1 to bring $100k and B1 to bring $200k
-- IT team estimates feature A1 to cost $30k and B1 to cost $50k
 
-For simplicity let’s assume pure revenue from feature A1 according to the estimates has to be $70k, from B1 — $150k.
+Product estimation for the gains which features Square, Circle, Triangle will bring:
 
-Seeing these estimates an obvious choice would be to do feature B1 as its revenue is bigger.
+```
++-----------+-------------+
+|  feature  |  estimate   |
++-----------+-------------+
+|  Square   | $50k-$90k   |
+|  Circle   | $150k-$200k |
+|  Triangle | $300k-$400k |
++-------------------------+
+```
 
-However, it later turns out that:
-- feature A1 brought $200k and B1 brought $100
-- feature A1 costed $50k and B1 costed $60k
+IT estimation for time the team will spend on the delivering features:
 
-If manager’s estimate is off 2 times 
+```
++-----------+-----------+
+|  feature  |  estimate |
++-----------+-----------+
+|  Square   |  10-40d   |
+|  Circle   |  15-30d   |
+|  Triangle |  20-24d   |
++-----------+-----------+
+```
 
-Прогноз прибыли: Ф1 принесёт $100k, Ф2 принесёт $200k
-Прогноз стоимости: Ф1 будет стоить $30k, Ф2 будет стоить $50k
-Какова точность прогнозов бизнеса? Статистика есть?
 
-Итак, мы решили делать какую-то из фичей. Дальше часто встаёт вопрос «стоит ли овчинка выделки».
+Built together with team time converted to money (1d to $1k for simplicity):
 
-#### 2. Чтобы понять, стоит ли овчинка выделки
+```
++-----------+---------------+------------+
+|  feature  |  revenue est. |  cost est. |
++-----------+---------------+------------+
+|  Square   |  $50k-$90k    |  $10k-$40k |
+|  Circle   |  $150k-$200k  |  $15k-$30k |
+|  Triangle |  $300k-$400k  |  $20k-$24k |
++-----------+---------------+------------+
+```
 
-Определение «стоит ли овчинка выделки» — это определение целесообразности разработки.
+It seems that all these three features were well-worth to do, according to our estimations:
+- Square will yield at least $10k in the worst case scenario
+- Circle will yield at least $120k in the worst case scenario
+- Triangle will yield at least $276k in the worst case scenario
 
-Логично заключить, что разработка тем целесообразнее, чем больше выгоды получит компания от реализации фичи.
+Now let's see what happened when the features Square, Circle and Triangle got developed and delivered to the clients:
 
-Стало быть, нужно сравнить прогнозируемую стоимость разработки (выраженную во времени) и прогнозируемую выгоду от реализованной фичи.
+```
++-----------+-----------------+---------------+
+|  feature  |  revenue result |  cost result  |
++-----------+-----------------+---------------+
+|  Square   |  $90k           |  $13k         |
+|  Circle   |  $200k          |  $30k         |
+|  Triangle |  $30k           |  $40k         |
++-----------+-----------------+---------------+
+```
 
-Подразумевается, что, как и в предыдущем случае, бизнес _умеет_ более-менее достоверно прогнозировать «выхлоп» от фичи.
+As we can see, a few estimations were wrong.
 
-Предположим, что выбрана была фича с прогнозируемой выручкой $1M.
+- Square yielded $57k.
+- Circle yielded $170k.
+- Triangle yielded **loss** of $10k.
 
-Как понять, стоит ли её брать в работу?
+Well, real life is tough, estimations fail lots of the times.
 
-Если прогностическая мощность гипотезы бизнеса (о выручке от фичи) базируется на статистике того, как сбывались разные другие прогнозы бизнеса, кажется логичным взять такое же по прогностической мощности предсказание сроков исполнения фичи.
+But here's what's important: **it makes more sense optimising the quality of estimation on the left, on the product side**.
 
-Если совсем просто:
-- бизнес говорит «такая фича наверное принесёт $1M, мы раньше редко ошибались в прогнозах»
-- команда разработки говорит «такая фича наверное займёт 2-5 недель, мы раньше редко ошибались в прогнозах больше, чем в 2,5 раза»
-
-Понятно ли, что ценность прогноза «слева» (у бизнеса) сильно выше, чем ценность прогноза «справа» (у команды разработки)?
-
-Вообще получается, что если бизнес «не умеет» прогнозировать выгоду от производимой фичи, то и прогнозировать сроки исполнения на стороне разработки нет никакого смысла.
-
-Какой смысл пытаться разобраться, займёт производство фичи три недели или три месяца, если ни та ни другая инвестиция времени в производство не оправдана?
-
-Если же бизнес признаёт, что гипотеза «фича выстрелит» является лишь «ощущением», то есть иррациональна полностью, то вполне резонно заключить, что требовать рационального подхода к разработке просто бессмысленно — ведь велика вероятность, что бизнес целый год приносит на реализацию фичи, не приносящие никакой прибыли.
+There's another conclusion: **there's no point in doing estimations in IT if PM doesn't have a decent estimation quality (and a proven record of providing estimates of decent quality)**.
 
 :heavy_minus_sign: **Вывод: инвестиции в оценку времени не оправданы.**
 
