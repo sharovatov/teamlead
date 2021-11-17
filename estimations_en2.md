@@ -20,9 +20,7 @@ I've asked managers a lot about this, here's a list of usual reasons for investi
 
 - to see team load/capacity
 - public tender requires estimates
-- manager needs to know when the feature will be done
-- manager needs to understand how much the feature costs
-- manager needs to be able to choose which feature to do first
+- manager needs to know when the feature will be done /  manager needs to understand how much the feature costs / manager needs to be able to choose which feature to do first
 
 ### To see team load/capacity
 
@@ -89,7 +87,7 @@ To me it looks that the first scenario doesn’t provoke quality decrease (due t
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
-### External event occurred
+#### External event occurred
 
 There might occur an external event which makes the company require estimation from the IT team.
 
