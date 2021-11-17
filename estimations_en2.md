@@ -65,7 +65,6 @@ Most common reasons for this request that I’ve heard are:
 
 - marketing campaign starts on the X date and we need to understand if the team manages to build and launch a feature
 - an external event with set date emerged (for example, FIFA world cup) and managers need to understand if certain features can be launched on time
-- team coordination is required
 
 #### Marketing campaign
 
@@ -198,26 +197,13 @@ It’s also quite obvious that comparing any features on their _cost_ only makes
 
 :heavy_minus_sign: **investing in estimations is not rationalised**
 
-### Team coordination is required
-
---
-
-
-
-## Проблемы, порождаемые оценкой времени
-
-- время трансформируется в сроки
-- сроки трансформируются в дедлайны
-- дедлайны создают стресс
-
-## Result
-
-Investment in estimation is only rational if the ‘ready date’ is a constraint external to the company.
-
-
 ## Side effects
 
-### Estimation as a promise
+We discussed price and value of estimations, now to the side effects, chief among them being:
+- estimations become promises
+- promises become deadlines
+- deadlines bring stress
+- deadlines bring coordination issues
 
 Human beings are innately irrational. We are affected by multiple cognitive biases, so even if we don’t want to ‘take prognosis as a promise’, chances are we will. And so do our managers.
 
@@ -235,6 +221,9 @@ Overcoming these negative psychological issues and social dynamics triggered by 
 
 This is just another side effect of estimations.
 
-### Risks of coordination which relies on estimations
+There’s another big side effect of estimations/deadlines: coordination.
 
+Dysfunctional tools like Gannt charts are still very popular, and if anyone provides estimations, it’s so tempting to aling those estimates and never think on the uncertainty of the world we live in.
+
+TBC
 
