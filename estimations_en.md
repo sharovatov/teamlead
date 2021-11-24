@@ -211,9 +211,9 @@ We ourselves think that if we estimate, we promise.
 
 Our managers think that if we estimate, we promise.
 
-What happens when we don’t get what we were -estimated- promised? We are upset. Both with the fact and with the person that ‘let us down’. We might even make this person feel guilty.
+What happens when we don’t get what we were ~~estimated~~ promised? We are upset. Both with the fact and with the person that ‘let us down’. We might even make this person feel guilty.
 
-What happens when we can’t do what we -estimated- promised? We are upset. Both with the fact and that we ‘let down’ the manager or our team. We might even feel guilty.
+What happens when we can’t do what we ~~estimated~~ promised? We are upset. Both with the fact and that we ‘let down’ the manager or our team. We might even feel guilty.
 
 We can fight these feelings, sure. We can force ourselves to think ‘rationally’. But the fight takes effort. And this fight’s eternal.
 
