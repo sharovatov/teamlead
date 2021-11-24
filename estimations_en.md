@@ -221,9 +221,9 @@ Overcoming these negative psychological issues and social dynamics triggered by 
 
 This is just another side effect of estimations.
 
-There’s another big side effect of estimations/deadlines: coordination.
+There’s another big side effect of estimations/deadlines: almost inavoidable efforts coordination based on estimates.
 
-Dysfunctional tools like Gannt charts are still very popular, and if anyone provides estimations, it’s so tempting to aling those estimates and never think on the uncertainty of the world we live in.
+Dysfunctional tools like Gannt charts are still very popular, and if anyone provides estimations, it’s so tempting to align those estimates and never think on the uncertainty of the world we live in.
 
 TBC
 
