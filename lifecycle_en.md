@@ -32,10 +32,10 @@ But in case you want to grow let’s say in design and frontend — negotiate, I
 You need to decide what types of companies suit you more.
 
 Choice criteria are always individual, but here’s a few to think of:
-- отрасль
-- [бизнес-модель](https://ru.wikipedia.org/wiki/Бизнес-модель)
-- CSR-активности ([компании и CSR](https://git.io/itcsr))
-- возможность роста и развития
+- company field of business
+- [company business model](https://en.wikipedia.org/wiki/Business_model)
+- if a company has [CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
+- growth possibilities 
 - возможность обучения других и/или поддержка таких активностей
 - поддержка opensource
 
