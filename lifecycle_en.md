@@ -39,12 +39,11 @@ Choice criteria are always individual, but here’s a few to think of:
 - company support for learning, education, mentorship
 - opensource support
 
-Бинзнес-модель компании прямо влияет на культуру.
-- банки en masse более консервативны, чем другие продуктовые компании (когда я работал несколько лет назад в райффайзенбанке, доступ в телеграм с рабочих компьютеров нужно было **согласовывать**)
-- компании, работающие с “госухой”, вынуждены работать с тендерами, что, в свою очередь, заставляет планировать и планировать и планировать, и "давить по срокам", потому что планирование **всегда** неточно
-- компании, занимающиеся продуктовой разработкой, и "живущие" на деньги клиентов за подписку, кажутся мне наиболее адекватными
+Company business model influence (or even defines) its culture.
 
-**todo:** ещё примеры
+Examples are:
+- banks en masse are more conservative than product companies (some even have a procedure for requesting and approving access to things like messengers)
+- companies working with government contracts’ are quite conservative too — most likely there will be no incremental development and no way for developers to talk to live users of the software
 
 ### Какой формат работы
 
