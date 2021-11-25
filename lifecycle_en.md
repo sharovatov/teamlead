@@ -6,13 +6,13 @@ First you need to understand that companies need you more, than you need them. T
 
 You have full right to ask questions, request changing the interview or offer conditions, ask for transparency in compensation etc.
 
-## Поиск работы
+## Job search
 
-Нужно определиться:
-- что ты ищешь — какую роль или набор ролей
-- какую компанию ты хочешь
-- какой формат работы тебе важен
-- какие условия труда тебе интересны
+You need to decide on:
+- what you need — a role or a set of roles
+- what kind of a company you want
+- what employment format you’re after
+- what work conditions you’d like
 
 ### Какую роль или набор ролей ты хочешь
 
