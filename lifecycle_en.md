@@ -35,9 +35,9 @@ Choice criteria are always individual, but here’s a few to think of:
 - company field of business
 - [company business model](https://en.wikipedia.org/wiki/Business_model)
 - if a company has [CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
-- growth possibilities 
-- возможность обучения других и/или поддержка таких активностей
-- поддержка opensource
+- growth possibilities
+- company support for learning, education, mentorship
+- opensource support
 
 Бинзнес-модель компании прямо влияет на культуру.
 - банки en masse более консервативны, чем другие продуктовые компании (когда я работал несколько лет назад в райффайзенбанке, доступ в телеграм с рабочих компьютеров нужно было **согласовывать**)
