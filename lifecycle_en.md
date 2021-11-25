@@ -9,28 +9,29 @@ You have full right to ask questions, request changing the interview or offer co
 ## Job search
 
 You need to decide on:
-- what you need — a role or a set of roles
-- what kind of a company you want
-- what employment format you’re after
-- what work conditions you’d like
 
-### Какую роль или набор ролей ты хочешь
+ - what you need — a role or a set of roles
+ - what kind of a company you want
+ - what employment format you’re after
+ - what work conditions you’d like
 
-Часто компании публикуют вакансии с уже зафиксированной ролью или набором ролей.
+### What you need — a role or a set of roles
 
-Определись, что именно тебе хочется.
+Often companies publish vacancies with a ‘fixed’ role in the job description.
 
-Вполне нормально предлагать компании совмещение ролей.
+You need to decide what you need for yourself, don’t just look at what’s written.
 
-Самый известный пример — fullstack developer (подразумевающий совмещение ролей разработчика frontend и backend.
+It’s OK to request or propose a combination of roles.
 
-Если ты хочешь, например, развиваться как дизайнер и фронтендер сразу — обсуждай это, уверяю тебя, множество компаний готовы будут пойти навстречу.
+Most popular roles combination case — fullstack developer.
 
-### Какую компанию ты хочешь
+But in case you want to grow let’s say in design and frontend — negotiate, I assure you, there’s a huge lot of companies that will be willing to satisfy this need.
 
-Стоит определиться также и с тем, какая компания тебе подходит больше, а какая меньше.
+### What kind of a company you want
 
-Критерии, которые могут быть важны:
+You need to decide what types of companies suit you more.
+
+Choice criteria are always individual, but here’s a few to think of:
 - отрасль
 - [бизнес-модель](https://ru.wikipedia.org/wiki/Бизнес-модель)
 - CSR-активности ([компании и CSR](https://git.io/itcsr))
