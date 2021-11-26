@@ -56,9 +56,7 @@ Some do remote just fine.
 It seems worthy to also do the following:
 - see court cases for the company
 - find employees from this company in social networks, talk to them and find out what it’s like to work there
-- посмотреть историю судебных дел, заведенных на компанию
-- найти работающих в этой компании знакомых и поузнавать у них, что да как
-- посмотреть в интернете отзывы о работе в компании
+- find former employees’ reviews on the company
 
 ## До собеседования
 
