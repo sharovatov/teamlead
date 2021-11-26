@@ -64,11 +64,11 @@ General advice is: don’t apply on the company website, don’t even touch recr
 
 Each new chain link yields more information loss. Stories when recruiters lost important information or even discarded a candidate for some weird reasons — are not unheard of.
 
-Лучше всего выйти непосредственно на нанимающего менеджера и обсуждать вакансию с ним.
+It’s always better to find the hiring manager and apply to him directly.
 
-Выйти на него всегда довольно просто — спроси знакомых/товарищей в телеге, у кого-то точно будет знакомый трудиться в компании, что тебе интересна.
+And doing that shouldn’t be really hard — you can always find people working with this manager in linkedin.
 
-Возможно, нанимающий менеджер тебя всё же переправит рекрутеру, однако у рекрутера уже не будет возможности по каким-то своим причинам тебя «отфильтровать».
+There is a possibility that this hiring manager will route you to the recruiter anyway, but there will be no way for the recruiter to reject you.
 
 Если тебе написал рекрутер, найти потенциально будущих коллег в телеграме и расспросить всё равно стоит.
 
