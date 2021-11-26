@@ -58,9 +58,11 @@ It seems worthy to also do the following:
 - find employees from this company in social networks, talk to them and find out what it’s like to work there
 - find former employees’ reviews on the company
 
-## До собеседования
+## Before the interview
 
-Если ищешь работу сам — советую не подавать заявку на сайте компании, не обращаться к рекрутерам компании. Дополнительное звено всегда означает потерю информации, а ещё бывает так, что рекрутер начинает добавлять "свои" правила фильтрации. Тебе такой риск точно не нужен.
+General advice is: don’t apply on the company website, don’t even touch recruiters.
+
+Each new chain link yields more information loss. Stories when recruiters lost important information or even discarded a candidate for some weird reasons — are not unheard of.
 
 Лучше всего выйти непосредственно на нанимающего менеджера и обсуждать вакансию с ним.
 
