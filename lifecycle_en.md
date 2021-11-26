@@ -45,13 +45,17 @@ Examples are:
 - banks en masse are more conservative than product companies (some even have a procedure for requesting and approving access to things like messengers)
 - companies working with government contracts’ are quite conservative too — most likely there will be no incremental development and no way for developers to talk to live users of the software
 
-### Какой формат работы
+### Employment format
 
-- удалёнка
-- гибрид (обязательно в офисе Х дней в неделю + остальные дома)
-- офис
+There still are companies requiring office work.
 
-Также стоит:
+Some are OK with ‘hybrid’ (part office part remote).
+
+Some do remote just fine.
+
+It seems worthy to also do the following:
+- see court cases for the company
+- find employees from this company in social networks, talk to them and find out what it’s like to work there
 - посмотреть историю судебных дел, заведенных на компанию
 - найти работающих в этой компании знакомых и поузнавать у них, что да как
 - посмотреть в интернете отзывы о работе в компании
