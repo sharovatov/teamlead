@@ -100,13 +100,11 @@ Decide if you’re ready to do a take-home test or task.
 
 I’d advise to ignore companies with a take-home test and/or multiple interview stages: it’s not hard to understand if you’re fit for position with one interview.
 
-## Собеседование
+## The interview
 
-Попроси обратную связь после каждой стадии.
+Ask for proper feedback after each interview stage.
 
-Если компания не даёт обратной связи после каждой стадии собеседования — это плохой знак. Стало быть, уровень компетенций нанимающих менеджеров низок.
-
-Иногда компании предлагают пройти полиграф — советую бежать от такой компании подальше, это прямой признак какой-то запредельной дичи внутри.
+A company not providing detailed feedback after the interview is a no-go. The usual excuse for not giving detailed feedback is lack of time. A manager with such an excuse is incompetent — overutilising employees time is a usual sign of incompetence in intellectual labour.
 
 ## Оффер
 
