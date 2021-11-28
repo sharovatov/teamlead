@@ -70,7 +70,8 @@ And doing that shouldn’t be really hard — you can always find people working
 
 There is a possibility that this hiring manager will route you to the recruiter anyway, but there will be no way for the recruiter to reject you.
 
-Если тебе написал рекрутер, найти потенциально будущих коллег в телеграме и расспросить всё равно стоит.
+If a recruiter approached you, ask them for team members’ contacts or hiring manager contact, or find them elsewhere; then talk to them. Skip recruiter if possible.
+
 
 ### Персональные данные
 
