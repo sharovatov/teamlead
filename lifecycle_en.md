@@ -78,13 +78,7 @@ Read about [GDPR in recruitment](https://resources.workable.com/tutorial/gdpr-co
 
 General advice: if you disliked the company during the interview or any other communication — ask them to remove your personal information.
 
-### Персональные данные
-
-Как только ты начал с компанией общение, и у тебя запросили резюме, компания (если она действует в РФ) должна подписать с тобой соглашение об обработке персональных данных.
-
-Ведь получая твоё резюме, компания эти самые данные обрабатывает и хранит, а то и, порой, передаёт другим компаниям.
-
-Если тебе сохранность твоих пользовательских данных важна, советую почитать соглашение и убедиться, что там нет пункта о «передаче данных третьим сторонам». Если такой пункт есть, можно попросить его убрать.
+This request will lower the chance of your data shared with some third parties.
 
 ### Вопросы к компании
 
