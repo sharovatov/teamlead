@@ -80,13 +80,19 @@ General advice: if you disliked the company during the interview or any other co
 
 This request will lower the chance of your data shared with some third parties.
 
-### Вопросы к компании
+### Questions you will ask
 
-Составь свой список важных вопросов, набрать примеров [можно тут](company_interview.md).
+Prepare a list of important questions that you will ask the company during the interview.
 
-Советую ещё до собеседования передать список вопросов сотруднику, с которым ты общаешься (рекрутер или нанимающий менеджер).
+Remember:
+- companies need you more than you need them
+- you will be spending at least 40 hours a week working so you need to make sure you’ll be enjoying the process
 
-Убедись, что на свои вопросы ты получил ответ. Не нужно стесняться, сотрудники нужны компаниям больше, чем компании — сотрудникам.
+Ask the questions, make sure you get all answers. Don’t be shy to repeat questions that weren’t answered.
+
+Ask in advance how many interview stages you’ll have, how much time they will take and who will be interviewing you.
+
+Ask what you’ll need to do during the interview.
 
 Заранее узнай, сколько стадий будет содержать собеседование, с кем они будут проходить, сколько времени займёт весь процесс, как будет проходить каждая стадия.
 
