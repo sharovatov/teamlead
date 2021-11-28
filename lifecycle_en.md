@@ -72,7 +72,6 @@ There is a possibility that this hiring manager will route you to the recruiter 
 
 If a recruiter approached you, ask them for team members’ contacts or hiring manager contact, or find them elsewhere; then talk to them. Skip recruiter if possible.
 
-
 ### Персональные данные
 
 Как только ты начал с компанией общение, и у тебя запросили резюме, компания (если она действует в РФ) должна подписать с тобой соглашение об обработке персональных данных.
