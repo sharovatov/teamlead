@@ -72,6 +72,12 @@ There is a possibility that this hiring manager will route you to the recruiter 
 
 If a recruiter approached you, ask them for team members’ contacts or hiring manager contact, or find them elsewhere; then talk to them. Skip recruiter if possible.
 
+### Personal data
+
+Read about [GDPR in recruitment](https://resources.workable.com/tutorial/gdpr-compliance-guide-recruiting).
+
+General advice: if you disliked the company during the interview or any other communication — ask them to remove your personal information.
+
 ### Персональные данные
 
 Как только ты начал с компанией общение, и у тебя запросили резюме, компания (если она действует в РФ) должна подписать с тобой соглашение об обработке персональных данных.
