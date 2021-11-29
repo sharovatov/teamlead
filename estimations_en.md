@@ -227,3 +227,6 @@ Dysfunctional tools like Gannt charts are still very popular, and if anyone prov
 
 TBC
 
+## Links
+
+- [History is the Key to Estimation Success @ HSM](https://www.qsm.com/sites/default/files/qsm/DACS_Article_Feb2012.pdf)
