@@ -130,6 +130,10 @@ It’s both in you and your manager interest to ensure you pass your probation p
 
 Sync with them to get a proper understanding of the expectations you need to satisfy.
 
+## Business trips
+
+Ask in advance if you’re required to travel, how often it will happen and how long the trips will take. It will be also useful to see how the trips’ expenses are compensated.
+
 ## Командировки
 
 По ТК работодатель имеет полное право отправить тебя в командировку. Узнай заранее, как оплачиваются командировочные (суточные), отель и поездка. Если у тебя потребуют отчетные закрывающие документы, не забудь сохранять посадочные и документы из отеля.
