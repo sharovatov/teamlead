@@ -140,10 +140,10 @@ You need to accept the fact that salaries in IT have been growing steadily for t
 
 If you worked at a company for a year and haven’t received a pay rise, it’s time to think why you are treated like that. Chances are that your company is already hiring new employees with a salary higher than yours.
 
+## Growth, development and learning
 
-## Увольнение
-- как красиво уйти?
-- как быть, если тебя просят уйти?
-- уходишь, дают контрофер, что делать?
+- company needs your growth more than you do
+
+## Leaving the company or getting fired
 
 
