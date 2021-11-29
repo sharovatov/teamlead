@@ -42,8 +42,8 @@ Pull requests and discussions are always welcome.
 ## Process rationalisation
 - [‘code review’ review — history and effectiveness ](codereview_en.md) (translations: [:ru: Russian](codereview.md))
 - [Preparing developer’s firing starts on her first day](firing_en.md) (translations: [:ru: Russian](firing.md))
-- [regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md))
-- [estimations aren’t rational](estimations_en2.md) (translations: [:ru: Russian](estimations.md)
+- [Regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md))
+- [Estimations aren’t rational](estimations_en.md) (translations: [:ru: Russian](estimations.md))
 - [правовые нюансы увольнения](firing_law.md)
 - [github effect — почему писать статьи выгодно](github-effect.md)
 - [кружок качества](quality_circle.md)
