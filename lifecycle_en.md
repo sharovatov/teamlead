@@ -116,13 +116,13 @@ Make sure the total compensation structure is listed exactly as negotiated.
 
 In case you will have bonuses, make also sure you understand how much and what for you’ll be given them.
 
-## Процесс выхода
+## First day
 
-Проверь с нанимающим менеджером или рекрутером, что тебе дадут именно то оборудование, что ты хотел. Убедись, что это оборудование будет ждать тебя в день выхода на работу.
-
-Помни, что оборудование _обязаны_ выдать при оформлении по ТК РФ. Если тебе _не_ выдают оборудование, должны дать денег на его покупку. Если ты собираешься работать на своём компьютере, выясни, каким образом тебе компенсируют его амортизацию.
-
-Убедись, что с самого первого дня за тобой закреплен ментор, или кто-то, занимающийся твоей адаптацией.
+Get yourself a checklist of what needs to be done on the first day:
+- equipment
+- accesses
+- mentor assigned
+- onboarding plan provided
 
 ## Испытательный срок
 
