@@ -172,13 +172,13 @@ It seems that all these three features were well-worth to do, according to our e
 Now let's see what happened when the features Square, Circle and Triangle got developed and delivered to the clients:
 
 ```
-+-----------+----------------------------+-------------------------------+
-|  feature  |  revenue result            |  cost result                  |
-+-----------+----------------------------+-------------------------------+
-|  Square   |  $90k   (from $50k-$90k)   |  $13k  (from $10k-$40k)       |
-|  Circle   |  $200k  (from $150k-$200k) |  $30k  (from $15k-$30k)       |
-|  Triangle |  $30k   (from $300k-$400k) |  $40k  (from $20k-$24k)       |
-+-----------+----------------------------+-------------------------------+
++-----------+----------------------------+-------------------------+
+|  feature  |  revenue result            |  cost result            |
++-----------+----------------------------+-------------------------+
+|  Square   |  $90k   (from $50k-$90k)   |  $13k  (from $10k-$40k) |
+|  Circle   |  $200k  (from $150k-$200k) |  $30k  (from $15k-$30k) |
+|  Triangle |  $30k   (from $300k-$400k) |  $40k  (from $20k-$24k) |
++-----------+----------------------------+-------------------------+
 ```
 
 As we can see, a few estimations were wrong.
