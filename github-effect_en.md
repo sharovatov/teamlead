@@ -24,6 +24,8 @@ I post articles on github for myself and the community, so there’s no threat f
 
 Also as I’m aware that my articles will be seen by people, I’m ashamed to write low-quality content, where ‘low quality’ I define as ‘not argumented well enough’.
 
+A good feedback loop emerges naturally — more ‘I didn’t get your point’ comments I receive, more I wish to reformulate the arguments or support them better with scientific proofs.
+
 ## Discussions time is saved
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
@@ -31,11 +33,6 @@ Also as I’m aware that my articles will be seen by people, I’m ashamed to wr
 ## Company PR is improved
 ## Self-education discipline is improved
 
-В то же время, раз сообщество смотрит, и по написанному ведутся дискуссии, появляется внутреннее ощущение «стыда» писать «плохо», где «плохо» = недостаточно аргументированно.
-
-Формируется достаточно явный цикл обратной связи — получил много «я не понял, а ты дурак» комментариев — появилось желание переформулировать аргументацию, или подготовить больше материала.
-
-## Экономлю время
 
 Раньше мои дискуссии длились гораздо дольше, и приходилось приводить одну и ту же аргументацию раз за разом.
 
