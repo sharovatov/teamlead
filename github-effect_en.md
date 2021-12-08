@@ -5,14 +5,20 @@ Last few years I’ve been giving many talks and writing a lot here on github.
 I’ve realised many good effects that this practice had.
 
 - [I structure and formulate my thoughts better](#formulate-thoughts-better)
-- [Discussions time is saved](#save-discussions-time)
+- [Discussions time is saved](#discussions-time-is-saved)
 - [I’m ashamed to do bad things](#ashamed-to-do-bad-things)
-- [Thoughts’ evolution is public](#public-thoughts-evolution)
+- [Thoughts’ evolution is public](#thoughts-are-evolved-publicly)
 - [CV is improved](#cv-is-improved)
 - [My company PR is improved](#company-pr-is-improved)
 - [Self-education discipline is improved](#self-education-discipline-improved)
 
 ## Formulate thoughts better
+## Discussions time is saved
+## Ashamed to do bad things
+## Thoughts are evolved publicly
+## CV is improved
+## Company PR is improved
+## Self-education discipline is improved
 
 Написание статей неизбежно тренирует навык формулирования постулатов, тезисов и аргументов.
 
