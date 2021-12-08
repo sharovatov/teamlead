@@ -5,12 +5,12 @@ Last few years I’ve been giving many talks and writing a lot here on github.
 I’ve realised many good effects that this practice had.
 
 - [I structure and formulate my thoughts better](#formulate-thoughts-better)
-- [экономлю время дискуссий](#экономлю-время)
-- [стыдно делать плохо](#стыдно-делать-плохо)
-- [сохраняется история развития мысли](#сохраняется-история-развития-мысли)
-- [резюме улучшается](#резюме-улучшается)
-- [реклама компании моей](#реклама-компании)
-- [дисциплина самообразования](#дисциплина-самообразования)
+- [Discussions time is saved](#save-discussions-time)
+- [I’m ashamed to do bad things](#ashamed-to-do-bad-things)
+- [Thoughts’ evolution is public](#public-thoughts-evolution)
+- [CV is improved](#cv-is-improved)
+- [My company PR is improved](#company-pr-is-improved)
+- [Self-education discipline is improved](#self-education-discipline-improved)
 
 ## Formulate thoughts better
 
