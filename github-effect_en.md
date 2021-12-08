@@ -13,6 +13,11 @@ I’ve realised many good effects that this practice had.
 - [Self-education discipline is improved](#self-education-discipline-improved)
 
 ## Formulate thoughts better
+
+Writing articles and giving talks is the best way of training of how I formulate postulates and arguments.
+
+The process improves logical and rational thinking and in high challenge / low threat environment improves cognitive and analytical skills too.
+
 ## Discussions time is saved
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
