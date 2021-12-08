@@ -20,14 +20,16 @@ The process improves logical and rational thinking and in high challenge / low t
 
 High challenge / low threat model is described in [Mary Myatt’s book](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X). The concept is simple: learning is more effective when your curiosity is provoked and challenged, and topics you’re learning and complicated.
 
+I post articles on github for myself and the community, so there’s no threat for my curiosity.
+
+Also as I’m aware that my articles will be seen by people, I’m ashamed to write low-quality content, where ‘low quality’ I define as ‘not argumented well enough’.
+
 ## Discussions time is saved
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
 ## CV is improved
 ## Company PR is improved
 ## Self-education discipline is improved
-
-Веду гитхаб я для себя и сообщества, соответственно, первый рецензент — я, стало быть, угрозы подавления любознательности нет никакой.
 
 В то же время, раз сообщество смотрит, и по написанному ведутся дискуссии, появляется внутреннее ощущение «стыда» писать «плохо», где «плохо» = недостаточно аргументированно.
 
