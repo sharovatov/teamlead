@@ -18,18 +18,14 @@ Writing articles and giving talks is the best way of training of how I formulate
 
 The process improves logical and rational thinking and in high challenge / low threat environment improves cognitive and analytical skills too.
 
+High challenge / low threat model is described in [Mary Myatt’s book](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X). The concept is simple: learning is more effective when your curiosity is provoked and challenged, and topics you’re learning and complicated.
+
 ## Discussions time is saved
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
 ## CV is improved
 ## Company PR is improved
 ## Self-education discipline is improved
-
-Написание статей неизбежно тренирует навык формулирования постулатов, тезисов и аргументов.
-
-Сам же процесс формулирования улучшает логическое мышление, и в условиях high challenge / low threat побуждает к значительному развитию когнитивных и аналитических способностей.
-
-High challenge / low threat модель описана [в книге Mary Myatt](books.md). Концепция простая — обучение эффективнее тогда, когда любознательность поощряется, а темы для изучения довольно сложны и объёмны.
 
 Веду гитхаб я для себя и сообщества, соответственно, первый рецензент — я, стало быть, угрозы подавления любознательности нет никакой.
 
