@@ -1,7 +1,4 @@
 # Вопросы начинающего рекрутера к более опытным товарищам
-
-**Короткая ссылка на эту страницу**: `https://git.io/recruiter_faq`
-
 Вначале стоит ознакомиться с [профстандартом специалиста по подбору](https://rark-kazan.ru/files/docs/ps_spup_na_24_09_15_mintrud.pdf).
 
 Потом нужно ознакомиться со [словарём рекрутера](https://github.com/sharovatov/teamlead/blob/master/recruiting.md)
