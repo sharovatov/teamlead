@@ -2,9 +2,9 @@
 
 **short link to this page**: `https://git.io/teamlead`
 
-More about me [here (Russian only so far)](https://github.com/sharovatov).
+More about me [here](https://github.com/sharovatov).
 
-I’d be glad to give lectures in your company or mentor you or your teamleads.
+I’d be glad to give lectures in your company or mentor you or your team leaders.
 
 My telegram is [@vitaly19842](http://t.me/vitaly19842), feel free to text me there.
 
