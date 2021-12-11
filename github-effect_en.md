@@ -56,13 +56,8 @@ Better I’m perceived as a specialist, better my company is perceived on the ma
 
 ## Self-education discipline is improved
 
-Я даже не предполагал раньше, что ведение публичного гитхаба со статьями и записями будет столь сильно мотивировать к постоянному самообразованию и тому, чтобы делиться информацией с миром.
+I didn’t even think how great would writing articles and giving talks motivate me to learn more and to share more with the community. Every single github star and every single bit of feedback after a talk charge me more and more to do more for the community.
 
-Каждый день я трачу от часа и больше на ведение гитхаба, и ещё ни разу за последние месяцы я не _заставлял_ себя писать — всегда очень _хочется_.
-
-### Релевантные ссылки
+### References
 
 - [learn in public](https://www.swyx.io/learn-in-public/)
-- [о других плюсах и эффектах мышления через письмо](https://habr.com/ru/post/526336/)
-- [понимание механизмов работы мозга — ключ к созданию новой науки об обучении](https://www.oecd-ilibrary.org/education/understanding-the-brain/summary/russian_9789264174986-sum-ru;jsessionid=v4d5WWJcy6x2s57K7N5sOMsM.ip-10-240-5-92)
-- [high challenge / low threat](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X)
