@@ -31,16 +31,16 @@ Pull requests and discussions are always welcome.
 
 ## Work ethics and culture
 
-- [counter-intuitive management concepts](tl_bias_en.md) (translations: [:ru: Russian](tl_bias.md))
-- [ответственность, не вина](blameless_responsibility.md)
-- [накопление знаний](knowledge.md)
-- [менторство](mentorship.md)
-- [публичность и прозрачность](transparency.md)
-- [рациональность и инновации](innovations.md)
-- [все ребята хороши: рост или не рост?](growth-stability.md)
+- [counter-intuitive management concepts](articles/tl_bias_en.md) (translations: [:ru: Russian](articles/tl_bias.md))
+- [ответственность, не вина](articles/blameless_responsibility.md)
+- [накопление знаний](articles/knowledge.md)
+- [менторство](articles/mentorship.md)
+- [публичность и прозрачность](articles/transparency.md)
+- [рациональность и инновации](articles/innovations.md)
+- [все ребята хороши: рост или не рост?](articles/growth-stability.md)
 
 ## Process rationalisation
-- [‘code review’ review — history and effectiveness ](codereview_en.md) (translations: [:ru: Russian](codereview.md))
+- [‘code review’ review — history and effectiveness ](articles/codereview_en.md) (translations: [:ru: Russian](articles/codereview.md))
 - [Preparing developer’s firing starts on her first day](firing_en.md) (translations: [:ru: Russian](firing.md))
 - [Regular 1-1s aren’t as useful as people think](1-1_en.md) (translations: [:ru: Russian](1-1.md))
 - [Estimations aren’t rational](estimations_en.md) (translations: [:ru: Russian](estimations.md))
