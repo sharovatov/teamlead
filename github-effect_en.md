@@ -31,26 +31,23 @@ A good feedback loop emerges naturally — more ‘I didn’t get your point’ 
 I used to spend lots of time arguing over pretty much the same topics again and again in chats.
 
 It’s quite hard for me to see someone wrong and resist from jumping in and spend time on explaining why the thesis is wrong.
+
+Many times I regretted that the discussion wasn’t fruitful even though I wanted to help.
+
+I consider this regret or the urge to jump in to be my internal conflict.
+
+But now it seems I have successfully resolved the conflict in the following manner:
+- if I see some discussion that I truly want to participate, I write down the topic and the arguments that people have
+- whenever I have time, I sit and formulate my point of view and my arguments here in github article
+- I then come and ‘bump’ the discussion with an article I have prepared
+- I gather counter-arguments and revisit my article then
+
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
 ## CV is improved
 ## Company PR is improved
 ## Self-education discipline is improved
 
-Получается, что вроде бы не надо было влезать, но пользу очень хотелось принести.
-
-Происходил внутренний конфликт, чувствовал себя погано, “В ИНТОРНЕТЕ КТОТА НИПРАВ“.
-
-Кажется, что хотелось сразу и пользу принести, и время не потратить прямо в тот момент.
-
-Теперь процесс мой выглядит не:
-- увидел что-то, на что хочется отреагировать
-- отреагировал сразу, прервав поток свой (или не отрегировал и чувствую дискомфорт)
-
-а так:
-- увидел что-то, на что хочется отреагировать
-- записал тему себе на проработку
-- когда появилось время, сажусь и прорабатываю, выкладываю потом
 
 Если аргументация и статья уже были, но недостаточно проработаны были (меня не поняли), информация о непроработанности помогает доработать аргументацию.
 
