@@ -8,7 +8,7 @@ I’ve realised many good effects that this practice had.
 - [Discussions time is saved](#discussions-time-is-saved)
 - [Thoughts’ evolution is public](#thoughts-are-evolved-publicly)
 - [My company PR is improved](#company-pr-is-improved)
-- [Self-education discipline is improved](#self-education-discipline-improved)
+- [Self-education discipline is improved](#self-education-discipline-is-improved)
 
 ## Formulate thoughts better
 
