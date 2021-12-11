@@ -49,11 +49,12 @@ Many times re-reading my articles I was noticing that things could have been for
 Another benefit of making the thought process public is that the articles are of more value for the hiring managers than any CV.
 
 ## Company PR is improved
+
+More articles I write, better I’m perceived as a specialist (well, of course if I write something of value).
+
+Better I’m perceived as a specialist, better my company is perceived on the market.
+
 ## Self-education discipline is improved
-
-Написание мною статей выгодно и компании, в которой я работаю — среди соискателей и клиентов формируется более выгодный имидж компании.
-
-## Дисциплина самообразования
 
 Я даже не предполагал раньше, что ведение публичного гитхаба со статьями и записями будет столь сильно мотивировать к постоянному самообразованию и тому, чтобы делиться информацией с миром.
 
