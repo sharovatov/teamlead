@@ -55,10 +55,9 @@ Pull requests and discussions are always welcome.
 - [подготовка к выступлениям](speaking_club.md)
 
 ## Recommendations
-- [книги, обязательные к прочтению](books.md)
-- [доклады, что стоит посмотреть](talks.md)
-- [каналы в телеграме](tg-channels.md)
-- [articles](articles_en.md)
+- [Books to read](books.md)
+- [Talks to watch](talks.md)
+- [Telegram channels](tg-channels.md)
 
 ## Minor things
 - [.vimrc](.vimrc) — my vim config
