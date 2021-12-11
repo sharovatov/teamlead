@@ -27,16 +27,15 @@ Also as I’m aware that my articles will be seen by people, I’m ashamed to wr
 A good feedback loop emerges naturally — more ‘I didn’t get your point’ comments I receive, more I wish to reformulate the arguments or support them better with scientific proofs.
 
 ## Discussions time is saved
+
+I used to spend lots of time arguing over pretty much the same topics again and again in chats.
+
+It’s quite hard for me to see someone wrong and resist from jumping in and spend time on explaining why the thesis is wrong.
 ## Ashamed to do bad things
 ## Thoughts are evolved publicly
 ## CV is improved
 ## Company PR is improved
 ## Self-education discipline is improved
-
-
-Раньше мои дискуссии длились гораздо дольше, и приходилось приводить одну и ту же аргументацию раз за разом.
-
-Вдобавок, мне лично очень трудно удержаться, когда вижу что-то, на мой взгляд, неоптимальное, и потом корю себя порой, что влез и потратил кучу времени на дискуссию, хотя приоритет и низкий был.
 
 Получается, что вроде бы не надо было влезать, но пользу очень хотелось принести.
 
