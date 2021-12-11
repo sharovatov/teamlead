@@ -6,9 +6,7 @@ I’ve realised many good effects that this practice had.
 
 - [I structure and formulate my thoughts better](#formulate-thoughts-better)
 - [Discussions time is saved](#discussions-time-is-saved)
-- [I’m ashamed to do bad things](#ashamed-to-do-bad-things)
 - [Thoughts’ evolution is public](#thoughts-are-evolved-publicly)
-- [CV is improved](#cv-is-improved)
 - [My company PR is improved](#company-pr-is-improved)
 - [Self-education discipline is improved](#self-education-discipline-improved)
 
@@ -40,30 +38,18 @@ But now it seems I have successfully resolved the conflict in the following mann
 - if I see some discussion that I truly want to participate, I write down the topic and the arguments that people have
 - whenever I have time, I sit and formulate my point of view and my arguments here in github article
 - I then come and ‘bump’ the discussion with an article I have prepared
-- I gather counter-arguments and revisit my article then
+- I gather counter-arguments and revisit my article then to address them
 
-## Ashamed to do bad things
 ## Thoughts are evolved publicly
-## CV is improved
+
+Git is a great instrument to show the thoughts process evolution in time. Revising how your thought process evolves is an essential part of self-reflection.
+
+Many times re-reading my articles I was noticing that things could have been formulated differently, easier to understand.
+
+Another benefit of making the thought process public is that the articles are of more value for the hiring managers than any CV.
+
 ## Company PR is improved
 ## Self-education discipline is improved
-
-
-Если аргументация и статья уже были, но недостаточно проработаны были (меня не поняли), информация о непроработанности помогает доработать аргументацию.
-
-## Cтыдно делать плохо
-
-Если пишешь одно, а делаешь другое — становится стыдно. Написанное и выложенное на публику мотивирует в работе придерживаться описанных принципов.
-
-## Сохраняется история развития мысли
-
-Гит предоставляет отличный инструмент ревизии процесса развития мысли по записанной теме. Ревизия процесса развития мысли — крайне полезная штука для рефлексии. За собой неоднократно замечал, что после ревизии перехода между версиями одной презентации помогает «нащупать» процессы, которые можно хорошо улучшить.
-
-## Резюме улучшается
-
-Написание статей натуральным образом формирует общедоступный пакет знаний, гораздо лучше характеризующий меня как специалиста, чем просто резюме.
-
-## Реклама компании
 
 Написание мною статей выгодно и компании, в которой я работаю — среди соискателей и клиентов формируется более выгодный имидж компании.
 
