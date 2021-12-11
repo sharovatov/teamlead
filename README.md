@@ -1,12 +1,12 @@
 # About me
 
-**short link to this page**: `https://git.io/teamlead`
+**Short link to this page**: `https://git.io/teamlead`
 
 More about me [here](https://github.com/sharovatov).
 
 I’d be glad to give lectures in your company or mentor you or your team leaders.
 
-My telegram is [@vitaly19842](http://t.me/vitaly19842), feel free to text me there.
+My telegram is [@vitaly19842](http://t.me/vitaly19842); feel free to text me there.
 
 The playlist of all my talks is [on youtube](https://www.youtube.com/watch?v=0DwEsMgMbj0&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
