@@ -1,5 +1,7 @@
 # Code review — bad, expensive, ineffective (in most cases)
 
+**This article was featured on hackernoon: [https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases)**
+
 Code review = CR in a «blocking» mode (where code waiting for review is not deployed until reviewed).
 
 I will try to investigate CR limits to applicability.
