@@ -1,4 +1,4 @@
-# Blameless responsibility culture
+# Rational improvements culture
 
 ## Conservative (rigid, non-changing process)
 
