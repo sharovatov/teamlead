@@ -96,9 +96,9 @@ I suggest a simple guidance (or a thought model, not sure how to call it better)
 
 **Consider a scenario**:
 
-An employee brings two problems: one stating that ‘tests are getting flaky’ and another stating that ‘daily standups are useless’.
+An employee brings up two problems: one stating that ‘tests are getting flaky’ and another stating that ‘daily standups are useless’.
 
-
+This manner of bringing up problems has a problem — it requires the team or the team leader (depending on the team structure) to take 
 
 Стало быть, сотрудник может не просто сообщать о проблеме, а приносить результат анализа сложившейся ситуации и свои предложения о том, как проблему можно решить. Возможно, даже несколько вариантов решения с указанием цены и выгоды каждого.
 
