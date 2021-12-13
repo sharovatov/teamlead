@@ -108,7 +108,7 @@ These two drawbacks usually cause the whole team to struggle while discussing th
 
 An employee brings up two problems _with_ the proper analysis of the cause, effect and a potential solution to problems.
 
-The team (or the team leader) just has to validate if the analysis and synthesis was done properly, and there can be pretty much no heated discussion of opinions.
+The team (or the team leader) just has to validate or discuss if the analysis and synthesis was done properly, and there can be pretty much no heated discussion of opinions.
 
 In Russian labour culture we have so-called [‘technical and economical rationalisation’ [RUS]](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование) concept, which in the West is called [‘feasibility study’](https://en.wikipedia.org/wiki/Feasibility_study).
 
@@ -118,8 +118,6 @@ In Russian labour culture we have so-called [‘technical and economical rationa
 2. the information flow is a prerequisite for the process change and adaptation
 1. process change and adaptation is a prerequisite for the company being able to better survive market change
 ```
-
-
 
 ## Дополнительно
 
