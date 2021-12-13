@@ -102,9 +102,13 @@ This manner of bringing up problems has a few drawbacks:
 — it requires the team or the team leader (depending on the team structure) to spend time with the person who brought the issue
 - people might have different opinion on the problem severity
 
-These two drawbacks usually cause the whole team to struggle while discussing the issue — as people tend to be irrational most of the times.
+These two drawbacks usually cause the whole team to struggle while discussing the issue — as people tend to be irrational sometimes and discussions might need facilitation or even moderation.
 
-Стало быть, сотрудник может не просто сообщать о проблеме, а приносить результат анализа сложившейся ситуации и свои предложения о том, как проблему можно решить. Возможно, даже несколько вариантов решения с указанием цены и выгоды каждого.
+**Now consider this scenario**:
+
+An employee brings up two problems _with_ the proper analysis of the cause, effect and a potential solution to problems.
+
+The team (or the team leader) just has to validate if the analysis and synthesis was done properly, and there can be pretty much no heated discussion of opinions.
 
 Но мы рассмотрели пример проблемы, в которой сотрудник и правда разбирается, — проблемы технической.
 
