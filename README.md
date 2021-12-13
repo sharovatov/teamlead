@@ -32,7 +32,7 @@ Pull requests and discussions are always welcome.
 ## Work ethics and culture
 
 - [counter-intuitive management concepts](articles/tl_bias_en.md) (translations: [:ru: Russian](articles/tl_bias.md))
-- [ответственность, не вина](articles/blameless_responsibility.md)
+- [rational improvements culture](articles/rational_improvement_en.md) (translations:[:ru: Russian](articles/rational_improvement.md))
 - [накопление знаний](articles/knowledge.md)
 - [менторство](articles/mentorship.md)
 - [публичность и прозрачность](articles/transparency.md)
