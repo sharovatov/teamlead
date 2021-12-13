@@ -98,7 +98,11 @@ I suggest a simple guidance (or a thought model, not sure how to call it better)
 
 An employee brings up two problems: one stating that ‘tests are getting flaky’ and another stating that ‘daily standups are useless’.
 
-This manner of bringing up problems has a problem — it requires the team or the team leader (depending on the team structure) to take 
+This manner of bringing up problems has a few drawbacks:
+— it requires the team or the team leader (depending on the team structure) to spend time with the person who brought the issue
+- people might have different opinion on the problem severity
+
+These two drawbacks usually cause the whole team to struggle while discussing the issue — as people tend to be irrational most of the times.
 
 Стало быть, сотрудник может не просто сообщать о проблеме, а приносить результат анализа сложившейся ситуации и свои предложения о том, как проблему можно решить. Возможно, даже несколько вариантов решения с указанием цены и выгоды каждого.
 
