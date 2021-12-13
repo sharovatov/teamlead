@@ -86,7 +86,7 @@ The employee brings information on the mistake, the manager praises for the info
 
 If people are willing to provide information, information is likely to start to flow.
 
-This information needs to processed.
+This information needs to be processed.
 
 Imagine the situation when everyone brings every bit of information to discuss. Chaos? It certainly is.
 
@@ -99,7 +99,7 @@ I suggest a simple guidance (or a thought model, not sure how to call it better)
 An employee brings up two problems: one stating that ‘tests are getting flaky’ and another stating that ‘daily standups are useless’.
 
 This manner of bringing up problems has a few drawbacks:
-— it requires the team or the team leader (depending on the team structure) to spend time with the person who brought the issue
+- it requires the team or the team leader (depending on the team structure) to spend time with the person who brought the issue
 - people might have different opinion on the problem severity
 
 These two drawbacks usually cause the whole team to struggle while discussing the issue — as people tend to be irrational sometimes and discussions might need facilitation or even moderation.
@@ -113,7 +113,7 @@ The team (or the team leader) just has to validate or discuss if the analysis an
 In Russian labour culture we have so-called [‘technical and economical rationalisation’ [RUS]](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование) concept, which in the West is called [‘feasibility study’](https://en.wikipedia.org/wiki/Feasibility_study).
 
 ```
-4. culture of rationality is a prerequisite for the atmosphere of psychological safety
+4. culture of rational change is a prerequisite for the atmosphere of psychological safety
 3. The atmosphere of psychological safety is a prerequisite for the information flow
 2. the information flow is a prerequisite for the process change and adaptation
 1. process change and adaptation is a prerequisite for the company being able to better survive market change
