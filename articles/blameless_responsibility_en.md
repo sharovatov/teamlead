@@ -110,17 +110,7 @@ An employee brings up two problems _with_ the proper analysis of the cause, effe
 
 The team (or the team leader) just has to validate if the analysis and synthesis was done properly, and there can be pretty much no heated discussion of opinions.
 
-Но мы рассмотрели пример проблемы, в которой сотрудник и правда разбирается, — проблемы технической.
-
-Что же делать, когда проблема скорее процессная? Или непонятно, процессная она или техническая? Как вообще определить, процессная проблема или техническая, и нужно ли разделять эти типы проблем?
-
-Кажется, что особого смысла в таком разделении нет, есть лишь аспект умений и полномочий в решении проблемы:
-- если проблему может полностью решить программист, пусть и отвечает за ее решение;
-- если проблему может полностью решить лишь руководитель, пусть он отвечает за ее решение.
-
-И получается, логично и продуктивно, если руководитель будет «обнажать инструментарий», обучая сотрудников, в частности, и анализу эффективности процессов. В компании будет правильным установить, что любое процессное или технологическое изменение должно проходить процедуру оценки эффективности, лишь тогда оно оправданно.
-
-Добро пожаловать в мир [ТЭО](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование).
+In Russian labour culture we have so-called [‘technical and economical rationalisation’ [RUS]](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование) concept, which in the West is called [‘feasibility study’](https://en.wikipedia.org/wiki/Feasibility_study).
 
 ```
 4. culture of rationality is a prerequisite for the atmosphere of psychological safety
