@@ -86,13 +86,13 @@ The employee brings information on the mistake, the manager praises for the info
 
 If people are willing to provide information, information is likely to start to flow.
 
-Now it’s time to analyse the information
+This information needs to processed.
 
-Начинается все с того, что полученную информацию нужно обработать. Как минимум, нужно понять, насколько проблема — проблема. Нужно определить, есть ли экономический или какой-то иной вред, как именно использовать эту информацию.
+Imagine the situation when everyone brings every bit of information to discuss. Chaos? It certainly is.
 
-Например, сотрудник сообщил, что на тестовом стенде набор автоматических тестов раньше выполнялся за 10 минут, а теперь занимает полчаса.
+It seems that every bit of information (or a problem report) should be somehow prepared for analysis.
 
-Полезна ли эта информация? Безусловно, полезна. Нужно ли что-то с ней делать? Безусловно, нужно.
+I suggest a simple 
 
 Например, надо выяснить, почему изменилось время, есть ли вероятность, что ситуация ухудшится. Также следует разобраться, страдает ли общий процесс производства от увеличения времени выполнения этого набора тестов. И потом найти способ, каким эту проблему можно решить.
 
@@ -123,10 +123,10 @@ Now it’s time to analyse the information
 Добро пожаловать в мир [ТЭО](https://ru.wikipedia.org/wiki/Технико-экономическое_обоснование).
 
 ```
+4. culture of rationality is a prerequisite for the atmosphere of psychological safety
 3. The atmosphere of psychological safety is a prerequisite for the information flow
 2. the information flow is a prerequisite for the process change and adaptation
 1. process change and adaptation is a prerequisite for the company being able to better survive market change
-0. rational 
 ```
 
 
