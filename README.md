@@ -24,7 +24,7 @@ Pull requests and discussions are always welcome.
 
 - [employee lifecycle — from searching for a job to leaving it](articles/lifecycle_en.md) (translations: [:ru: Russian](articles/lifecycle.md))
 - [what to ask a company during or before the interview](articles/company_interview_en.md) (translations: [:ru: Russian](articles/company_interview.md))
-- [найм — что с ним не так](articles/hiring.md)
+- [наём — что с ним не так](articles/hiring.md)
 - [словарь рекрутера](articles/recruiting.md)
 - [FAQ рекрутера](articles/recruiter_FAQ.md)
 - [примитив роста и развития](articles/growth.md)
