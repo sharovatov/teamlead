@@ -2,9 +2,9 @@
 
 I want to cover the employee lifecycle — from the moment they start searching for a job till they leave the company.
 
-First you need to understand that companies need you more, than you need them. The market is constantly growing, developers are always in demand.
+First you need to understand that companies need you more than you need them. The market is constantly growing, developers are always in demand.
 
-You have full right to ask questions, request changing the interview or offer conditions, ask for transparency in compensation etc.
+You have full right to ask questions, request changing the interview process or offer conditions, ask for transparency in compensation etc.
 
 ## Job search
 
