@@ -1,6 +1,13 @@
 # Книги, которые должен прочитать каждый тимлид
 
-**Короткая ссылка на эту страницу**: `https://git.io/teamlead_books`
+## General list
+- Taylor: https://www.amazon.com/Principles-Scientific-Management-Frederick-Taylor/dp/1897363893
+- Shewhart: https://www.amazon.com/gp/product/B00A735MMG
+- Deming: https://www.amazon.com/gp/product/B08BT5PK8V/
+- Deming #2: https://www.amazon.com/gp/product/B08FZLVM1D
+- Drucker: https://www.amazon.com/gp/product/B000FC12PK
+- Detmer: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
+- Sapolsky: https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
 
 ## Поезда, пассажиры... и математика
 
