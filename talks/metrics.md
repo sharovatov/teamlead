@@ -15,6 +15,12 @@ These are the metrics I got from a small poll I did in a few chats
 - % of features done ‘on time’
 - number of comments in merge requests
 - code coverage %
+- time to market
+- number of failed releases in a time period
+- number of hotfixes in a release
+- number of bugs in a release
+- hotfix development time
+- release rollback time
 
 I’ll go through each one of them and will try to understand if it’s rational to use this metric at all.
 
