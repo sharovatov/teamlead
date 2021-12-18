@@ -34,9 +34,9 @@ It’s always good to know what’s unacceptable.
 
 ## What is the staff turnover statistics?
 
-Are you satisfied with the current status quo?
+If people leave a lot, more questions are to be asked.
 
-If not, what are you doing to improve the situation?
+Anyway, ask if the interviewer is satisfied with the current status quo and if not, what they are doing to improve the situation.
 
 Good companies try to make sure employees work as long and productive as possible.
 
