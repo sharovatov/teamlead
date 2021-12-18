@@ -6,19 +6,13 @@ If you think that your question should be here — send a PR.
 
 ## How does the company earn money?
 
-Is the company profitable?
-
-Does it live from investments?
-
-If yes, for how long will they last?
-
-Are new rounds planned?
-
-Will there be shares for the employees?
-
-How are they vested?
-
-What’s the business roadmap, plan and vision?
+- Is the company profitable?
+- Does it live from investments?
+- If yes, for how long will they last?
+- Are new rounds planned?
+- Will there be shares for the employees?
+- How are they vested?
+- What’s the business roadmap, plan and vision?
 
 ## What is your vision of a good employee? What do expect of them?
 
@@ -30,7 +24,7 @@ Some companies have absolutely ridiculous multi-tier interview process, you shou
 
 ## What was the reason of leaving of the last employee?
 
-The way how managers handle firing/leaving is very showing.
+The way how managers handle firing/leaving is showing the culture much more transparently than any words on how much the company values people.
 
 It might also be a good idea to ask for one of the leavers contacts and ask them how it all went.
 
