@@ -66,7 +66,11 @@ It should be obvious that the company is interested in getting you to a full spe
 
 ## How many other candidates are competing for this position?
 
-If some candidates were rejected, what was the reason for rejection?
+Are you sure you want to "compete"?
+
+## If some candidates were rejected, what was the reason for rejection?
+
+The answer to this one might reveal something that wouldn't have been discussed otherwise.
 
 ## What is expected of me during my probation?
 
