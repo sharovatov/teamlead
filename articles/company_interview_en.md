@@ -82,11 +82,13 @@ What’s listed there? Why?
 
 ## How are employees encouraged to grow?
 
+What's the process? Are there performance reviews or any other mechanism like personal growth plan?
+
 ## How are payrises done?
 
 ## Do you have bonuses?
 
-What is considered to be worthy of a bonus?
+What is considered to be worthy of a bonus? Who decides on them?
 
 ## What equipment do you provide?
 
