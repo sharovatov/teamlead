@@ -46,6 +46,12 @@ A company growing really quickly has a very distinctive atmosphere compared to s
 
 ## What is your organisational structure? How do people operate in it?
 
+It's better to find out how complicated the org structure is.
+
+Refs to read:
+- [Red Queen principle](http://pespmc1.vub.ac.be/REDQUEEN.html) (more oftenly cited as Peter's principle)
+- [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law)
+
 ## Are there offices in other cities / countries?
 
 Will you be required to travel? How often?
