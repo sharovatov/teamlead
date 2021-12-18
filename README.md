@@ -6,11 +6,11 @@ More about me [here](https://github.com/sharovatov).
 
 I’d be glad to give lectures in your company or mentor you or your team leaders.
 
-My telegram is [@vitaly19842](http://t.me/vitaly19842); feel free to text me there.
+My telegram is [@vitaly19842](http://t.me/vitaly19842), twitter [vsharovatov1](https://twitter.com/vsharovatov1); feel free to text me there.
 
 The playlist of all my talks is [on youtube](https://www.youtube.com/watch?v=0DwEsMgMbj0&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
 
-I work for [Qase](https://qase.io). We promote TestOps philosophy and help companies manage quality.
+I work for [Qase](https://qase.io). We promote TestOps philosophy and help companies manage quality. I also post on Quality in [Qase twitter](https://twitter.com/qase_io), do follow! :)
 
 # Everything on team leadership
 
