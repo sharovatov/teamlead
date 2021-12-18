@@ -24,6 +24,8 @@ These are the metrics I got from a small poll I did in a few chats
 
 I’ll go through each one of them and will try to understand if it’s rational to use this metric at all.
 
+First, I will group them in logically relevant blocks:
+
 
 
 Обскажу абсурдность и вред каждой.
