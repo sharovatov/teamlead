@@ -42,7 +42,7 @@ Good companies try to make sure employees work as long and productive as possibl
 
 ## How quickly is your company growing?
 
-A company growing really quickly has a very distinctive atmosphere compared to stable ones.
+A company growing really quickly has a very distinctive atmosphere compared to stable ones. You need to make sure you need it (exponential growth never comes along with improving quality, see Amdahl's law).
 
 ## What is your organisational structure? How do people operate in it?
 
