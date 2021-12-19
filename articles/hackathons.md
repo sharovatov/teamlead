@@ -27,4 +27,6 @@ I did a small study of hackathons mentioned on internet, and pretty much all of 
 - lack of sleep
 - no context switch, full focus on doing just one thing
 
-
+I also see that at least in Russia there are two types of hackathons:
+- with external people (people from outside the company)
+- with internal people (for employees)
