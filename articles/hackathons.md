@@ -1,6 +1,6 @@
 # Hackathons considered harmful
 
-I’m bedazzled how well the IT management manages to invent things which are awfully ineffective.
+I’m bedazzled how well the IT management copes with inventing things which are awfully ineffective.
 
 Wikipedia [says](https://en.wikipedia.org/wiki/Hackathon):
 
