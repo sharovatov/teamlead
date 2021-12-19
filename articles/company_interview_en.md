@@ -6,19 +6,13 @@ If you think that your question should be here — send a PR.
 
 ## How does the company earn money?
 
-Is the company profitable?
-
-Does it live from investments?
-
-If yes, for how long will they last?
-
-Are new rounds planned?
-
-Will there be shares for the employees?
-
-How are they vested?
-
-What’s the business roadmap, plan and vision?
+- Is the company profitable?
+- Does it live from investments?
+- If yes, for how long will they last?
+- Are new rounds planned?
+- Will there be shares for the employees?
+- How are they vested?
+- What’s the business roadmap, plan and vision?
 
 ## What is your vision of a good employee? What do expect of them?
 
@@ -30,7 +24,7 @@ Some companies have absolutely ridiculous multi-tier interview process, you shou
 
 ## What was the reason of leaving of the last employee?
 
-The way how managers handle firing/leaving is very showing.
+The way how managers handle firing/leaving is showing the culture much more transparently than any words on how much the company values people.
 
 It might also be a good idea to ask for one of the leavers contacts and ask them how it all went.
 
@@ -40,17 +34,23 @@ It’s always good to know what’s unacceptable.
 
 ## What is the staff turnover statistics?
 
-Are you satisfied with the current status quo?
+If people leave a lot, more questions are to be asked.
 
-If not, what are you doing to improve the situation?
+Anyway, ask if the interviewer is satisfied with the current status quo and if not, what they are doing to improve the situation.
 
 Good companies try to make sure employees work as long and productive as possible.
 
 ## How quickly is your company growing?
 
-A company growing really quickly has a very distinctive atmosphere compared to stable ones.
+A company growing really quickly has a very distinctive atmosphere compared to stable ones. You need to make sure you need it (exponential growth never comes along with improving quality, see Amdahl's law).
 
 ## What is your organisational structure? How do people operate in it?
+
+It's better to find out how complicated the org structure is.
+
+Refs to read:
+- [Red Queen principle](http://pespmc1.vub.ac.be/REDQUEEN.html) (more oftenly cited as Peter's principle)
+- [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 ## Are there offices in other cities / countries?
 
@@ -66,7 +66,11 @@ It should be obvious that the company is interested in getting you to a full spe
 
 ## How many other candidates are competing for this position?
 
-If some candidates were rejected, what was the reason for rejection?
+Are you sure you want to "compete"?
+
+## If some candidates were rejected, what was the reason for rejection?
+
+The answer to this one might reveal something that wouldn't have been discussed otherwise.
 
 ## What is expected of me during my probation?
 
@@ -78,11 +82,13 @@ What’s listed there? Why?
 
 ## How are employees encouraged to grow?
 
+What's the process? Are there performance reviews or any other mechanism like personal growth plan?
+
 ## How are payrises done?
 
 ## Do you have bonuses?
 
-What is considered to be worthy of a bonus?
+What is considered to be worthy of a bonus? Who decides on them?
 
 ## What equipment do you provide?
 
