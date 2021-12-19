@@ -21,3 +21,10 @@ There is sometimes a contest element as well, in which a panel of judges select 
 
 ```
 
+I did a small study of hackathons mentioned on internet, and pretty much all of them have characteristics that Wikipedia mentioned:
+- a set goal
+- competition between teams
+- lack of sleep
+- no context switch, full focus on doing just one thing
+
+
