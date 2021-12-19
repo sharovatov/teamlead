@@ -30,3 +30,5 @@ I did a small study of hackathons mentioned on internet, and pretty much all of 
 I also see that at least in Russia there are two types of hackathons:
 - with external people (people from outside the company)
 - with internal people (for employees)
+
+
