@@ -31,4 +31,9 @@ I also see that at least in Russia there are two types of hackathons:
 - with external people (people from outside the company)
 - with internal people (for employees)
 
+I have also seen a few goals which are set by the organisers:
+- hire people who performed well (or won)
+- build some proof of concept
+- advertise the company
+
 
