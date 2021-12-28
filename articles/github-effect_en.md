@@ -30,13 +30,13 @@ It’s pretty hard for me to see someone wrong and resist jumping in and spendin
 
 I often regretted that the discussion wasn’t fruitful even though I wanted to help.
 
-I consider this regret or the urge to jump in to be my internal conflict.
+I consider this regret (or the urge to jump in) as my internal conflict.
 
 But now it seems I have successfully resolved the conflict in the following manner:
-- if I see some discussion that I truly want to participate, I write down the topic and the arguments that people have
-- whenever I have time, I sit and formulate my point of view and my arguments here in github article
-- I then come and ‘bump’ the discussion with an article I have prepared
-- I gather counter-arguments and revisit my article then to address them
+- if I see some discussion that I genuinely want to participate in, I write down the topic and the arguments that people have
+- whenever I have time, I sit and formulate my point of view and my arguments here in the GitHub article
+- I then come and ‘bump’ the discussion with a piece I have prepared
+- I gather counter-arguments and revisit my article to address them
 
 ## Thoughts are evolved publicly
 
