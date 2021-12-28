@@ -50,13 +50,15 @@ Another benefit of making the thought process public is that the articles are of
 
 The more articles I write, the better I’m perceived as a specialist (well, of course, if I write something of value).
 
-Better I’m perceived as a specialist, better my company is perceived on the market.
+The better I’m perceived as a specialist, the better my company is perceived on the market.
 
 ## Self-education discipline is improved
 
-I didn’t even think how great would writing articles and giving talks motivate me to learn more and to share more with the community. Every single github star and every single bit of feedback after a talk charge me more and more to do more for the community.
+I didn’t even think how great writing articles and giving talks would motivate me to learn more and share more with the community.
 
-I also figured out that writing works most effectively when I draft my thoughts’ structure on one day, then spend a day or two thinking about them, and only then expanding the thoughts. This method allows me to develop thoughts better.
+Every GitHub star and feedback after a talk charge me more and more to do more for the community.
+
+I also figured out that writing works most effectively when I draft my thoughts’ structure on one day, then spend a day or two thinking about them, and only then expanding the ideas. This method allows me to develop thoughts better.
 
 ### References
 
