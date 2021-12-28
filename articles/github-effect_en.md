@@ -48,7 +48,7 @@ Another benefit of making the thought process public is that the articles are of
 
 ## Company PR is improved
 
-More articles I write, better I’m perceived as a specialist (well, of course if I write something of value).
+The more articles I write, the better I’m perceived as a specialist (well, of course, if I write something of value).
 
 Better I’m perceived as a specialist, better my company is perceived on the market.
 
