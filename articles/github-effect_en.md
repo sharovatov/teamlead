@@ -1,6 +1,6 @@
-# Github effect or the benefits of doing things publicly
+# GitHub effect or the benefits of doing things publicly
 
-Last few years I’ve been giving many talks and writing a lot here on github.
+I’ve been giving many talks and writing a lot here on GitHub during the last few years.
 
 I’ve realised many good effects that this practice had.
 
