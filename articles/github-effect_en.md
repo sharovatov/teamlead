@@ -26,9 +26,9 @@ A good feedback loop emerges naturally — the more ‘I didn’t get your point
 
 I used to spend lots of time arguing over pretty much the same topics again and again in chats.
 
-It’s quite hard for me to see someone wrong and resist from jumping in and spend time on explaining why the thesis is wrong.
+It’s pretty hard for me to see someone wrong and resist jumping in and spending time explaining why the thesis is false.
 
-Many times I regretted that the discussion wasn’t fruitful even though I wanted to help.
+I often regretted that the discussion wasn’t fruitful even though I wanted to help.
 
 I consider this regret or the urge to jump in to be my internal conflict.
 
