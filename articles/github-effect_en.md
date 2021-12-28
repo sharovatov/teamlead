@@ -58,6 +58,8 @@ Better I’m perceived as a specialist, better my company is perceived on the ma
 
 I didn’t even think how great would writing articles and giving talks motivate me to learn more and to share more with the community. Every single github star and every single bit of feedback after a talk charge me more and more to do more for the community.
 
+I also figured out that writing works most effectively when I draft my thoughts’ structure on one day, then spend a day or two thinking about them, and only then expanding the thoughts. This method allows me to develop thoughts better.
+
 ### References
 
 - [learn in public](https://www.swyx.io/learn-in-public/)
