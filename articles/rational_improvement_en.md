@@ -119,3 +119,8 @@ In Russian labour culture we have so-called [‘technical and economical rationa
 1. process change and adaptation is a prerequisite for the company being able to better survive market change
 ```
 
+References:
+- Edmondson, A. (1999). Psychological safety and learning behavior in work teams.
+- Whitener, E. M., Brodt, S. E., Korsgaard, M. A., & Werner, J. M. (1998). Managers as initiators of trust: An exchange relationship framework for understanding managerial trustworthy behavior.
+- Kahn, William A. 1990. "Psychological Conditions of Personal Engagement and Disengagement at Work."
+
