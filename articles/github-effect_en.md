@@ -10,9 +10,9 @@ I’ve been giving many talks and writing a lot here on GitHub during the last f
 
 ## Formulate thoughts better
 
-Writing articles and giving talks is the best way of training of how I formulate postulates and arguments.
+Writing articles and giving talks seems to be the best way to train how I formulate postulates and arguments.
 
-The process improves logical and rational thinking and in high challenge / low threat environment improves cognitive and analytical skills too.
+The process improves logical and rational thinking, and in a high challenge / low threat environment improves cognitive and analytical skills.
 
 High challenge / low threat model is described in [Mary Myatt’s book](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X). The concept is simple: learning is more effective when your curiosity is provoked and challenged, and topics you’re learning and complicated.
 
