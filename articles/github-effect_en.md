@@ -18,9 +18,9 @@ The process improves logical and rational thinking, and in a high challenge / lo
 
 I post articles on GitHub for myself and the community, so there’s no threat to my curiosity.
 
-Also as I’m aware that my articles will be seen by people, I’m ashamed to write low-quality content, where ‘low quality’ I define as ‘not argumented well enough’.
+Also, as I’m aware that people will see my articles, I’m ashamed to write low-quality content, where ‘low quality’ I define as ‘not reasonable/rational enough’.
 
-A good feedback loop emerges naturally — more ‘I didn’t get your point’ comments I receive, more I wish to reformulate the arguments or support them better with scientific proofs.
+A good feedback loop emerges naturally — the more ‘I didn’t get your point’ comments I receive, the more I wish to reformulate the arguments or support them better with scientific proofs.
 
 ## Discussions time is saved
 
