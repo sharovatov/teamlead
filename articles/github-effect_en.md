@@ -42,7 +42,7 @@ But now it seems I have successfully resolved the conflict in the following mann
 
 Git is a great instrument to show the thoughts process evolution in time. Revising how your thought process evolves is an essential part of self-reflection.
 
-Many times re-reading my articles I was noticing that things could have been formulated differently, easier to understand.
+Many times re-reading my articles, I noticed that I could formulate things differently, easier to understand.
 
 Another benefit of making the thought process public is that the articles are of more value for the hiring managers than any CV.
 
