@@ -14,9 +14,9 @@ Writing articles and giving talks seems to be the best way to train how I formul
 
 The process improves logical and rational thinking, and in a high challenge / low threat environment improves cognitive and analytical skills.
 
-High challenge / low threat model is described in [Mary Myatt’s book](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X). The concept is simple: learning is more effective when your curiosity is provoked and challenged, and topics you’re learning and complicated.
+[Mary Myatt’s book](https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X) describes the high challenge / low threat model. The concept is simple: learning is more effective when your curiosity is provoked and challenged, and topics you’re learning and complicated.
 
-I post articles on github for myself and the community, so there’s no threat for my curiosity.
+I post articles on GitHub for myself and the community, so there’s no threat to my curiosity.
 
 Also as I’m aware that my articles will be seen by people, I’m ashamed to write low-quality content, where ‘low quality’ I define as ‘not argumented well enough’.
 
