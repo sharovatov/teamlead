@@ -84,7 +84,7 @@ The employee brings information on the mistake. The manager praises the employee
 
 ## People should know how to bring information
 
-If people are willing to provide information, information is likely to start to flow.
+If people are willing to provide information, information is likely to flow.
 
 This information needs to be processed.
 
@@ -92,7 +92,7 @@ Imagine the situation when everyone brings every bit of information to discuss. 
 
 It seems that every bit of information (or a problem report) should be somehow prepared for analysis.
 
-I suggest a simple guidance (or a thought model, not sure how to call it better) — ‘rationalized approach’.
+I suggest simple guidance (or a thought model, not sure how to call it better) — a ‘rationalized approach.’
 
 **Consider a scenario**:
 
