@@ -13,17 +13,17 @@ The Scrum Master is accountable for establishing Scrum as defined in the Scrum G
 
 Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 ```
-No changes are to be done in the process.
+The process must stay immutable at all costs.
 
-But what happens if scrum fits the company no more?
+But what happens if Scrum fits the company no more?
 
-Should scrum master in that case help the team realise that scrum is an empediment and then together with the team remove this impediment?
+Should scrum master, in that case, help the team realise that Scrum is an impediment and then, together with the team, remove this impediment?
 
 Anyway, it seems that a conservative ‘set-in-stone’ process framework might at some point become unfit — when the amount of change in the market gets bigger than the current organisational structure and process allowed to address.
 
-Good example of this occasion is Nokia’s case where they had a very rigid and conservative scrum. World changed, the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
+A good example of this occasion is Nokia’s case, where they had a very rigid and conservative scrum. The world changed; the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
 
-Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that:
+Certainly, getting rid of the rigid conservative process won’t be enough to ensure company survival, but to me, it seems obvious that:
 
 ```
 1. Process change and adaptation is a prerequisite for the company being able to better survive market change.
