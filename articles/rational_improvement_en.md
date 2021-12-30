@@ -54,27 +54,27 @@ As information and its analysis are valued and welcomed by every member of the d
 
 ## People must not be afraid to bring information
 
-If a person feels guilt for any mistake or error that they caused or produced at work, they will try to avoid taking actions altogether.
+If a person feels guilt for any mistake or error they caused or produced at work, they will avoid taking action altogether.
 
-As soon as the manager starts provoking employees’ feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling being in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
+As soon as the manager starts provoking feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
 
 Once a person feels guilt or fear, they will try to avoid actions (see ‘avoidance behavior’ in psychology).
 
-**Consider a scenario**: employee figured out that they had made a mistake during system design, and this means that a significant part of the system will have to be rewritten.
+**Consider a scenario**: an employee figured out that they had made a mistake during system design, which means that a significant part of the system will have to be rewritten.
 
-It’s the first time a mistake like that occurred, our responsible employee tells their manager about this mistake.
+It’s the first time a mistake like that occurred, and our responsible employee tells their manager about this mistake.
 
 The manager scolded the employee for the mistake.
 
-Chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
+The chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
 
-‘Avoidance behaviour’ is clearly provoked by a thoughtless manager’s action — more the manager scolds, less information on the issues and mistakes they will _receive_, more and more effort the manager will have to put into _obtaining_ the information.
+‘Avoidance behavior’ is provoked by a thoughtless manager’s action — the more the manager scolds, the less information on the issues and mistakes they will _receive_, more and more effort the manager will have to _obtain_ the information.
 
-Less information the manager has, less informed actions can be taken, lesser their efficiency is.
+The less information the manager has, the lesser informed actions can be taken, the lesser their efficiency is.
 
 **Now think of the opposite scenario**:
 
-The employee brings information on the mistake, the manager praises for the information and takes an informed decision on either investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
+The employee brings information on the mistake. The manager praises the employee for the information and decides on investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
 
 ```
 3. The atmosphere of psychological safety is a prerequisite for the information flow
