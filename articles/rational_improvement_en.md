@@ -2,9 +2,9 @@
 
 ## Conservative (rigid, non-changing process)
 
-Software development process might just work. Or it might constantly adapt to ever-changing world, improving its efficiency.
+The software development process might just work. Or it might constantly adapt to an ever-changing world, improving its efficiency.
 
-A good example of a very conservative process is scrum, where scrum master must ensure the scrum process is done exactly as written in the guide:
+An excellent example of a very conservative process is scrum, where Scrum master must ensure the scrum process is done exactly as written in the guide:
 
 ```
 The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide
