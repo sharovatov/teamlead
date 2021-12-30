@@ -31,7 +31,7 @@ Certainly, getting rid of the rigid conservative process won’t be enough to en
 
 ## Adaptive development process
 
-By definition, adaptive process is able to change whenever its current state doesn’t fit the changed reality.
+By definition, an adaptive process can change whenever its current state doesn’t fit the changed reality.
 
 Consider a case where the firm’s work culture is developed to the Kaizen state — where innovations constantly emerge and get implemented — and the team provides rational explanation that regular retrospective meetings are not needed as reflection and adaptation is being done all the time, constantly, without a need to wait for week or two to end.
 
@@ -43,7 +43,7 @@ Basically, we need to understand what’s going OK and what’s not, and what ca
 
 Engineers are the source of information.
 
-As information and its analysis is valued and welcomed from every member of the development process:
+As information and its analysis are valued and welcomed by every member of the development process:
 - people must not be afraid to bring information
 - people need to be able to bring information
 
