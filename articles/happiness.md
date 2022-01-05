@@ -24,13 +24,17 @@ To sum it up: **deadlines**.
 
 Very rarely there’s a rational reason to have deadlines in software development, and even more, estimations at all. I would suggest you read [my article](estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
 
-Simple advise here: think if you might get get rid of estimations, story points or any other practice which only has negative effects on your team. For instance, it’s quite easy to ditch Scrum sprints.
+Simple advise here: think if you might get rid of estimations, story points or any other practice which only has negative effects on your team. If you’re specifically asked ‘when this feature;
 
 > The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
 
 To sum this on up: **broken professional ethics**
 
 Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
+
+So it’s a developer’s job (as a specialist in this area) to make sure the cost of development stays low, even if some manager asks to make it more expensive by imposing weird requirements.
+
+This obligation to do the work properly is called professional ethics.
 
 When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
@@ -41,6 +45,8 @@ Advice here is simple too:
 - developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
+
+
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
