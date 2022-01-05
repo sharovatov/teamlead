@@ -2,9 +2,9 @@
 
 ## Conservative (rigid, non-changing process)
 
-Software development process might just work. Or it might constantly adapt to ever-changing world, improving its efficiency.
+The software development process might just work. Or it might constantly adapt to an ever-changing world, improving its efficiency.
 
-A good example of a very conservative process is scrum, where scrum master must ensure the scrum process is done exactly as written in the guide:
+An excellent example of a very conservative process is scrum, where Scrum master must ensure the scrum process is done exactly as written in the guide:
 
 ```
 The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide
@@ -13,17 +13,17 @@ The Scrum Master is accountable for establishing Scrum as defined in the Scrum G
 
 Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 ```
-No changes are to be done in the process.
+The process must stay immutable at all costs.
 
-But what happens if scrum fits the company no more?
+But what happens if Scrum fits the company no more?
 
-Should scrum master in that case help the team realise that scrum is an empediment and then together with the team remove this impediment?
+Should scrum master, in that case, help the team realise that Scrum is an impediment and then, together with the team, remove this impediment?
 
 Anyway, it seems that a conservative ‘set-in-stone’ process framework might at some point become unfit — when the amount of change in the market gets bigger than the current organisational structure and process allowed to address.
 
-Good example of this occasion is Nokia’s case where they had a very rigid and conservative scrum. World changed, the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
+A good example of this occasion is Nokia’s case, where they had a very rigid and conservative scrum. The world changed; the firm, being so strictly tied to the conservative process, couldn’t respond and lost its dominance.
 
-Certainly getting rid of rigid conservative process won’t be enough to ensure company survival, but to me it seems obvious that:
+Certainly, getting rid of the rigid conservative process won’t be enough to ensure company survival, but to me, it seems obvious that:
 
 ```
 1. Process change and adaptation is a prerequisite for the company being able to better survive market change.
@@ -31,7 +31,7 @@ Certainly getting rid of rigid conservative process won’t be enough to ensure 
 
 ## Adaptive development process
 
-By definition, adaptive process is able to change whenever its current state doesn’t fit the changed reality.
+By definition, an adaptive process can change whenever its current state doesn’t fit the changed reality.
 
 Consider a case where the firm’s work culture is developed to the Kaizen state — where innovations constantly emerge and get implemented — and the team provides rational explanation that regular retrospective meetings are not needed as reflection and adaptation is being done all the time, constantly, without a need to wait for week or two to end.
 
@@ -43,7 +43,7 @@ Basically, we need to understand what’s going OK and what’s not, and what ca
 
 Engineers are the source of information.
 
-As information and its analysis is valued and welcomed from every member of the development process:
+As information and its analysis are valued and welcomed by every member of the development process:
 - people must not be afraid to bring information
 - people need to be able to bring information
 
@@ -54,27 +54,27 @@ As information and its analysis is valued and welcomed from every member of the 
 
 ## People must not be afraid to bring information
 
-If a person feels guilt for any mistake or error that they caused or produced at work, they will try to avoid taking actions altogether.
+If a person feels guilt for any mistake or error they caused or produced at work, they will avoid taking action altogether.
 
-As soon as the manager starts provoking employees’ feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling being in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
+As soon as the manager starts provoking feelings of guilt or fear, negative social dynamics emerge almost instantly — people start feeling in this ‘risk zone’ or — even worse — exclude the ‘guilty’ employees from the team (trying to conform with the manager).
 
 Once a person feels guilt or fear, they will try to avoid actions (see ‘avoidance behavior’ in psychology).
 
-**Consider a scenario**: employee figured out that they had made a mistake during system design, and this means that a significant part of the system will have to be rewritten.
+**Consider a scenario**: an employee figured out that they had made a mistake during system design, which means that a significant part of the system will have to be rewritten.
 
-It’s the first time a mistake like that occurred, our responsible employee tells their manager about this mistake.
+It’s the first time a mistake like that occurred, and our responsible employee tells their manager about this mistake.
 
 The manager scolded the employee for the mistake.
 
-Chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
+The chances are that this employee will think thrice before bringing any information about a mistake to their manager ever again.
 
-‘Avoidance behaviour’ is clearly provoked by a thoughtless manager’s action — more the manager scolds, less information on the issues and mistakes they will _receive_, more and more effort the manager will have to put into _obtaining_ the information.
+‘Avoidance behavior’ is provoked by a thoughtless manager’s action — the more the manager scolds, the less information on the issues and mistakes they will _receive_, more and more effort the manager will have to _obtain_ the information.
 
-Less information the manager has, less informed actions can be taken, lesser their efficiency is.
+The less information the manager has, the lesser informed actions can be taken, the lesser their efficiency is.
 
 **Now think of the opposite scenario**:
 
-The employee brings information on the mistake, the manager praises for the information and takes an informed decision on either investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
+The employee brings information on the mistake. The manager praises the employee for the information and decides on investing time and money in teaching the employee or changing the system to withstand or quickly recover from mistakes like that.
 
 ```
 3. The atmosphere of psychological safety is a prerequisite for the information flow
@@ -84,7 +84,7 @@ The employee brings information on the mistake, the manager praises for the info
 
 ## People should know how to bring information
 
-If people are willing to provide information, information is likely to start to flow.
+If people are willing to provide information, information is likely to flow.
 
 This information needs to be processed.
 
@@ -92,7 +92,7 @@ Imagine the situation when everyone brings every bit of information to discuss. 
 
 It seems that every bit of information (or a problem report) should be somehow prepared for analysis.
 
-I suggest a simple guidance (or a thought model, not sure how to call it better) — ‘rationalized approach’.
+I suggest simple guidance (or a thought model, not sure how to call it better) — a ‘rationalized approach.’
 
 **Consider a scenario**:
 
