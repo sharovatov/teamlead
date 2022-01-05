@@ -30,7 +30,7 @@ Simple advise here: think if you might get get rid of estimations, story points 
 
 To sum this on up: **broken professional ethics**
 
-It’s the developer providing 
+When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
