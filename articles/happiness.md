@@ -48,6 +48,8 @@ Advice here is simple too:
 
 To sum it up: **negative social dynamics** and **boredom**
 
+**Negative social dynamics**
+
 There are process activities that start or toggle negative social (group) dynamics. The simplest example is the use of code review.
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
@@ -58,6 +60,8 @@ Examples of process activities that are harmful:
 - testing after development
 - code review
 - ?
+
+**Boredom**
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
