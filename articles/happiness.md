@@ -41,7 +41,7 @@ When a patient is having a surgery, no one is allowed to demand a surgeon to fin
 In software development it’s the developer’s professional judgement that is to be used to determine how the code should be written.
 
 Advice here is simple too:
-- managers: don’t ask or demand ‘to cut development costs’ or ‘ship it faster’ — if you do, you make the [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) higher (development more expensive). Developers know better how to write code. If they don’t — get them some mentors.
+- managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster’
 - developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
