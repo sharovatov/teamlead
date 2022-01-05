@@ -30,13 +30,15 @@ Simple advise here: think if you might get get rid of estimations, story points 
 
 To sum this on up: **broken professional ethics**
 
-When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
-
-However for some strange reasons IT management often thinks that it’s up to them to decide when and how to write code.
-
 Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
 
+When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
+However for some strange reasons IT management often thinks that it’s up to them to decide when and how to write code, as if the management can actually predict the impact of reducing the quality in long term.
+
+Advice here is simple too:
+- managers: don’t ask or demand ‘to cut development costs’ or ‘ship it faster’ — if you do, you make the [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) higher (development more expensive). Developers know better how to write code. If they don’t — get them some mentors.
+- developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
