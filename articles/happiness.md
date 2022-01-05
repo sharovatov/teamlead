@@ -38,7 +38,7 @@ This obligation to do the work properly is called professional ethics.
 
 When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
-However for some strange reasons IT management often thinks that it’s up to them to decide when and how to write code, as if the management can actually predict the impact of reducing the quality in long term.
+In software development it’s the developer’s professional judgement that is to be used to determine how the code should be written.
 
 Advice here is simple too:
 - managers: don’t ask or demand ‘to cut development costs’ or ‘ship it faster’ — if you do, you make the [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) higher (development more expensive). Developers know better how to write code. If they don’t — get them some mentors.
