@@ -46,7 +46,18 @@ Advice here is simple too:
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
+To sum it up: **negative social dynamics** and **boredom**
 
+There are process activities that start or toggle negative social (group) dynamics. The simplest example is the use of code review.
+
+Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
+
+Simple advise: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
+
+Examples of process activities that are harmful:
+- testing after development
+- code review
+- ?
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
