@@ -1,7 +1,30 @@
+# Eudaimonia
+
+```
+In its simplest (translated) form, eudaimonia is often taken to mean happiness (Deci & Ryan, 2006; Huta & Waterman, 2014; Heintzelman, 2018). Sometimes it is translated from the original ancient Greek as welfare, sometimes flourishing, and sometimes as well-being (Kraut, 2018). The concept of Eudaimonia comes from Aristotle’s Nicomachean Ethics, his philosophical work on the ‘science of happiness’ (Irwin, 2012)
+```
+
+I believe people can and should be happy. Both at work and at home.
+
+There actually are studies showing the importance of happiness at work: 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # What’s the meaning of all this?
 
 Many companies have already started investing in developer advocacy and other tech PR aspects.
 
+Content is the 
 Pretty much no dev advocacy or tech PR activity can do without the content.
 
 However, ‘the form’, the way how the content is presented and formulated, is equally important for the message to be delivered and internalised

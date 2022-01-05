@@ -69,5 +69,14 @@ Examples of process activities that are harmful:
 
 ### more
 
--- work results appropriation?
--- health and happiness?
+- work results appropriation?
+- health and happiness?
+
+Links:
+- https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24
+- https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers
+
+
+
+
+
