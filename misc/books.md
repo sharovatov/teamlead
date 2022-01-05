@@ -9,6 +9,14 @@
 - Detmer: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
 - Sapolsky: https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
 
+## Noestimates book
+
+Can be [purchased here](http://noestimatesbook.com) for as little as $7.
+
+This book is a simple and straightforward guide to statistical approach to estimations.
+
+Good review of all the ways how estimations hurt your company and how you can avoid using them.
+
 ## Поезда, пассажиры... и математика
 
 **Авторы**: Г. А. Платонов, М. А. Файнберг, Н. С. Штильман
@@ -144,3 +152,4 @@
 Матфей составил прямо-таки показательно качественный учебник по психолингвистике: о том, как взаимосвязаны речь, язык и мышление.
 
 Купить можно [в Wiley](https://www.wiley.com/en-us/Introduction+to+Psycholinguistics%3A+Understanding+Language+Science-p-9781405198622)
+
