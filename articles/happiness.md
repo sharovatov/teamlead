@@ -32,6 +32,12 @@ To sum this on up: **broken professional ethics**
 
 When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
+However for some strange reasons IT management often thinks that it’s up to them to decide when and how to write code.
+
+Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
+
+
+
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
 > Several top causes are related to perceptions of inadequacy of the self and others
