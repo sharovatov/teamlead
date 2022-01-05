@@ -28,7 +28,7 @@ Now let’s see what the study shows as reasons for developers’ unhappiness.
 
 
 
-### 
+### more
 
 -- work results appropriation?
 -- health and happiness?
