@@ -26,9 +26,11 @@ Very rarely there’s a rational reason to have deadlines in software developmen
 
 Simple advise here: think if you might get get rid of estimations, story points or any other practice which only has negative effects on your team. For instance, it’s quite easy to ditch Scrum sprints.
 
-I have an article and a talk on rationality of estimations (there are cases when 
-
 > The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
+
+To sum this on up: **broken professional ethics**
+
+It’s the developer providing 
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
