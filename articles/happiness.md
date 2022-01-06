@@ -86,7 +86,7 @@ Some examples:
 
 Advice here:
 - check the amount of re-work (waste), think how this rework can be minimised (possibly get rid of code review in favour of pair/ensemble programming or at least pair/ensemble technical design)
-- consider having repetitive work automated
+- consider having repetitive work automated (shifting from manual regression testing to automated testing or even TDD)
 
 Another very important concept here is ‘mundane’ work. Mundane generally implies lack of interest. But what is this lack of interest? How does interest emerge in developers?
 
