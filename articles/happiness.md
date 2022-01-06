@@ -1,10 +1,10 @@
 # Developers happiness
 
-There are studies proving that unhappy developers are less productive and have higher risk of leaving the company.
+Studies prove that unhappy developer are less productive and have a higher risk of leaving the company.
 
-I’ve seen so many teams where developers were unhappy and ‘forced themselves’ to work. This is counter-productive; and it’s our managers’ duty to make sure our teams are as productive as possible.
+I’ve seen so many teams where developers were unhappy and ‘forced themselves’ to work. Forcing is counter-productive; our managers’ duty is to make sure our teams are as productive as possible.
 
-In this article I will review studies related to happiness and productivity and will try advising on how to get rid of things that are damaging your team.
+In this article, I will review studies related to happiness and productivity and try advising on how to get rid of things damaging your team.
 
 ## Happiness and the productivity of software engineers
 
@@ -104,7 +104,7 @@ There are two important concepts:
 - people are mostly irrational (even when they think they are rational)
 - teams are assembled to provide collective result (the design of a system has more importance than the individual performance of a developer)
 
-So if a developer sees that their individual performance will be somehow assessed (in a performance review let’s say), chances are that the developer will worry about their adequacy a lot.
+So if a developer sees that their individual performance will be somehow assessed (in a performance review let’s say), chances are that the developer will worry about their adequacy a lot. And as people are quite irrational, this poor developer will consider anything 1G
 
 
 
