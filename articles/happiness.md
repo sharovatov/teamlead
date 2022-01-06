@@ -56,7 +56,7 @@ In software development, it’s the developer’s professional judgment that is 
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
-There are process activities, processes design choices or organisational structure choices that start or toggle negative social (group) dynamics.
+Process activities, processes design choices, or organisational structure choices start or toggle negative social (group) dynamics.
 
 Some examples:
 - testing after development
@@ -65,7 +65,7 @@ Some examples:
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
 
-**Advice**: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
+**Advice**: think about what behaviors your process activities encourage in developers. Are they encouraged to collaborate (as in pair/ensemble programming), or are they encouraged to frown upon results of each other work (as in code review)?
 
 **4. Boredom**
 
@@ -73,7 +73,7 @@ Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensi
 
 Key points here are: _repetitive_ and _mundane_.
 
-Software development (as pretty much any other type of intellectual labour) is all about solving problems. World changes often, new problems arise, there’s pretty much always something new to solve.
+Software development (as pretty much any other type of intellectual labour) is all about solving problems. World changes often, new problems arise all the time, there’s pretty much always something new to solve.
 
 Yet, sometimes developers do need to do something ‘not new’, something they know for sure how to do.
 
@@ -85,12 +85,12 @@ Some examples:
 - solving the same task over and over again (after code review rejection for example)
 
 **Advice**:
-- check the amount of re-work (waste), think how this rework can be minimised (possibly get rid of code review in favour of pair/ensemble programming or at least pair/ensemble technical design)
+- check the amount of rework (waste), think how this rework can be minimised (possibly get rid of code review in favour of pair/ensemble programming or at least pair/ensemble technical design)
 - consider having repetitive work automated (shifting from manual regression testing to automated testing or even TDD)
 
-Another very important concept here is ‘mundane’ work. Mundane generally implies lack of interest. But what is this lack of interest? How does interest emerge in developers?
+Another fundamental concept here is ‘mundane’ work. Mundane generally implies a lack of interest. But what is this lack of interest? How does interest emerge in developers?
 
-It seems obvious, that if there’s no understanding as to ‘why’ the work is needed, what value it brings to the team or to the client, ‘interest’ will unlikely emerge.
+It seems obvious that if there’s no understanding as to ‘why’ the work is needed, what value it brings to the team or the client, ‘interest’ will unlikely emerge.
 
 So it seems to be very important to have full transparency on why the work that’s requested is important and what value it brings.
 
@@ -106,10 +106,11 @@ There are two essential concepts:
 - people are primarily irrational (even when they think they are rational)
 - teams are assembled to provide a collective result (the design of a system has more importance than the individual performance of a developer)
 
-So if a developer sees that their individual performance will be somehow assessed (in a performance review, let’s say), the chances are that the developer will worry about their adequacy a lot. And as people are pretty irrational, 
+So if a developer sees that their individual performance will be somehow assessed (in a performance review, let’s say), the chances are that the developer will worry about their adequacy a lot. And as people are pretty irrational, there’s a big risk that this worry turns into a serious problem.
 
-
-
+**Advice**:
+- consider getting rid of a concept of individual performance, and for sure get rid of all individual KPIs (read more on Goodhart’s law)
+- make sure your socio-technical system design encourages achieving collective result and collaboration
 
 ### more
 
