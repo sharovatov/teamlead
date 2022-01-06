@@ -85,8 +85,18 @@ Some examples:
 - solving the same task over and over again (after code review rejection for example)
 
 Advice here:
-- check the amount of re-work (waste), think how this rework can be minimised
+- check the amount of re-work (waste), think how this rework can be minimised (possibly get rid of code review in favour of pair/ensemble programming or at least pair/ensemble technical design)
 - consider having repetitive work automated
+
+Another very important concept here is ‘mundane’ work. Mundane generally implies lack of interest. But what is this lack of interest? How does interest emerge in developers?
+
+It seems obvious, that if there’s no understanding as to ‘why’ the work is needed, what value it brings to the team or to the client, ‘interest’ will unlikely emerge.
+
+So it seems to be very important to have full transparency on why the work that’s requested is important.
+
+Advice here:
+- make sure developers understand why certain type of work (or a feature) is important for the team or the client
+
 
 **5. Perception of inadequacy of the self**
 
