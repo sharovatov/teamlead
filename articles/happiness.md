@@ -16,15 +16,21 @@ And it seems the answer is ‘yes’ — they are more productive when happy.
 
 Now let’s see what the study shows as reasons for developers’ unhappiness.
 
+### Reasons of unhappiness
+
 > Being stuck in problem-solving and time pressure are the two most frequent causes of unhappiness
 > ...
 > developers feel bad when they are stuck and under pressure, and several detrimental consequences do happen
 
 To sum it up: **deadlines**.
 
+Developers are pressed for time when they have estimates, deadlines, sprints.
+
 Very rarely there’s a rational reason to have deadlines in software development, and even more, estimations at all. I would suggest you read [my article](estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
 
-Simple advise here: think if you might get rid of estimations, story points or any other practice which only has negative effects on your team. If you’re specifically asked ‘when this feature;
+There’s also a good book [#NoEstimates](http://noestimatesbook.com) which explains how to meet goals without imposing time pressure on the developers.
+
+The simple advise here: consider getting rid of estimations, story points or any other practice imposing time pressure on developers.
 
 > The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
 
