@@ -71,7 +71,24 @@ Simple advise: think what behaviours your process activities encourage in develo
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, **forced repetitive mundane tasks**, and imposed limitations on development
 
+Key points here are: _repetitive_ and _mundane_.
 
+Software development (as pretty much any other intellectual labour) is all about solving problems. World changes often, new problems arise, there’s pretty much always something new to solve.
+
+Yet, sometimes developers do need to do something ‘not new’, something they know for sure how to do.
+
+The problem which toggles unhappiness is when the amount of repetitive tasks is getting high.
+
+Some examples:
+- manual verification of code quality (testing)
+- writing boilerplate code
+- solving the same task over and over again (after code review rejection for example)
+
+Advice here:
+- check the amount of re-work (waste), think how this rework can be minimised
+- consider having repetitive work automated
+
+**5. Perception of inadequacy of the self**
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
