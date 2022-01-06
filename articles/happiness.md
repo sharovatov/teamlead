@@ -50,7 +50,7 @@ In software development, it’s the developer’s professional judgment that is 
 
 **Advice**:
 - managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster.’
-- developers: stand for your professional ethics. Suppose a manager asks you to cut the time — don’t. No one will fire you for that. Take your time to write quality code. 
+- developers: stand for your professional ethics. Suppose a manager asks you to cut the time — don’t. No one will fire you for that. Take your time to write quality code.
 
 **3. Negative social dynamics**
 
@@ -98,13 +98,16 @@ So it seems to be very important to have full transparency on why the work that�
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
-Managers often have ‘survivor bias’ and ‘confirmation bias’ — whereas they think that if some people (or even they themselves) work in the current environment, this environment is optimal for productivity. Even though this environment might include things like measuring individual performance (or, even worse, some individual KPI) or a lack of mentorship.
+Managers often have ‘survivor bias’ and ‘confirmation bias’ — they think that if some people (or even they) work in the current environment, this environment is optimal for productivity.
 
-There are two important concepts:
-- people are mostly irrational (even when they think they are rational)
-- teams are assembled to provide collective result (the design of a system has more importance than the individual performance of a developer)
+Managers might consider the environment optimal even though this environment might include things like measuring individual performance (or, even worse, some individual KPI) or a lack of mentorship.
 
-So if a developer sees that their individual performance will be somehow assessed (in a performance review let’s say), chances are that the developer will worry about their adequacy a lot. And as people are quite irrational, this poor developer will consider anything 1G
+There are two essential concepts:
+- people are primarily irrational (even when they think they are rational)
+- teams are assembled to provide a collective result (the design of a system has more importance than the individual performance of a developer)
+
+So if a developer sees that their individual performance will be somehow assessed (in a performance review, let’s say), the chances are that the developer will worry about their adequacy a lot. And as people are pretty irrational, 
+
 
 
 
