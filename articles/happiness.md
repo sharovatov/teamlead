@@ -40,9 +40,9 @@ Developers are sometimes forced (by time pressure or manager’s order) to produ
 
 Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
 
-So it’s a developer’s job (as a specialist in this area) to make sure the cost of development stays low, even if some manager asks to make it more expensive by imposing weird requirements.
+So it’s a developer’s job (as a specialist in this area) to make sure they produce quality code thus yielding overall cost of development low, even if some manager asks to make it more expensive by imposing weird requirements.
 
-This obligation to do the work properly is called professional ethics.
+This obligation to do the work _properly_ is called professional ethics.
 
 When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
 
