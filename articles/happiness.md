@@ -65,7 +65,7 @@ Some examples:
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
 
-Simple advise: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
+Simple advice: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
 
 **4. Boredom**
 
@@ -73,7 +73,7 @@ Simple advise: think what behaviours your process activities encourage in develo
 
 Key points here are: _repetitive_ and _mundane_.
 
-Software development (as pretty much any other intellectual labour) is all about solving problems. World changes often, new problems arise, there’s pretty much always something new to solve.
+Software development (as pretty much any other type of intellectual labour) is all about solving problems. World changes often, new problems arise, there’s pretty much always something new to solve.
 
 Yet, sometimes developers do need to do something ‘not new’, something they know for sure how to do.
 
