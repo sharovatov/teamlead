@@ -30,7 +30,7 @@ Very rarely there’s a rational reason to have deadlines in software developmen
 
 There’s also a good book [#NoEstimates](http://noestimatesbook.com) which explains how to meet goals without imposing time pressure on the developers.
 
-**Simple advice here**: consider getting rid of estimations, story points, deadlines, sprints or any other practice imposing time pressure on developers.
+**Advice**: consider getting rid of estimations, story points, deadlines, sprints or any other practice imposing time pressure on developers.
 
 **2. Broken professional ethics**
 
@@ -48,7 +48,7 @@ When a patient is having a surgery, no one is allowed to demand a surgeon to fin
 
 In software development it’s the developer’s professional judgement that is to be used to determine how the code should be written.
 
-Advice here is simple too:
+**Advice**:
 - managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster’
 - developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
 
@@ -65,7 +65,7 @@ Some examples:
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
 
-Simple advice: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
+**Advice**: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
 
 **4. Boredom**
 
@@ -84,7 +84,7 @@ Some examples:
 - writing boilerplate code
 - solving the same task over and over again (after code review rejection for example)
 
-Advice here:
+**Advice**:
 - check the amount of re-work (waste), think how this rework can be minimised (possibly get rid of code review in favour of pair/ensemble programming or at least pair/ensemble technical design)
 - consider having repetitive work automated (shifting from manual regression testing to automated testing or even TDD)
 
@@ -98,7 +98,13 @@ So it seems to be very important to have full transparency on why the work that�
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
-Managers often have ‘survivor bias’ and ‘confirmation bias’ — whereas they think that if some people (or even they themselves) work in the current environment, this environment is optimal for productivity. Even though this environment might include things like measuring individual performance or a lack of mentorship.
+Managers often have ‘survivor bias’ and ‘confirmation bias’ — whereas they think that if some people (or even they themselves) work in the current environment, this environment is optimal for productivity. Even though this environment might include things like measuring individual performance (or, even worse, some individual KPI) or a lack of mentorship.
+
+There are two important concepts:
+- people are mostly irrational (even when they think they are rational)
+- teams are assembled to provide collective result (the design of a system has more importance than the individual performance of a developer)
+
+So if a developer sees that their individual performance will be somehow assessed (in a performance review let’s say), chances are that the developer will worry about their adequacy a lot.
 
 
 
