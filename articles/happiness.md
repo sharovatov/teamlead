@@ -30,11 +30,13 @@ Very rarely there’s a rational reason to have deadlines in software developmen
 
 There’s also a good book [#NoEstimates](http://noestimatesbook.com) which explains how to meet goals without imposing time pressure on the developers.
 
-The simple advise here: consider getting rid of estimations, story points or any other practice imposing time pressure on developers.
+**Simple advice here**: consider getting rid of estimations, story points, deadlines, sprints or any other practice imposing time pressure on developers.
 
 **2. Broken professional ethics**
 
 > The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
+
+Developers are sometimes forced (by time pressure or manager’s order) to produce low quality code. We covered time pressure coming from estimations or deadlines, but there are cases when ‘manager wants it sooner just because’. This demand or request is often considered as an order, so the developer decreases the quality of the code they write, making the overall system more expensive to support.
 
 Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
 
