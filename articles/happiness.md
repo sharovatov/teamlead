@@ -18,11 +18,11 @@ Now let’s see what the study shows as reasons for developers’ unhappiness.
 
 ### Reasons of unhappiness
 
+**1. Time pressure**
+
 > Being stuck in problem-solving and time pressure are the two most frequent causes of unhappiness
 > ...
 > developers feel bad when they are stuck and under pressure, and several detrimental consequences do happen
-
-To sum it up: **deadlines**.
 
 Developers are pressed for time when they have estimates, deadlines, sprints.
 
@@ -32,9 +32,9 @@ There’s also a good book [#NoEstimates](http://noestimatesbook.com) which expl
 
 The simple advise here: consider getting rid of estimations, story points or any other practice imposing time pressure on developers.
 
-> The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
+**2. Broken professional ethics**
 
-To sum this on up: **broken professional ethics**
+> The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
 
 Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
 
