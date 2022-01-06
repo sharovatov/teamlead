@@ -36,21 +36,21 @@ There’s also a good book [#NoEstimates](http://noestimatesbook.com) which expl
 
 > The third most frequent cause of unhappiness is to work with bad code and, more specifically, with bad code practices. Developers are unhappy when they produce bad code, but they suffer tremendously when they meet bad code that could have been avoided in the first place. As our participants stated, bad code can be a result of management decisions aiming to save time and effort in the short term.
 
-Developers are sometimes forced (by time pressure or manager’s order) to produce low quality code. We covered time pressure coming from estimations or deadlines, but there are cases when ‘manager wants it sooner just because’. This demand or request is often considered as an order, so the developer decreases the quality of the code they write, making the overall system more expensive to support.
+Developers are sometimes forced (by time pressure or manager’s order) to produce low-quality code. We covered time pressure coming from estimations or deadlines, but there are cases when ‘the manager wants it sooner just because.’ Unfortunately, this request is often considered an order, so the developer decreases the quality of the code they write, making the overall system more expensive to support.
 
-Martin Fowler has a very good [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining exactly how ‘cutting costs’ on quality makes development more expensive.
+Martin Fowler has an excellent [article](https://martinfowler.com/articles/is-quality-worth-cost.html) explaining how ‘cutting costs’ on quality makes development more expensive.
 
-So it’s a developer’s job (as a specialist in this area) to make sure they produce quality code thus yielding overall cost of development low, even if some manager asks to make it more expensive by imposing weird requirements.
+So it’s a developer’s job (as a specialist in this area) to make sure they produce quality code, thus yielding the overall cost of development low, even if some manager asks to make it more expensive by imposing weird requirements.
 
 This obligation to do the work _properly_ is called professional ethics.
 
-When a patient is having a surgery, no one is allowed to demand a surgeon to finish the operation sooner. Everyone respects surgeon’s work. Surgeon’s professional ethics rely solely on the surgeon’s professional judgement of how the operation is to be done for the best of the patient.
+When a patient is having surgery, no one can demand a surgeon to finish the operation sooner. Everyone respects the surgeon’s work. Surgeons’ professional ethics rely solely on the surgeon’s professional judgment of how the procedure is to be done for the best of the patient.
 
-In software development it’s the developer’s professional judgement that is to be used to determine how the code should be written.
+In software development, it’s the developer’s professional judgment that is to be used to determine how the code should be written.
 
 **Advice**:
-- managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster’
-- developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
+- managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster.’
+- developers: stand for your professional ethics. Suppose a manager asks you to cut the time — don’t. No one will fire you for that. Take your time to write quality code. 
 
 **3. Negative social dynamics**
 
