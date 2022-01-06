@@ -69,6 +69,10 @@ Simple advise: think what behaviours your process activities encourage in develo
 
 **4. Boredom**
 
+> Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, **forced repetitive mundane tasks**, and imposed limitations on development
+
+
+
 > Several top causes are related to perceptions of inadequacy of the self and others
 
 
