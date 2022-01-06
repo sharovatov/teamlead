@@ -8,9 +8,9 @@ In this article, I will review studies related to happiness and productivity and
 
 ## Happiness and the productivity of software engineers
 
-The [overview study](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers) from Daniel Graziotin (Universität Stuttgart) and Fabian Fagerholm at Aalto University.
+I'll start with this [overview study](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers) from Daniel Graziotin (Universität Stuttgart) and Fabian Fagerholm at Aalto University.
 
-The study tries answering the big question — are happy developers more productive?
+The study tries to answer the big question — are happy developers more productive?
 
 And it seems the answer is ‘yes’ — they are more productive when happy.
 
@@ -26,7 +26,7 @@ Now let’s see what the study shows as reasons for developers’ unhappiness.
 
 Developers are pressed for time when they have estimates, deadlines, sprints.
 
-Very rarely there’s a rational reason to have deadlines in software development, and even more, estimations at all. I would suggest you read [my article](estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
+Very rarely, there’s a rational reason to have deadlines in software development, and even more, estimations at all. I suggest you read [my article](estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
 
 There’s also a good book [#NoEstimates](http://noestimatesbook.com) which explains how to meet goals without imposing time pressure on the developers.
 
