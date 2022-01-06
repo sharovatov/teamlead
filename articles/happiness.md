@@ -92,15 +92,13 @@ Another very important concept here is ‘mundane’ work. Mundane generally imp
 
 It seems obvious, that if there’s no understanding as to ‘why’ the work is needed, what value it brings to the team or to the client, ‘interest’ will unlikely emerge.
 
-So it seems to be very important to have full transparency on why the work that’s requested is important.
-
-Advice here:
-- make sure developers understand why certain type of work (or a feature) is important for the team or the client
-
+So it seems to be very important to have full transparency on why the work that’s requested is important and what value it brings.
 
 **5. Perception of inadequacy of the self**
 
 > Several top causes are related to perceptions of inadequacy of the self and others
+
+Managers often have ‘survivor bias’ and ‘confirmation bias’ — whereas they think that if some people (or even they themselves) work in the current environment, this environment is optimal for productivity. Even though this environment might include things like measuring individual performance or a lack of mentorship.
 
 
 
