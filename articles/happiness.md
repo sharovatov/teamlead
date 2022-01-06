@@ -112,12 +112,13 @@ So if a developer sees that their individual performance will be somehow assesse
 - consider getting rid of a concept of individual performance, and for sure get rid of all individual KPIs (read more on Goodhart’s law)
 - make sure your socio-technical system design encourages achieving collective result and collaboration
 
-### more
+### to proceed with:
 
 - work results appropriation?
 - health and happiness?
 
 Links:
+
 - https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24
 - https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers
 
