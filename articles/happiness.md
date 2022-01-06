@@ -52,24 +52,22 @@ Advice here is simple too:
 - managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster’
 - developers: stand for your professional ethics. If a manager asks you to cut the time — simply don’t. No one will fire you for that. Take your time to write quality code. This is what you’re hired for.
 
+**3. Negative social dynamics**
+
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
-To sum it up: **negative social dynamics** and **boredom**
+There are process activities, processes design choices or organisational structure choices that start or toggle negative social (group) dynamics.
 
-**Negative social dynamics**
-
-There are process activities that start or toggle negative social (group) dynamics. The simplest example is the use of code review.
+Some examples:
+- testing after development
+- code review
+- team silos
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
 
 Simple advise: think what behaviours your process activities encourage in developers. Are they really encouraged to collaborate (as in pair/ensemble programming) or are they encouraged to frown upon results of each other work (as in code review)?
 
-Examples of process activities that are harmful:
-- testing after development
-- code review
-- ?
-
-**Boredom**
+**4. Boredom**
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
