@@ -104,10 +104,10 @@ So if a developer sees that their individual performance will be somehow assesse
 - consider getting rid of a concept of individual performance, and for sure get rid of all individual KPIs (read more on Goodhart’s law)
 - make sure your socio-technical system design encourages achieving collective result and collaboration
 
-### to proceed with:
+---
 
-- work results appropriation?
-- health and happiness?
+I will continue adding articles’ reviews to this page.
+
 
 Links:
 
@@ -117,10 +117,9 @@ Links:
 - [Software Developers, Moods, Emotions, and Performance (Daniel Graziotin, Xiaofeng Wang, Pekka Abrahamsson, 2014)](https://ieeexplore.ieee.org/document/6834716)
 - [The Benefits of Frequent Positive Affect: Does Happiness Lead to Success? (Lyubomirsky, S., King, L., & Diener, E. (2005))](https://doi.apa.org/doiLanding?doi=10.1037%2F0033-2909.131.6.803)
 - [The emerging role of emotions in work life: an introduction (Cynthia D. Fisher, Neal M. Ashkanasy, 2000)](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099-1379(200003)21:2%3C123::AID-JOB33%3E3.0.CO;2-8)
-- https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24
-- https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers
-
-
+- [Enabling Productive Software Development by Improving Information Flow](https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24)
+- [Do moods affect programmers’ debug performance? (Iftikhar Ahmed Khan, Willem-Paul Brinkman & Robert M. Hierons, 2011)](https://link.springer.com/article/10.1007%2Fs10111-010-0164-1)
+- [Understanding the dynamic relationships among personality, mood, and job satisfaction: A field experience sampling study (Remus Ilies, Timothy A.Judge, 2002)](https://www.sciencedirect.com/science/article/abs/pii/S0749597802000183?via%3Dihub)
 
 
 
