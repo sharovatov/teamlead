@@ -109,7 +109,7 @@ So if a developer sees that their individual performance will be somehow assesse
 I will continue adding articles’ reviews to this page.
 
 
-Links:
+## References:
 
 - [Happiness and the productivity of software engineers (Daniel Graziotin, Fabian Fagerholm, 2019)](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers)
 - [Happy software developers solve problems better: psychological measurements in empirical software engineering (Daniel Graziotin, Xiaofeng Wang, Pekka Abrahamsson, 2014)](https://peerj.com/articles/289/)
