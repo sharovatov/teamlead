@@ -1,16 +1,10 @@
 # Developers happiness
 
-Studies prove that unhappy developer are less productive and have a higher risk of leaving the company.
+Studies prove that unhappy developers are less productive and have a higher risk of leaving the company.
 
 I’ve seen so many teams where developers were unhappy and ‘forced themselves’ to work. Forcing is counter-productive; our managers’ duty is to make sure our teams are as productive as possible.
 
-In this article, I will review studies related to happiness and productivity and try advising on how to get rid of things damaging your team.
-
-I'll start with this [overview study](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers) from Daniel Graziotin (Universität Stuttgart) and Fabian Fagerholm at Aalto University.
-
-The study tries to answer the big question — are happy developers more productive?
-
-And it seems the answer is ‘yes’ — they are more productive when happy.
+There’s a great [overview study](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers) from Daniel Graziotin (Universität Stuttgart) and Fabian Fagerholm at Aalto University. The study tries to answer the big question — are happy developers more productive? And the answer is: yes, they are more productive when happy.
 
 Now let’s see what the study shows as reasons for developers’ unhappiness.
 
@@ -117,6 +111,10 @@ So if a developer sees that their individual performance will be somehow assesse
 
 Links:
 
+- [Happiness and the productivity of software engineers](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers)
+- [Happy software developers solve problems better: psychological measurements in empirical software engineering](https://peerj.com/articles/289/)
+- [A Study of Emotions in Requirements Engineering](https://link.springer.com/chapter/10.1007%2F978-3-642-16324-1_1)
+- [Software Developers, Moods, Emotions, and Performance](https://ieeexplore.ieee.org/document/6834716)
 - https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24
 - https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers
 
