@@ -57,6 +57,24 @@ Some examples:
 
 Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases).
 
+Quote:
+
+> Every human being associates her work results with themselves.
+>
+> Valuing things we spend effort on doing is innate to our nature.
+>
+> Whenever a developer receives feedback like “this has to be redone”, they will inevitably associate this feedback with themselves.
+>
+> The more effort a person spent on doing something, the more vulnerable she is to the critics. And while she hadn’t been taught properly how the problem should have been solved, she considers negative feedback even worse.
+>
+> Internet’s full of posts and articles on how to “solve” this “negativity problem”. Most of these posts talk about how to provide more “positive” feedback.
+>
+> Microsoft even hired a fully dedicated specialist working on this issue.
+>
+> However, this all seems palliative treatment, none of these approaches offer to solve the problem properly.
+>
+> Solving the problem properly would be introducing the teaching or planning phase before the effort on doing the task is spent and a feeling of achievement emerges.
+
 **Advice**: think about what behaviors your process activities encourage in developers. Are they encouraged to collaborate (as in pair/ensemble programming), or are they encouraged to frown upon results of each other work (as in code review)?
 
 ### 4. Boredom
