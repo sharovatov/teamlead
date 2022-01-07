@@ -6,8 +6,6 @@ I’ve seen so many teams where developers were unhappy and ‘forced themselves
 
 In this article, I will review studies related to happiness and productivity and try advising on how to get rid of things damaging your team.
 
-## Happiness and the productivity of software engineers
-
 I'll start with this [overview study](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers) from Daniel Graziotin (Universität Stuttgart) and Fabian Fagerholm at Aalto University.
 
 The study tries to answer the big question — are happy developers more productive?
@@ -16,9 +14,9 @@ And it seems the answer is ‘yes’ — they are more productive when happy.
 
 Now let’s see what the study shows as reasons for developers’ unhappiness.
 
-### Reasons of unhappiness
+## Reasons of unhappiness
 
-**1. Time pressure**
+### 1. Time pressure
 
 > Being stuck in problem-solving and time pressure are the two most frequent causes of unhappiness
 > ...
@@ -52,7 +50,7 @@ In software development, it’s the developer’s professional judgment that is 
 - managers: stop increasing development costs by asking or demanding ‘to cut development costs’ or ‘ship something faster.’
 - developers: stand for your professional ethics. Suppose a manager asks you to cut the time — don’t. No one will fire you for that. Take your time to write quality code.
 
-**3. Negative social dynamics**
+### 3. Negative social dynamics
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, forced repetitive mundane tasks, and imposed limitations on development
 
@@ -67,7 +65,7 @@ Here’s [an article to read](https://hackernoon.com/code-review-its-bad-expensi
 
 **Advice**: think about what behaviors your process activities encourage in developers. Are they encouraged to collaborate (as in pair/ensemble programming), or are they encouraged to frown upon results of each other work (as in code review)?
 
-**4. Boredom**
+### 4. Boredom
 
 > Similar negative effects were mentioned regarding third persons (such as colleagues, team leaders, or customers) who make developers feel inadequate with their work, **forced repetitive mundane tasks**, and imposed limitations on development
 
@@ -94,7 +92,7 @@ It seems obvious that if there’s no understanding as to ‘why’ the work is 
 
 So it seems to be very important to have full transparency on why the work that’s requested is important and what value it brings.
 
-**5. Perception of inadequacy of the self**
+### 5. Perception of inadequacy of the self
 
 > Several top causes are related to perceptions of inadequacy of the self and others
 
