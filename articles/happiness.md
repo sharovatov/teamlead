@@ -111,12 +111,12 @@ So if a developer sees that their individual performance will be somehow assesse
 
 Links:
 
-- [Happiness and the productivity of software engineers](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers)
-- [Happy software developers solve problems better: psychological measurements in empirical software engineering](https://peerj.com/articles/289/)
-- [A Study of Emotions in Requirements Engineering](https://link.springer.com/chapter/10.1007%2F978-3-642-16324-1_1)
-- [Software Developers, Moods, Emotions, and Performance](https://ieeexplore.ieee.org/document/6834716)
-- [The Benefits of Frequent Positive Affect: Does Happiness Lead to Success?](https://doi.apa.org/doiLanding?doi=10.1037%2F0033-2909.131.6.803)
-- [The emerging role of emotions in work life: an introduction](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099-1379(200003)21:2%3C123::AID-JOB33%3E3.0.CO;2-8)
+- [Happiness and the productivity of software engineers (Daniel Graziotin, Fabian Fagerholm, 2019)](https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers)
+- [Happy software developers solve problems better: psychological measurements in empirical software engineering (Daniel Graziotin, Xiaofeng Wang, Pekka Abrahamsson, 2014)](https://peerj.com/articles/289/)
+- [A Study of Emotions in Requirements Engineering (Ricardo Colomo-Palacios, Adrián Hernández-López, Ángel García-Crespo, Pedro Soto-Acosta, 2010)](https://link.springer.com/chapter/10.1007%2F978-3-642-16324-1_1)
+- [Software Developers, Moods, Emotions, and Performance (Daniel Graziotin, Xiaofeng Wang, Pekka Abrahamsson, 2014)](https://ieeexplore.ieee.org/document/6834716)
+- [The Benefits of Frequent Positive Affect: Does Happiness Lead to Success? (Lyubomirsky, S., King, L., & Diener, E. (2005))](https://doi.apa.org/doiLanding?doi=10.1037%2F0033-2909.131.6.803)
+- [The emerging role of emotions in work life: an introduction (Cynthia D. Fisher, Neal M. Ashkanasy, 2000)](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099-1379(200003)21:2%3C123::AID-JOB33%3E3.0.CO;2-8)
 - https://link.springer.com/chapter/10.1007%2F978-1-4842-4221-6_24
 - https://www.researchgate.net/publication/332494069_Happiness_and_the_productivity_of_software_engineers
 
