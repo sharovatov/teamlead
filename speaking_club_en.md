@@ -2,17 +2,17 @@
 
 > In its simplest (translated) form, eudaimonia is often taken to mean happiness (Deci & Ryan, 2006; Huta & Waterman, 2014; Heintzelman, 2018). Sometimes it is translated from the original ancient Greek as welfare, sometimes flourishing, and sometimes as well-being (Kraut, 2018). The concept of Eudaimonia comes from Aristotle’s Nicomachean Ethics, his philosophical work on the ‘science of happiness’ (Irwin, 2012)
 
-I believe people can and should be happy. Both at work and at home.
+People can and should be happy—both at work and at home.
 
-Scientists studied the topic of importance of happiness at work, I reviewed a few of the studies [here](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md).
+Scientists studied the importance of happiness at work, and I reviewed a few studies [here](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md).
 
-General consensus is that unhappy developers are much less productive.
+The consensus is that unhappy developers are much less productive.
 
 Factors that influence happiness or unhappiness are many.
 
-Top five factors include ‘boredom’ and ‘perception of inadequacy of self’.
+The top five factors include ‘boredom’ and ‘perception of the inadequacy of self.’
 
-Both these factors have something in common — people tend to lack interest in the work and feel unfulfilled.
+These factors have something in common — people tend to lack interest in the work and feel unfulfilled.
 
 But what is interest? How does one find it in work?
 
