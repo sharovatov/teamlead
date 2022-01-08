@@ -12,8 +12,13 @@ Factors that influence happiness or unhappiness are many.
 
 Top five factors include ‘boredom’ and ‘perception of inadequacy of self’.
 
+Both these factors have something in common — people tend to lack interest in the work and feel unfulfilled.
 
+But what is interest? How does one find it in work?
+
+- PR
 - psycholinguistics and speech
+- 
 
 T
 
