@@ -1,12 +1,21 @@
 # Eudaimonia
 
-```
-In its simplest (translated) form, eudaimonia is often taken to mean happiness (Deci & Ryan, 2006; Huta & Waterman, 2014; Heintzelman, 2018). Sometimes it is translated from the original ancient Greek as welfare, sometimes flourishing, and sometimes as well-being (Kraut, 2018). The concept of Eudaimonia comes from Aristotle’s Nicomachean Ethics, his philosophical work on the ‘science of happiness’ (Irwin, 2012)
-```
+> In its simplest (translated) form, eudaimonia is often taken to mean happiness (Deci & Ryan, 2006; Huta & Waterman, 2014; Heintzelman, 2018). Sometimes it is translated from the original ancient Greek as welfare, sometimes flourishing, and sometimes as well-being (Kraut, 2018). The concept of Eudaimonia comes from Aristotle’s Nicomachean Ethics, his philosophical work on the ‘science of happiness’ (Irwin, 2012)
 
 I believe people can and should be happy. Both at work and at home.
 
-There actually are studies showing the importance of happiness at work: 
+Scientists studied the topic of importance of happiness at work, I reviewed a few of the studies [here](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md).
+
+General consensus is that unhappy developers are much less productive.
+
+Factors that influence happiness or unhappiness are many.
+
+Top five factors include ‘boredom’ and ‘perception of inadequacy of self’.
+
+
+- psycholinguistics and speech
+
+T
 
 
 
