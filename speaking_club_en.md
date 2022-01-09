@@ -31,9 +31,15 @@ Both use storytelling and acting — essentially a dialogue with the audience as
 A ‘speaking club’.
 
 It’s a regular training aimed at improving employees speaking and acting skills, thus allowing them to:
+- discover and reimagine themselves
 - get rid of all the fears of stage and start enjoying the dialogue with the audience
+- explore the vast and unknown parts of the personality, finding true self through dialogue with the audience and themselves
+- understand and see the value of things they do
+- become a vital part of the global speakers community
 - reduce time on preparing the talks
 - come up with more engaging topics and ways to discuss them
+- contribute to the company public perception and PR
+- invest and improve personal brand image
 
 As soon as people start giving more talks more confidently, they see more good feedback from the audience, their self-esteem grows, their productivity and loyalty to the company grows.
 
@@ -48,9 +54,9 @@ There are multiple studies proving this effect: [#1](https://journals.sagepub.co
 ## The training procedure
 
 
+- psychological safety and comfort and opportunity to express yourself
 
 
-Psycholinguistics says that speech is deeply connected with 
 
 **References**:
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
