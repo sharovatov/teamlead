@@ -8,9 +8,9 @@ Scientists studied the importance of happiness at work, and I reviewed a few stu
 
 The consensus is that unhappy developers are much less productive.
 
-Factors that influence happiness or unhappiness are many, the top five include ‘boredom’ and ‘perception of the inadequacy of self.’
+Factors that influence happiness or unhappiness are many; the top five include ‘boredom’ and ‘perception of the inadequacy of self.’
 
-I think that these factors have the same root — **people don’t understand the value of their work and their impact on delivering this value**.
+I think these factors have the same root — **people don’t understand the value of their work and their impact on delivering it**.
 
 Nathaniel Branden in his book [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
 says:
@@ -20,37 +20,37 @@ John C. Maxwell in his book [The 15 invaluable laws of growth](https://www.amazo
 > if you lack self-confidence—your self-esteem deficiency will limit you, no matter what other assets you possess
 > people are never able to outperform their self-image
 
-My thesis is that **people who don’t understand the value of the work and their impact on delivering this value, are much less happy and therefore (as studies prove) much less productive**.
+My thesis is that **people who don’t understand the value of the work and their impact on delivering it are much less happy and, therefore (as studies prove), much less productive**.
 
-There are two huge areas exploring the ways to deal with this issue — [Narrative psychology](https://en.wikipedia.org/wiki/Narrative_psychology) and [Drama therapy](https://en.wikipedia.org/wiki/Drama_therapy).
+Two huge areas are exploring how to deal with this issue — [Narrative psychology](https://en.wikipedia.org/wiki/Narrative_psychology) and [Drama therapy](https://en.wikipedia.org/wiki/Drama_therapy).
 
-Both use storytelling and acting — essentially a dialogue with the audience as a way of self-fulfilment and self-actualisation.
+Both use storytelling and acting — essentially a dialogue with the audience to self-fulfillment and self-actualisation.
 
 ## Here’s what we offer:
 
-A ‘speaking club’.
+A ‘speaking club.’
 
 It’s a regular training aimed at improving employees speaking and acting skills, thus allowing them to:
 - discover and reimagine themselves
-- get rid of all the fears of stage and start enjoying the dialogue with the audience
+- get rid of all the fears of the stage and start enjoying the dialogue with the audience
 - explore the vast and unknown parts of the personality, finding true self through dialogue with the audience and themselves
 - understand and see the value of things they do
-- become a vital part of the global speakers community
+- become a vital part of the global speakers’ community
 - reduce time on preparing the talks
 - come up with more engaging topics and ways to discuss them
 - contribute to the company public perception and PR
 - invest and improve personal brand image
 
-As soon as people start giving more talks more confidently, they see better feedback from the audience. This leads to:
+As soon as people start giving more talks more confidently, they see better feedback from the audience, which leads to:
 - their self-esteem growing, ‘impostor syndrome’ diminishing
 - their productivity and loyalty to the company growing
-- work getting more diverse and intense with events (which are different from a daily routine).
+- work getting more diverse and intense with events (different from a daily routine).
 
 The feel and belief they are doing an amazing job and them being a great specialist grow with every single applause they receive at a conference.
 
 They are even getting _smarter_ thanks to:
 - speech and cognition deep connection (psycholinguistics elaborate a lot on this)
-- every talk prep requires reflective analysis and synthesis phases (‘in order to learn start teaching’ — there are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)).
+- every talk prep requires reflective analysis and synthesis phases (‘in order to learn, start teaching’ — there are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)).
 
 ## The training procedure
 
