@@ -64,6 +64,11 @@ We create a psychologically comforting, trusting and empowering environment; the
 
 We do not ‘pull’ the topics from people, we help people develop the skill to see and explicate meaning in what they do; and then we teach how to make it an appealing and moving narrative (or a different appropriate way to tell a story).
 
+We can run our training in English and Russian.
+
+8 hours schedule with a few breaks works well.
+
+If your company wants to discuss the options, feel free to telegram me at [@vitaly19842](https://t.me/vitaly19842) or email me at [vitaly.sharovatov@gmail.com](vitaly.sharovatov@gmail.com).
 
 **References**:
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
@@ -78,6 +83,6 @@ We do not ‘pull’ the topics from people, we help people develop the skill to
 ](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237) 
 - [The relative benefits of learning by teaching and teaching expectancy](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209)
 - [The learning benefits of teaching: A retrieval practice hypothesis](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)
-
+- [Сергей Гиппиус: Гимнастика чувств](https://www.ozon.ru/product/akterskiy-trening-gimnastika-chuvstv-uchebnoe-posobie-dlya-spo-gippius-sergey-vasilevich-241208378/)
 
 
