@@ -8,9 +8,7 @@ Scientists studied the importance of happiness at work, and I reviewed a few stu
 
 The consensus is that unhappy developers are much less productive.
 
-Factors that influence happiness or unhappiness are many.
-
-The top five factors include ‘boredom’ and ‘perception of the inadequacy of self.’
+Factors that influence happiness or unhappiness are many, the top five include ‘boredom’ and ‘perception of the inadequacy of self.’
 
 I think that these factors have the same root — **people don’t understand the value of their work and their impact on delivering this value**.
 
@@ -24,23 +22,24 @@ John C. Maxwell in his book [The 15 invaluable laws of growth](https://www.amazo
 
 My thesis is that **people who don’t understand the value of the work and their impact on delivering this value, are much less happy and therefore (as studies prove) much less productive**.
 
-How can we mediate this?
-
 There are two huge areas exploring the ways to deal with this issue — [Narrative psychology](https://en.wikipedia.org/wiki/Narrative_psychology) and [Drama therapy](https://en.wikipedia.org/wiki/Drama_therapy).
 
 Both use storytelling and acting — essentially a dialogue with the audience as a way of self-fulfilment and self-actualisation.
 
+## Here’s what we offer:
 
+A ‘speaking club’.
 
-Here’s what we offer:
+It’s a regular training aimed at improving employees speaking and acting skills, thus allowing them to:
+- get rid of all the fears of stage and start enjoying the dialogue with the audience
+- reduce time on preparing the talks
+- come up with more engaging topics and ways to discuss them
 
-A training aimed at improving employees speaking and acting skills, thus allowing them to
-- improving speaking skills
-- improving acting skills
+As soon as people start giving more talks more confidently, they see more good feedback from the audience, their self-esteem grows, their productivity and loyalty to the company grows.
 
-- PR
-- psycholinguistics and speech
-- narrative psychology
+The feel and belief they are doing an amazing job and they are a great specialist grow with every single applause they receive at a conference.
+
+How does this work?
 
 **References**:
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
