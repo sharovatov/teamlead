@@ -44,15 +44,13 @@ It’s a regular training aimed at improving employees speaking and acting skill
 As soon as people start giving more talks more confidently, they see better feedback from the audience. This leads to:
 - their self-esteem growing, ‘impostor syndrome’ diminishing
 - their productivity and loyalty to the company growing
-- work more diverse and intense with events (which are different from a daily routine).
+- work getting more diverse and intense with events (which are different from a daily routine).
 
 The feel and belief they are doing an amazing job and them being a great specialist grow with every single applause they receive at a conference.
 
 They are even getting _smarter_ thanks to:
 - speech and cognition deep connection (psycholinguistics elaborate a lot on this)
-- every talk prep requires reflective analysis and synthesis phases (‘in order to learn start teaching’).
-
-There are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview).
+- every talk prep requires reflective analysis and synthesis phases (‘in order to learn start teaching’ — there are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)).
 
 ## The training procedure
 
