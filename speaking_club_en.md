@@ -45,7 +45,10 @@ They are even getting smarter thanks to:
 
 There are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview).
 
-**How does this work?**
+## The training procedure
+
+
+
 
 Psycholinguistics says that speech is deeply connected with 
 
