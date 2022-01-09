@@ -24,6 +24,12 @@ John C. Maxwell in his book [The 15 invaluable laws of growth](https://www.amazo
 
 My thesis is that **people who don’t understand the value of the work and their impact on delivering this value, are much less happy and therefore (as studies prove) much less productive**.
 
+How can we mediate this?
+
+There are two huge areas exploring the ways to deal with this issue — [Narrative psychology](https://en.wikipedia.org/wiki/Narrative_psychology) and [Drama therapy](https://en.wikipedia.org/wiki/Drama_therapy).
+
+Both use storytelling and acting — essentially a dialogue with the audience as a way of self-fulfilment and self-actualisation.
+
 
 
 Here’s what we offer:
