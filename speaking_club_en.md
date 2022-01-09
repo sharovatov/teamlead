@@ -41,7 +41,10 @@ It’s a regular training aimed at improving employees speaking and acting skill
 - contribute to the company public perception and PR
 - invest and improve personal brand image
 
-As soon as people start giving more talks more confidently, they see better feedback from the audience, their self-esteem grows, their productivity and loyalty to the company grows.
+As soon as people start giving more talks more confidently, they see better feedback from the audience. This leads to:
+- their self-esteem growing, ‘impostor syndrome’ diminishing
+- their productivity and loyalty to the company growing
+- work more diverse and intense with events (which are different from a daily routine).
 
 The feel and belief they are doing an amazing job and them being a great specialist grow with every single applause they receive at a conference.
 
