@@ -39,11 +39,23 @@ As soon as people start giving more talks more confidently, they see more good f
 
 The feel and belief they are doing an amazing job and they are a great specialist grow with every single applause they receive at a conference.
 
-How does this work?
+They are even getting smarter thanks to:
+- speech and cognition deep connection (psycholinguistics elaborate a lot on this)
+- every talk prep requires reflective analysis and synthesis phases (‘in order to learn start teaching’).
+
+There are multiple studies proving this effect: [#1](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237), [#2](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209), [#3](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview).
+
+**How does this work?**
+
+Psycholinguistics says that speech is deeply connected with 
 
 **References**:
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
 - [The 15 invaluable laws of growth](https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953676)
+- [Andrew Abela: Advanced presentations by design](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
+- [Nancy Duarte: Resonate](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
+- [Introduction to psycholinguistics: Understanding Language Science](https://www.wiley.com/en-us/Introduction+to+Psycholinguistics%3A+Understanding+Language+Science-p-9781405198622)
+
 
 
 
@@ -129,9 +141,5 @@ Content is the essence. The way people present this content
 [Роберт МакГи: История на миллион](https://www.ozon.ru/product/istoriya-na-million-dollarov-master-klass-dlya-stsenaristov-pisateley-i-ne-tolko-makki-robert-231112410/?asb=Kpg4DM8EZUq3GQXyX5OpPvBdDamTD7S4POd%252FI%252Fh8jdE%253D&asb2=vtSC4oF8G0KR3SjQqZaepfgEIoODFCq6oCX68ie8ciz3Y4vk-sCSgPxcBPEY31XH&keywords=%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D0%BD%D0%B0+%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD&sh=vK0MD6ar)
 
 [Garr Reynolds: Presentations Zen](https://www.amazon.com/Presentation-Zen-Simple-Design-Delivery/dp/0135800919/ref=sr_1_1?dchild=1&keywords=presentation+zen&qid=1634149613&sr=8-1)
-
-[Andrew Abela: Advanced presentations by design](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
-
-[Nancy Duarte: Resonate](https://www.amazon.com/Advanced-Presentations-Design-Creating-Communication/dp/1118347919/ref=sr_1_3?dchild=1&keywords=advanced+presentations+by+design&qid=1634149656&sr=8-3)
 
 
