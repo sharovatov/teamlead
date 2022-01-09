@@ -25,11 +25,12 @@ says:
 > “No factor is more important in people’s psychological development and motivation than the value judgments they make about themselves. Every aspect of their lives is impacted by the way they see themselves.”
 
 John C. Maxwell in his book [The 15 invaluable laws of growth](https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953676) says on this topic:
-> if you believe you are worthless, then you won't add value to yourself
+> if you lack self-confidence—your self-esteem deficiency will limit you, no matter what other assets you possess
+> people are never able to outperform their self-image
 
 **References**:
 - [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
-
+- [The 15 invaluable laws of growth](https://www.amazon.com/15-Invaluable-Laws-Growth-Potential/dp/1599953676)
 
 
 
