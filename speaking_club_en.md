@@ -62,7 +62,7 @@ The program of the training is adaptive but comprises of two sinergetic activiti
 
 We create a psychologically comforting, trusting and empowering environment; then guide people through all the stages (finding a topic, working on it, presenting, testing and working with feedback, and finalising the topic).
 
-We do not ‘pull’ the topics from people, we help people develop the skill to see and explicate meaning in what they do; and then we teach how to make it an appealing and moving narrative.
+We do not ‘pull’ the topics from people, we help people develop the skill to see and explicate meaning in what they do; and then we teach how to make it an appealing and moving narrative (or a different appropriate way to tell a story).
 
 
 **References**:
