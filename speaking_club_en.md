@@ -54,9 +54,15 @@ They are even getting _smarter_ thanks to:
 
 ## The training procedure
 
+This is a full-day offline group training event.
 
-- psychological safety and comfort and opportunity to express yourself
+Group can have up to 8-10 people.
 
+The program of the training is adaptive but comprises of two sinergetic activities: reflective and acting/speaking.
+
+We create a psychologically comforting, trusting and empowering environment; then guide people through all the stages (finding a topic, working on it, presenting, testing and working with feedback, and finalising the topic).
+
+We do not ‘pull’ the topics from people, we help people develop the skill to see and explicate meaning in what they do; and then we teach how to make it an appealing and moving narrative.
 
 
 **References**:
