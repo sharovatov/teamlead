@@ -12,6 +12,10 @@ Factors that influence happiness or unhappiness are many.
 
 The top five factors include ‘boredom’ and ‘perception of the inadequacy of self.’
 
+I think that these factors have the same root — **people don’t understand the value of their work and their impact on delivering this value**.
+
+
+
 Nathaniel Branden in his book [The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding that Launched a New Era in Modern Psychology (Nathaniel Branden, 2001)](https://www.wiley.com/en-us/The+Psychology+of+Self+Esteem%3A+A+Revolutionary+Approach+to+Self+Understanding+that+Launched+a+New+Era+in+Modern+Psychology-p-9780787945268)
 says:
 > “No factor is more important in people’s psychological development and motivation than the value judgments they make about themselves. Every aspect of their lives is impacted by the way they see themselves.”
@@ -20,8 +24,12 @@ John C. Maxwell in his book [The 15 invaluable laws of growth](https://www.amazo
 > if you lack self-confidence—your self-esteem deficiency will limit you, no matter what other assets you possess
 > people are never able to outperform their self-image
 
-I think that both ‘boredom’ and ‘perception of the inadequacy of self’ have the same root — **people don’t understand the value of their work and their impact on delivering this value**.
 
+Here’s what we offer:
+
+A training aimed at improving employees speaking and acting skills, thus allowing them to
+- improving speaking skills
+- improving acting skills
 
 - PR
 - psycholinguistics and speech
