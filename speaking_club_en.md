@@ -41,11 +41,11 @@ It’s a regular training aimed at improving employees speaking and acting skill
 - contribute to the company public perception and PR
 - invest and improve personal brand image
 
-As soon as people start giving more talks more confidently, they see more good feedback from the audience, their self-esteem grows, their productivity and loyalty to the company grows.
+As soon as people start giving more talks more confidently, they see better feedback from the audience, their self-esteem grows, their productivity and loyalty to the company grows.
 
 The feel and belief they are doing an amazing job and they are a great specialist grow with every single applause they receive at a conference.
 
-They are even getting smarter thanks to:
+They are even getting _smarter_ thanks to:
 - speech and cognition deep connection (psycholinguistics elaborate a lot on this)
 - every talk prep requires reflective analysis and synthesis phases (‘in order to learn start teaching’).
 
