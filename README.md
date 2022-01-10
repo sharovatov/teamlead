@@ -48,12 +48,11 @@ Pull requests and discussions are always welcome.
 - [правовые нюансы увольнения](articles/firing_law.md)
 - [github effect — how writing benefits me](articles/github-effect_en.md) (translations: [:ru: Russian](articles/github-effect.md))
 - [кружок качества](articles/quality_circle.md)
-- [кружок выступающих](speaking_club.md)
 - [PDR — process decision record](articles/PDR.md)
 
-## Курсы, семинары, обучающие программы
+## Courses, trainings, seminars
 - [школа кадрового резерва в АМТЕХ](https://github.com/AMTECH-dev/shkar)
-- [подготовка к выступлениям](speaking_club.md)
+- [‘Speaking club’ — public speaking training](speaking_club_en.md) (translations: [:ru: Russian](speaking_club.md))
 
 ## Recommendations
 - [Books to read](misc/books.md)
