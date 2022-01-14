@@ -39,12 +39,16 @@
 
 Доверию помогает [рациональность](https://github.com/sharovatov/teamlead/blob/master/articles/rational_improvement_en.md).
 
+Несмотря на то, что доверие может развиваться в «горизонтальных» связях (сотрудник-сотрудник), эффективнее, когда доверительные отношения пестуются и провоцируются руководителем.
+
 Todo:
 - убрать микроменеджмент
 - убрать «вину»
 - убрать «приказы»
 
 
+
+
 Ссылки:
 - [Истинное чувство доверия может испытывать только свободный человек](https://hbr-russia.ru/biznes-i-obshchestvo/etika-i-reputatsiya/a11624/)
-- [Whitener, E. M., Brodt, S. E., Korsgaard, M. A., & Werner, J. M. (1998). Managers as initiators of trust: An exchange relationship framework for understanding managerial trustworthy behavior.]()
+- [Whitener, E. M., Brodt, S. E., Korsgaard, M. A., & Werner, J. M. (1998). Managers as initiators of trust: An exchange relationship framework for understanding managerial trustworthy behavior.](https://www.jstor.org/stable/259292)
