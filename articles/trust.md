@@ -37,6 +37,8 @@
 
 Чувство вины или страха убивает доверие.
 
+Доверию помогает [рациональность](https://github.com/sharovatov/teamlead/blob/master/articles/rational_improvement_en.md).
+
 Todo:
 - убрать микроменеджмент
 - убрать «вину»
