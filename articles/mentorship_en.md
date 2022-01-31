@@ -2,9 +2,7 @@
 
 ## What
 
-```
-Mentorship — the guidance provided by a mentor, especially an experienced person in a company or educational institution
-```
+> Mentorship — the guidance provided by a mentor, especially an experienced person in a company or educational institution
 
 Mentorship involves guidance and teaching.
 
@@ -19,11 +17,9 @@ Mentorship allows to:
 - improve employee morale and motivation
 
 Working mentorship culture also provides the following benefits:
-
-Культура менторства и работающий процесс обучения также даёт следующие выгоды:
-- распространение знаний внутри и между отделов
-- развивается рефлексия о процессе производства
-- учитель лучше относится к ученикам, развиваются связи полезные внутри команды
+- easy knowledge sharing between people and teams
+- processes and technology are reviewed more frequently and more rationally (lower chance of stagnation)
+- team social dynamics improve (mentors feel responsibility for mentees)
 
 ### Удешевление найма
 
