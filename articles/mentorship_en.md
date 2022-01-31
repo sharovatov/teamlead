@@ -32,17 +32,13 @@ Higher the qualification required:
 - higher the salary is;
 - less the newly employed person will work in the company (as their growth will be limited)
 
+On the other hand, if your company has good mentorship culture and process, you can hire employees of lower qualification, reducing the hiring time and cost, and then teach the employees.
 
+### Reducing the onboarding costs
 
-При развитой культуре менторства можно нанимать сотрудников более низкой квалификации, быстро закрывая вакансию, и дообучать их.
+Onboarding is essentially adaptation, where someone is adapting to something.
 
-### Удешевление адаптации
-
-Адаптация по определению является процессом приспособления к чему-то.
-
-В английском языке используется слово onboarding — «вхождение на борт».
-
-По сути, оба эти слова обозначают процесс привыкания сотрудника, введения его в курс дела, ознакомления с производством, регламентами и способами взаимодействия с отделами, освоения предметной области проекта или продукта, по которому ведётся разработка, — в общем, получения всего объёма знаний и навыков, необходимых для эффективного труда.
+Onboarding implies that the employee gets to know the company culture, the code and the processes, the product and the domain knowledge. Basically, the employee receives and accumulates all the knowledge required for productive work.
 
 Целью и результатом адаптации является выход сотрудника на хороший уровень продуктивности труда.
 
