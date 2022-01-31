@@ -40,11 +40,11 @@ Onboarding is essentially adaptation, where someone is adapting to something.
 
 Onboarding implies that the employee gets to know the company culture, the code and the processes, the product and the domain knowledge. Basically, the employee receives and accumulates all the knowledge required for productive work.
 
-Целью и результатом адаптации является выход сотрудника на хороший уровень продуктивности труда.
+The goal and the result of the onboarding process is to quickly increase employee’s productivity.
 
-Процесс адаптации есть во всех компаниях, различается он степенью осмысленности и, соответственно, эффективности.
+Every single company has onboarding process (regardless if it’s strictly defined or not) but the process varies significantly in effectiveness.
 
-Чаще всего можно наблюдать неорганизованный процесс адаптации, когда сотрудника просто бросают в проект — дают доступы, и «вперёд, пиши задачи». Через какое-то время работу сотрудника «проконтролируют»: оценят, дадут обратную связь.
+Most often we can see unorganised onboarding process where the newly hired employee is just provided with required access and is given a few first tasks; and after a certain period of time the results will be reviewed (maybe during a code review, or somehow else) and maybe some feedback will be provided.
 
 Получается, будто сотрудника просят направиться на зюйд-вест, но не подсказывают, как это направление определить, а через время сотруднику говорят: «Смотри, ты шёл не туда, возвращайся, снова ищи направление сам».
 
