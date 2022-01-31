@@ -46,15 +46,13 @@ Every single company has onboarding process (regardless if it’s strictly defin
 
 Most often we can see unorganised onboarding process where the newly hired employee is just provided with required access and is given a few first tasks; and after a certain period of time the results will be reviewed (maybe during a code review, or somehow else) and maybe some feedback will be provided.
 
-Получается, будто сотрудника просят направиться на зюйд-вест, но не подсказывают, как это направление определить, а через время сотруднику говорят: «Смотри, ты шёл не туда, возвращайся, снова ищи направление сам».
+It’s as if an employee is asked ‘follow southwest direction’ but isn’t provided with a knowledge on how to navigate with given tools. And in two days they are told ‘wait what are you doing you’re following a wrong direction’.
 
-В совсем плохом случае обратная связь или переориентирование происходит на код-ревью первой выполненной задачи.
+The feedback loop length is in this case as long as the whole task completion time.
 
-Итерация «выполнил — получил обратную связь» выходит в таком случае длинной, равной времени выполнения задачи.
+It seems obvious that the effectiveness of the first task completion will be very low.
 
-Кажется очевидным, что эффективность первой попытки решения задачи будет весьма низкой.
-
-Чем короче итерация до получения обратной связи, тем быстрее сотрудник придёт к цели, так как направление движения будет корректироваться чаще.
+Shorter the feedback loop, faster the employee will get to good productivity.
 
 При наличии культуры менторства срок адаптации очевидным образом уменьшается за счёт более коротких циклов обратной связи. Также вначале, прежде чем приступить к работе, ментор договаривается с сотрудником о том, как будет решаться задача (ментор дообучает сотрудника, если необходимо). В итоге даже с самыми первыми заданиями новые сотрудники справляются гораздо более эффективно.
 
