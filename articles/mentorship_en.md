@@ -21,15 +21,18 @@ Working mentorship culture also provides the following benefits:
 - processes and technology are reviewed more frequently and more rationally (lower chance of stagnation)
 - team social dynamics improve (mentors feel responsibility for mentees)
 
-### Удешевление найма
+### Reducing hiring costs
 
-Обычно стараются нанять сотрудника, идеально подходящего требованиям.
+Usually companies want to hire an employee who would ideally (or almost ideally) satisfy the requirements.
 
-У такого подхода есть несколько недостатков, ведь чем выше требуемая квалификация:
+This approach has certain drawbacks.
 
-- тем труднее, дольше, а значит, дороже сам процесс подбора;
-- тем выше зарплата подходящего сотрудника;
-- тем меньше он проработает в компании (куда ему расти-то?).
+Higher the qualification required:
+- harder and more expensive the sourcing and hiring process is;
+- higher the salary is;
+- less the newly employed person will work in the company (as their growth will be limited)
+
+
 
 При развитой культуре менторства можно нанимать сотрудников более низкой квалификации, быстро закрывая вакансию, и дообучать их.
 
