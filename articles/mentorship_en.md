@@ -87,10 +87,17 @@ Total days spent on the whole mentorship process: ~ 4.
 
 The difference I had was very significant on its own. But what’s more important — we usually hire only when we understand that we _really_ need this specialist.
 
+What is this ‘need’ exactly?
 
+Essentially, it’s ‘we are certain that we will get so much more value than the salary’s worth.
 
-Также стоит учесть важный фактор: наём осуществляется тогда, когда новый сотрудник необходим. Необходим — значит, его зарплата оправданна, и, очевидно, с хорошей маржинальностью оправданна, ведь иначе зачем коммерческому предприятию нанимать работника. Раз зарплата оправданна с хорошей маржинальностью, предприятию выгодно как можно скорее вывести сотрудника на уровень высокой эффективности.
+This means that we are even more incentivised to make sure the newjoiner will operate efficiently as soon as possible.
 
+I would advise to try to see how much time it takes your newjoiners to onboard without a mentor; and then experiment with adding a mentor to the onboarding process — and record the numbers.
+
+Chances are — you’ll see direct economical efficiency of mentorship.
+
+### 
 ### Улучшение текучести
 
 Сотрудники, ростом и развитием которых компания занимается, работают дольше. Насколько дольше — предстоит проверить вам самим.
