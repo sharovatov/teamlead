@@ -97,16 +97,15 @@ I would advise to try to see how much time it takes your newjoiners to onboard w
 
 Chances are — you’ll see direct economical efficiency of mentorship.
 
-### 
-### Улучшение текучести
+### Attrition improvement
 
-Сотрудники, ростом и развитием которых компания занимается, работают дольше. Насколько дольше — предстоит проверить вам самим.
+Employees who feel that ‘they are being taken care of’ and who see that the company pays attention and supports their growth, are more loyal.
 
-Исследований на эту тему — полно.
+There are only empirical studies showing this effect, the precise improvement of attrition in your company you will have to see for yourself.
 
-### Распространение знаний внутри и между отделов
+### Knowledge sharing
 
-Менторство даёт возможность спокойно ротировать сотрудников из одной команды в другую, если пришлось.
+Working mentorship process allows for easy employee rotation between teams (if need be).
 
 ## Как организовать
 
