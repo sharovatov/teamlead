@@ -60,31 +60,34 @@ During this process the mentor will clearly see where the newjoiner lacks what k
 
 Also the feedback loop is much shorter — as mentor advises the newjoiner on how the task can be completed more effectively.
 
+My experience shows that the easiest way to set up the onboarding process was to allocate couple of hours per day for the mentor to work with the newjoiner: this reduced the onboarding time from 4 weeks to 1.
 
-В моей практике самым простым вариантом было банальное выделение ментору двух часов в день на нового сотрудника, что привело к колоссальному сокращению времени адаптации.
+You can try doing the following calculation for your team (the examples below are mine):
 
-Можно попробовать использовать подобный мыслительный процесс (подставив, понятно, свои значения) в проведении эксперимента.
+Newjoiner onboarding without a mentor:
 
-Сотрудник, адаптирующийся без ментора, работал с эффективностью:
+- 40 % — 1 week (3 days spent on learning):
+- 60 % — 1 week (2 days spent on learning);
+- 70 % — 1 week (1,5 days spent on learning);
+- 90 % — 1 week (0,5 days spent on learning).
 
-- 40 % — 1 неделю (3 md потеряно):
-- 60 % — 1 неделю (2 md потеряно);
-- 70 % — 1 неделю (1,5 md потеряно);
-- 90 % — 1 неделю (0,5 md потеряно).
+Total days spent on learning: 7.
 
-Общие потери: 7 md.
+The newjoiner onboarding with a mentor:
 
-Сотрудник, адаптирующийся с ментором, работал с эффективностью:
+- 70 % — 1 week (1,5 days spent on learning);
+- 90 % — 2 week (0,5 days spent on learning).
 
-- 70 % — 1 неделю (1,5 md потеряно);
-- 90 % — 2 недели (0,5 md потеряно).
+Mentor spent:
 
-Траты ментора каждый день:
+- 2 hours — 1 week (1,25 days spent on teaching);
+- 1 hour — 2 weeks (0,6 day spent on teaching).
 
-- 2 часа — 1 неделю (1,25 md потрачено);
-- 1 час — 2 недели (0,6 md потрачено).
+Total days spent on the whole mentorship process: ~ 4.
 
-Общие потери и траты: ~ 4 md.
+The difference I had was very significant on its own. But what’s more important — we usually hire only when we understand that we _really_ need this specialist.
+
+
 
 Также стоит учесть важный фактор: наём осуществляется тогда, когда новый сотрудник необходим. Необходим — значит, его зарплата оправданна, и, очевидно, с хорошей маржинальностью оправданна, ведь иначе зачем коммерческому предприятию нанимать работника. Раз зарплата оправданна с хорошей маржинальностью, предприятию выгодно как можно скорее вывести сотрудника на уровень высокой эффективности.
 
