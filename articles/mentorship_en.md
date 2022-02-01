@@ -54,9 +54,12 @@ It seems obvious that the effectiveness of the first task completion will be ver
 
 Shorter the feedback loop, faster the employee will get to good productivity.
 
-При наличии культуры менторства срок адаптации очевидным образом уменьшается за счёт более коротких циклов обратной связи. Также вначале, прежде чем приступить к работе, ментор договаривается с сотрудником о том, как будет решаться задача (ментор дообучает сотрудника, если необходимо). В итоге даже с самыми первыми заданиями новые сотрудники справляются гораздо более эффективно.
+A good mentorship process requires mentor to start helping the newjoiner _before_ they start working on a task. Mentor, as in proper teaching process, starts by either guiding the newjoiner through the task execution, or just collaborates with them.
 
-Предлагаю вам провести эксперимент: посмотреть на скорость и качество выполнения первых задач новичком, адаптирующимся без ментора, и похожим сотрудником, адаптирующимся с ментором.
+During this process the mentor will clearly see where the newjoiner lacks what knowledge, and therefore the onboarding process can be much more effective.
+
+Also the feedback loop is much shorter — as mentor advises the newjoiner on how the task can be completed more effectively.
+
 
 В моей практике самым простым вариантом было банальное выделение ментору двух часов в день на нового сотрудника, что привело к колоссальному сокращению времени адаптации.
 
