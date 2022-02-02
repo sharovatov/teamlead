@@ -107,13 +107,20 @@ There are only empirical studies showing this effect, the precise improvement of
 
 Working mentorship process allows for easy employee rotation between teams (if need be).
 
-## Как организовать
+## How to implement
 
-Культура менторства включает в себя несколько основных элементов:
+The benefits of a working mentorship culture and processes seem to be quite obvious, now to implementation.
 
-- подбор и обучение менторов;
-- изменение рабочих процессов и культуры в команде;
-- сам процесс обучения в компании.
+You need to do a few things first:
+- find and teach mentors;
+- adapt your company process and culture;
+- start mentoring
+
+### Finding and teaching mentors
+
+Pedagogical science says that more ‘humanistic’ people most often become better mentors.
+
+Those people enjoy seeing their mentees’ results and success.
 
 ### Подбор и обучение менторов
 
