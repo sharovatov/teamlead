@@ -122,19 +122,21 @@ Pedagogical science says that more ‘humanistic’ people most often become bet
 
 Those people enjoy seeing their mentees’ results and success.
 
-### Подбор и обучение менторов
+Most certainly you recall good teachers at school or uni — they actually wanted to inspire you and help you understand and learn.
 
-Эффективнее работают менторы с гуманистической центрацией личности — люди, которым нравится учить и которые получают удовольствие от результатов своих учеников.
+If you look at your colleagues and how they behave, you will see these traits easily at retrospectives or during other team activities — some people just enjoy explaining and seeing others learn.
 
-Считаю, что стоит учитывать этот фактор в отборе потенциальных менторов среди ваших сотрудников.
+I would advise trying out offering these people to mentor newjoiners.
 
-Думаю, у каждого есть пара примеров плохих учителей, убивших любовь к предмету и желание его осваивать. Ровно таким плохим учителем будет принуждённый к менторству против его желания сотрудник.
+It’s important to understand that ‘teaching’ is also a skill — a mentor needs not only to provide the information, but make sure that the information is properly understood and is actually used properly.
 
-Если же вы внимательно понаблюдаете за командой, вы точно увидите одного или нескольких человек, умеющих и любящих объяснять. Скорее всего, они и будут хорошими кандидатами в менторы.
+If a mentor just provides the information and asks ‘did you understand?’ chances are the mentee will just say what’s expected — ‘yes’.
 
-Важно понимать, что учить надо тоже уметь. Ведь нужно не только дать материал, но и проверить, насколько он усвоен. Если что-то объяснить человеку, а потом спросить: «Понял?» — велика вероятность получить социально ожидаемый ответ «да», который может означать что угодно, но никак не покажет, сколько информации усвоено.
+The easiest way to check if the person actually understood the information is to see them practice (or practice together). A session of pair programming of a task that requires certain knowledge will:
+- show how the mentee understood the information
+- correct any misunderstandings right during the process
 
-Самым простым и действенным способом проверки, что человек понял, является сначала его пересказ материала, а потом и использование полученных знаний в практической работе. Таким образом, эффективнее будет что-то объяснить, потом попросить: «Расскажи, что ты сейчас узнал», а затем — «Расскажи, как будешь сейчас делать».
+Another good approach is to ask the mentee to ‘teach back’, i.e. to explain the mentor what’s been just discussed. ‘Teaching is the best way to learn’. 
 
 Также интересным вариантом является письменная фиксация только что выданной ментором информации с последующей верификацией у ментора. Такая письменная фиксация позволяет натуральным образом собрать обучающие материалы, которые помогут в адаптации следующих новичков.
 
@@ -213,3 +215,10 @@ Those people enjoy seeing their mentees’ results and success.
 Культура менторства, нацеленного на рост и развитие сотрудников, «продаётся» труднее — руководитель сразу задаст вопрос: «Это что же, мы вкладываем деньги в людей, а они потом уйдут?!» Такому руководителю невдомёк, что, вкладывая деньги в людей, он получает больше прямо сейчас и делает уход человека ещё и менее вероятным.
 
 Показав экономическую целесообразность культуры менторства в плане адаптации, можно начинать уже и ростом/развитием персонала заниматься.
+
+
+## References:
+- https://digest.bps.org.uk/2018/05/04/learning-by-teaching-others-is-extremely-effective-a-new-study-tested-a-key-reason-why/
+- [Educational Outcomes of Tutoring: A Meta-analysis of Findings](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237)
+- [The relative benefits of learning by teaching and teaching expectancy](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209)
+- [The learning benefits of teaching: A retrieval practice hypothesis](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)
