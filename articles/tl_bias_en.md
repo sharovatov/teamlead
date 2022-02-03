@@ -32,7 +32,7 @@ The easiest way to plan developer’s leave is to show what takeaway package she
 
 The takeaway package will contain all her growth log, achievements and development participation history.
 
-More [here](firing_en.md).
+More [here](/articles/firing_en.md).
 
 ## Adding more people to the late project slows its delivery
 
