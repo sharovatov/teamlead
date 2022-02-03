@@ -144,6 +144,8 @@ There are a few really great ones:
 - [the online educator](https://www.onlinestudies.com/The-Online-Educator-People-and-Pedagogy-Course-The-Open-University/United-Kingdom/FutureLearn/) from The Open University, London
 - [pedagogical courses](https://www.lth.se/english/cee/pedagogical-courses/) from The Lund University
 
+Coursera, as usual, provides [a lot too](https://www.coursera.org/courses?query=pedagogy).
+
 ### Изменение процессов и культуры в команде
 
 Для внедрения культуры менторства нужно соблюсти некоторые условия.
