@@ -136,11 +136,13 @@ The easiest way to check if the person actually understood the information is to
 - show how the mentee understood the information
 - correct any misunderstandings right during the process
 
-Another good approach is to ask the mentee to ‘teach back’, i.e. to explain the mentor what’s been just discussed. ‘Teaching is the best way to learn’. 
+Another good approach is to ask the mentee to ‘teach back’, i.e. to explain the mentor what’s been just discussed. ‘Teaching is the best way to learn’.
 
-Также интересным вариантом является письменная фиксация только что выданной ментором информации с последующей верификацией у ментора. Такая письменная фиксация позволяет натуральным образом собрать обучающие материалы, которые помогут в адаптации следующих новичков.
+It’s also a good idea to send your mentors to pedagogical course.
 
-Вообще же стоит задуматься о базовой педагогической подготовке менторов.
+There are a few really great ones:
+- [the online educator](https://www.onlinestudies.com/The-Online-Educator-People-and-Pedagogy-Course-The-Open-University/United-Kingdom/FutureLearn/) from The Open University, London
+- [pedagogical courses](https://www.lth.se/english/cee/pedagogical-courses/) from The Lund University
 
 ### Изменение процессов и культуры в команде
 
@@ -218,7 +220,6 @@ Another good approach is to ask the mentee to ‘teach back’, i.e. to explain 
 
 
 ## References:
-- https://digest.bps.org.uk/2018/05/04/learning-by-teaching-others-is-extremely-effective-a-new-study-tested-a-key-reason-why/
 - [Educational Outcomes of Tutoring: A Meta-analysis of Findings](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237)
 - [The relative benefits of learning by teaching and teaching expectancy](https://www.sciencedirect.com/science/article/abs/pii/S0361476X13000209)
 - [The learning benefits of teaching: A retrieval practice hypothesis](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3410?campaign=wolearlyview)
