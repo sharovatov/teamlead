@@ -18,7 +18,7 @@ Now let’s see what the study shows as reasons for developers’ unhappiness.
 
 Developers are pressed for time when they have estimates, deadlines, sprints.
 
-Very rarely, there’s a rational reason to have deadlines in software development, and even more, estimations at all. I suggest you read [my article](estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
+Very rarely, there’s a rational reason to have deadlines in software development, and even more, estimations at all. I suggest you read [my article](/articles/estimations_en.md) or watch [my talk](https://www.youtube.com/watch?v=tqoJOEjeAEw) on the topic.
 
 There’s also a good book [#NoEstimates](http://noestimatesbook.com) which explains how to meet goals without imposing time pressure on the developers.
 

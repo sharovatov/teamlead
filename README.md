@@ -22,43 +22,43 @@ Pull requests and discussions are always welcome.
 
 ## Employee lifecycle: hiring, growth and development
 
-- [employee lifecycle — from searching for a job to leaving it](articles/lifecycle_en.md) (translations: [:ru: Russian](articles/lifecycle.md))
-- [what to ask a company during or before the interview](articles/company_interview_en.md) (translations: [:ru: Russian](articles/company_interview.md))
-- [наём — что с ним не так](articles/hiring.md)
-- [словарь рекрутера](articles/recruiting.md)
-- [FAQ рекрутера](articles/recruiter_FAQ.md)
-- [примитив роста и развития](articles/growth.md)
+- [employee lifecycle — from searching for a job to leaving it](/articles/lifecycle_en.md) (translations: [:ru: Russian](/articles/lifecycle.md))
+- [what to ask a company during or before the interview](/articles/company_interview_en.md) (translations: [:ru: Russian](/articles/company_interview.md))
+- [наём — что с ним не так](/articles/hiring.md)
+- [словарь рекрутера](/articles/recruiting.md)
+- [FAQ рекрутера](/articles/recruiter_FAQ.md)
+- [примитив роста и развития](/articles/growth.md)
 
 ## Work ethics and culture
 
-- [happy developers are more productive](articles/happiness.md)
-- [counter-intuitive management concepts](articles/tl_bias_en.md) (translations: [:ru: Russian](articles/tl_bias.md))
-- [rational improvements culture](articles/rational_improvement_en.md) (translations: [:ru: Russian](articles/rational_improvement.md))
-- [накопление знаний](articles/knowledge.md)
-- [менторство](articles/mentorship.md)
-- [публичность и прозрачность](articles/transparency.md)
-- [рациональность и инновации](articles/innovations.md)
-- [все ребята хороши: рост или не рост?](articles/growth-stability.md)
+- [happy developers are more productive](/articles/happiness.md)
+- [counter-intuitive management concepts](/articles/tl_bias_en.md) (translations: [:ru: Russian](/articles/tl_bias.md))
+- [rational improvements culture](/articles/rational_improvement_en.md) (translations: [:ru: Russian](/articles/rational_improvement.md))
+- [накопление знаний](/articles/knowledge.md)
+- [менторство](/articles/mentorship.md)
+- [публичность и прозрачность](/articles/transparency.md)
+- [рациональность и инновации](/articles/innovations.md)
+- [все ребята хороши: рост или не рост?](/articles/growth-stability.md)
 
 ## Process rationalisation
-- [‘code review’ review — history and effectiveness ](articles/codereview_en.md) (translations: [:ru: Russian](articles/codereview.md))
-- [Preparing developer’s firing starts on her first day](articles/firing_en.md) (translations: [:ru: Russian](articles/firing.md))
-- [Regular 1-1s aren’t as useful as people think](articles/1-1_en.md) (translations: [:ru: Russian](articles/1-1.md))
-- [Estimations aren’t rational](articles/estimations_en.md) (translations: [:ru: Russian](articles/estimations.md))
-- [правовые нюансы увольнения](articles/firing_law.md)
-- [github effect — how writing benefits me](articles/github-effect_en.md) (translations: [:ru: Russian](articles/github-effect.md))
-- [кружок качества](articles/quality_circle.md)
-- [PDR — process decision record](articles/PDR.md)
+- [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
+- [Preparing developer’s firing starts on her first day](/articles/firing_en.md) (translations: [:ru: Russian](/articles/firing.md))
+- [Regular 1-1s aren’t as useful as people think](/articles/1-1_en.md) (translations: [:ru: Russian](/articles/1-1.md))
+- [Estimations aren’t rational](/articles/estimations_en.md) (translations: [:ru: Russian](/articles/estimations.md))
+- [правовые нюансы увольнения](/articles/firing_law.md)
+- [github effect — how writing benefits me](/articles/github-effect_en.md) (translations: [:ru: Russian](/articles/github-effect.md))
+- [кружок качества](/articles/quality_circle.md)
+- [PDR — process decision record](/articles/PDR.md)
 
 ## Courses, trainings, seminars
 - [школа кадрового резерва в АМТЕХ](https://github.com/AMTECH-dev/shkar)
-- [‘Speaking club’ — public speaking training](speaking_club_en.md) (translations: [:ru: Russian](speaking_club.md))
+- [‘Speaking club’ — public speaking training](/speaking_club_en.md) (translations: [:ru: Russian](/speaking_club.md))
 
 ## Recommendations
-- [Books to read](misc/books.md)
-- [Talks to watch](misc/talks.md)
-- [Telegram channels](misc/tg-channels.md)
+- [Books to read](/misc/books.md)
+- [Talks to watch](/misc/talks.md)
+- [Telegram channels](/misc/tg-channels.md)
 
 ## Minor things
-- [.vimrc](.vimrc) — my vim config
+- [.vimrc](/.vimrc) — my vim config
 
