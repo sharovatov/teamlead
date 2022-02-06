@@ -156,6 +156,8 @@ With that in mind, mocking, joking and teasing the mentors as if they’re ‘no
 
 Second, effective teaching is only possible when people aren’t burned out. If a mentor is tired, they can’t teach, it’s almost a law of nature.
 
+Teaching takes a significant amount of ‘energy’. When organising mentorship, make sure that your managers understand that mentors will be able to work much less on features delivery.
+
 Third, it’s better not to offer bonuses or any other additional financial stimulus, the reasons for that are simple:
 - as I’ve said, mentorship is done during work time and should be encouraged as ‘work which enables the team to be better’, this is just another type of work
 - if there’s significant additional financial stimulus, there’s risk that people who naturally don’t want to teach, will become mentors just for the financial benefits.
