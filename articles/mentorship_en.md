@@ -146,15 +146,19 @@ There are a few really great ones:
 
 Coursera, as usual, provides [a lot too](https://www.coursera.org/courses?query=pedagogy).
 
-### Изменение процессов и культуры в команде
+### Changing the company culture and processes
 
-Для внедрения культуры менторства нужно соблюсти некоторые условия.
+Implementing effective mentorship process requires certain changes to the company culture.
 
-Во-первых, команда должна усвоить, что менторство не менее важно, чем написание кода, ибо культура менторства увеличивает мощность команды. Не должно быть насмешек над ментором или уничижения его роли.
+First of all, everyone needs to understand that mentorship in most cases is _more_ important than solving tactical problems — as tactical problems will keep emerging while investing in mentorship increases the team ‘problem solving power’.
 
-Во-вторых, эффективное менторство возможно лишь в процессе, где сотрудники не перегружены. Уставший педагог — никакой педагог.
+With that in mind, mocking, joking and teasing the mentors as if they’re ‘not doing real work’ should be an unimaginable thing in your company culture.
 
-В-третьих, лучше не предлагать материальных стимулов для менторов по той простой причине, что при наличии дополнительной финансовой мотивации в менторы начнут пытаться пройти люди с более ярко выраженной эгоистической центрацией личности.
+Second, effective teaching is only possible when people aren’t burned out. If a mentor is tired, they can’t teach, it’s almost a law of nature.
+
+Third, it’s better not to offer bonuses or any other additional financial stimulus, the reasons for that are simple:
+- as I’ve said, mentorship is done during work time and should be encouraged as ‘work which enables the team to be better’, this is just another type of work
+- if there’s significant additional financial stimulus, there’s risk that people who naturally don’t want to teach, will become mentors just for the financial benefits.
 
 ### Процесс обучения в компании
 
