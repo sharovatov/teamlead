@@ -181,21 +181,18 @@ I would summarise this as:
 
 The easiest way to do this — is to just sit with a person who’s already working in this role and see what they are doing on a daily basis, collect ‘typical tasks’ and record ‘typical activities’.
 
-#### Составление модели as-is
+#### Creating ‘as-is model’
 
-Модель as-is строится путём проверки сотрудника на соответствие модели to-be.
+To achieve this, we need to see how the mentee can cope with the tasks and activities gathered during the previous stage.
 
-Оптимальнее всего следующий формат проверки:
+This is best done by having the mentor sit together with the mentee and trying out performing the tasks and activities in the pair mode.
 
-- Выбирается задача или комплект задач, максимально покрывающий необходимые знания, навыки и компетенции из модели to-be.
-- Ментор в паре с сотрудником выполняет эту задачу или комплект задач.
-- Сотрудник, обнаружив свои пробелы или получив указание на них от ментора, запрашивает помощь у ментора, оба составляют карту текущего состояния, то есть модель as-is.
+The mentor records the areas where the mentee lacks most knowledge.
 
-Такой метод позволяет:
-
-- минимизировать потери — даже первая задача может быть коммерчески использована, код не выкидывается;
-- проверить уровень обучаемости сотрудника — в процессе работы уже над первыми задачами ментор замечает, насколько быстро сотрудник усваивает полученную информацию и начинает её использовать;
-- самостоятельно определить реальные пробелы в знаниях — у сотрудника нет почвы для негативных мыслей, никто его не экзаменует и не «называет дураком».
+This approach is beneficial because:
+- it minimises waste — even the first tasks that the mentor-mentee pair executes, are delivered to production;
+- there’s no ‘exam’ stress for the mentee
+- the mentor also sees how quickly the mentee is able to learn
 
 #### Анализ разницы, формирование плана развития
 
