@@ -162,14 +162,14 @@ Third, it’s better not to offer bonuses or any other additional financial stim
 - as I’ve said, mentorship is done during work time and should be encouraged as ‘work which enables the team to be better’, this is just another type of work
 - if there’s significant additional financial stimulus, there’s risk that people who naturally don’t want to teach, will become mentors just for the financial benefits.
 
-### Процесс обучения в компании
+### Start mentoring
 
-Процесс обучения в целом состоит из простых фаз:
+Teaching essentially is quite easy, the process is something like that:
 
-- составление модели to-be;
-- составление модели as-is;
-- анализ разницы, формирование плана развития;
-- следование плану.
+- creating ‘to-be model’
+- creating ‘as-is model’
+- analysing the difference and preparing the learning plan
+- guiding the mentee through the learning plan
 
 #### Составление модели to-be
 
