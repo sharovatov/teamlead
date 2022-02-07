@@ -171,21 +171,15 @@ Teaching essentially is quite easy, the process is something like that:
 - analysing the difference and preparing the learning plan
 - guiding the mentee through the learning plan
 
-#### Составление модели to-be
+#### Creating ‘to-be model’
 
-Модель to-be должна описывать целевое состояние сотрудника — знания, навыки и компетенции.
+This ‘model’ is similar to the ‘candidate profile’ model that you create when hiring someone.
 
-Начинать следует с составления именно этой модели.
+I would summarise this as:
+- tasks which the developer can do with little supervision
+- activities that the developer should perform
 
-Нужно разобраться в том, выполнение какой трудовой функции ожидается от сотрудника.
-
-Затем нужно максимально чётко описать, что должен уметь, знать и как должен себя вести сотрудник, выполняющий эту трудовую функцию.
-
-Также стоит описать ожидаемый уровень проактивности/ответственности сотрудника на каждом шаге процесса производства, в котором он участвует.
-
-Полезно, если у вас заранее есть матрица RACI (или ей подобная) — система распределения ответственности и обязанностей по процессам.
-
-Полученный список знаний, навыков и компетенций можно разбить на модули/разделы.
+The easiest way to do this — is to just sit with a person who’s already working in this role and see what they are doing on a daily basis, collect ‘typical tasks’ and record ‘typical activities’.
 
 #### Составление модели as-is
 
