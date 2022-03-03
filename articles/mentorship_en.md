@@ -194,13 +194,13 @@ This approach is beneficial because:
 - there’s no ‘exam’ stress for the mentee
 - the mentor also sees how quickly the mentee is able to learn
 
-#### Анализ разницы, формирование плана развития
+#### Preparing ‘teaching plan’
 
-Чем больше опыта накопил ментор, тем лучше он понимает, как из модели as-is доучить человека до модели to-be.
+More experienced the mentor is, better they know how to map ‘as-is’ to ‘to-be’ model.
 
-Важно не прекращать анализировать эффективность учебного процесса и методических материалов и рефлексировать на эту тему, ведь менторство — система индивидуального обучения, где эффективность каждого часа работы ментора обусловлена в первую очередь тем, насколько подходит выбранная методика конкретному обучаемому сотруднику.
+The easiest way would be to focus on tasks which were the hardest to work on (the ones that the mentee struggled most with).
 
-Если опыта у ментора пока мало или нет вовсе, выстраивать план развития стоит очень вчерне и начать скорее с пилотного процесса — проверки того, как обучаемыми усваиваются знания и приобретаются навыки. Целесообразно провести человека через обучение малыми итерациями, фиксировать весь процесс максимально подробно с целью последующего анализа.
+Teaching plan is essentially a list of things that a mentor plans to go through with the mentee. If the mentor sees that the mentee lacks a serious deal of theoretical knowledge on a certain topic, the books 
 
 #### Следование по сформированному плану
 
