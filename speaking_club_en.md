@@ -4,7 +4,7 @@
 
 People can and should be happy—both at work and at home.
 
-Scientists studied the importance of happiness at work, and I reviewed a few studies [here](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md).
+Scientists studied the importance of happiness at work, and I reviewed a few studies [here](/articles/happiness.md).
 
 The consensus is that unhappy developers are much less productive.
 
