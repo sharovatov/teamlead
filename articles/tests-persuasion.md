@@ -39,11 +39,15 @@ I’d be happy if you just provided the manager with the rational arguments and 
 
 However, even in this act of providing the rational arguments there might be some points to be noted:
 
+#### Tone of voice
+
 Your tone of voice and the way how you present the arguments: ‘negative instead of positive’. Managers are human beings too, and if your proposal sounds like ‘our code is all shit’, the manager will almost inevitably consider this (irrationally of course) as an attack to something valuable the whole team produced.
 
 If your aim is to introduce autotest and not to bully your manager or fellow developers, do yourself a favour — sound positive, frame the proposal as smth like ‘see the positive changes we can have if we introduce autotests’.
 
 If your manager approved autotests at this stage, that’s great.
+
+### Cost of implementation
 
 If they don’t then maybe your suggestion seems too costly, let’s say you suggested to stop the software delivery until all code is covered or you just said that total coverage would take a year.
 
