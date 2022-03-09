@@ -59,11 +59,13 @@ This way we would give the manager something to brag about in their performance 
 
 #### Manager ‘knows better’
 
-In most companies I worked with managers were promoted from developers, usually good (if not the best) ones. Sometimes it’s not obvious that it’s the team result that the manager is responsible for, and the team is comprised of people of different mindsets, experience and abilities.
+In most companies I worked with managers were promoted from developers, usually good (if not the best) ones. Best of them had such an experience that they could hold the whole program in their head and quickly spot issues, and they assume that everyone is to be the same.
 
-Psychology calls the effect when the manager expects everyone to have the same knowledge — [Fase consensus bias](https://en.wikipedia.org/wiki/False_consensus_effect).
+Psychology calls this effect — [False consensus bias](https://www.sciencedirect.com/science/article/abs/pii/002210317790049X).
 
-It’s important to let the manager see how this behaviour might negatively impact the team performance (hence, their results) and formulate the autotests proposal as a measure which would lower the risk of human error in the team.
+The manager needs to understand that it’s the team result that they are is responsible for, and the team is comprised of people of different mindsets, experience and abilities.
+
+Try gently showing the manager how this behaviour might negatively impact the team performance (hence, their results), formulate your autotests proposal as a helping hand for the manager, as a measure which would lower the risk of human error in the team.
 
 #### Lack of trust
 
@@ -76,8 +78,6 @@ This one is similar to the next reason (the manager’s
 
 - small steps
 - give your manager something to brag about
-- don’t offer big refactorings
-- don’t offer a threat, offer a game with results a manager can brag about
 
 
 alternative way - do it quietly
