@@ -45,9 +45,9 @@ Your tone of voice and the way how you present the arguments: ‘negative instea
 
 If your aim is to introduce autotest and not to bully your manager or fellow developers, do yourself a favour — sound positive, frame the proposal as smth like ‘see the positive changes we can have if we introduce autotests’.
 
-If your manager approved autotests at this stage, that’s great.
-
 #### Cost of implementation and fear
+
+If your manager approved autotests at the previous stage, that’s great.
 
 If they don’t then maybe your suggestion seems too costly, let’s say you suggested to stop the software delivery until all code is covered or you just said that total coverage would take a year.
 
@@ -56,6 +56,8 @@ Once again, managers are mere humans: they might fear they get fired or don’t 
 We are not CTOs or the upper management so we can’t remove the fears, but we can adopt our approach by reducing the scope: let’s say, propose covering only bugs and then showing the positive impact — reduced amount of regressions.
 
 This way we would give the manager something to brag about in their performance review and a tangible difference to back the autotests up in front of upper management.
+
+#### Manager ‘knows better’
 
 
 
