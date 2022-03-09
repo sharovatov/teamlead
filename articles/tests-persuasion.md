@@ -47,7 +47,7 @@ If your aim is to introduce autotest and not to bully your manager or fellow dev
 
 If your manager approved autotests at this stage, that’s great.
 
-### Cost of implementation
+#### Cost of implementation and fear
 
 If they don’t then maybe your suggestion seems too costly, let’s say you suggested to stop the software delivery until all code is covered or you just said that total coverage would take a year.
 
