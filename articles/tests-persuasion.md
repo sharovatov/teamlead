@@ -59,7 +59,7 @@ This way we would give the manager something to brag about in their performance 
 
 #### Manager ‘knows better’
 
-In most companies I worked with managers were promoted from developers, usually good (if not the best) ones. Best of them had such an experience that they could hold the whole program in their head and quickly spot issues, and they assume that everyone is to be the same.
+In most companies I worked with managers were promoted from developers, usually good (if not the best) ones. Best of them had such an experience that they could hold the whole program in their head and quickly spot (or easily avoid) issues, and they assume that everyone is to be the same.
 
 Psychology calls this effect — [False consensus bias](https://www.sciencedirect.com/science/article/abs/pii/002210317790049X).
 
@@ -69,12 +69,17 @@ Try gently showing the manager how this behaviour might negatively impact the te
 
 #### Lack of trust
 
-- lack of trust to the team
-- 
+Any change yields stress, and people intuitively know it. We humans would rather have things as they are, but the world changes so quickly that we are forced to adapt. And in this everchaning world we face so many changes that it’s mentally easier to discard new proposals and stick to good old known practices. At least we know for sure that they ‘work’.
 
-- manager has lack of trust to the team
+So imagine a manager seeing a new proposal they have to deal with (apply, defend, teach others) — this manager has to carefully think if the change will succeed and last, or at least the person proposing the change won’t leave the company soon.
 
-This one is similar to the next reason (the manager’s 
+This boils down to trust: ask yourself — does your manager trust you and the team to actually deliver and support the change?
+
+How does trust build? It builds by people delivering what’s promised.
+
+What can we do here? Start with yourself — prove you’re trustworthy.
+
+I want to note here that we are not obliged to go this extra mile of course, but if our goal is (as discussed) to introduce autotests, we need to consider psychological issues that might stop us from succeeding.
 
 - small steps
 - give your manager something to brag about
