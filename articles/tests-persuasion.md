@@ -59,13 +59,17 @@ This way we would give the manager something to brag about in their performance 
 
 #### Manager ‘knows better’
 
+In most companies I worked with managers were promoted from developers, usually good (if not the best) ones. Sometimes it’s not obvious that it’s the team result that the manager is responsible for, and the team is comprised of people of different mindsets, experience and abilities.
 
+Psychology calls the effect when the manager expects everyone to have the same knowledge — [Fase consensus bias](https://en.wikipedia.org/wiki/False_consensus_effect).
 
+It’s important to let the manager see how this behaviour might negatively impact the team performance (hence, their results) and formulate the autotests proposal as a measure which would lower the risk of human error in the team.
 
-The kkk
+#### Lack of trust
 
-Imagine what a kkk
-- manager’s has to report on changes to the upper management and they are ready to defend the change
+- lack of trust to the team
+- 
+
 - manager has lack of trust to the team
 
 This one is similar to the next reason (the manager’s 
