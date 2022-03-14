@@ -83,9 +83,20 @@ I want to note here that we are not obliged to go this extra mile of course, but
 
 #### The manager of ‘manual QA’ department is afraid not to grow
 
-In some companies there is a separate ‘manual QA’ department where the manager wants to retain or increase the headcount. This might mean that that manager will push back any initiatives they might consider ‘dangerous’.
+In some companies there is a separate ‘manual QA’ department where usually the manager ‘growth’ is bound to some KPIs or the number of their subordinates.
 
-And automated test certainly look intimidating — I can easily imagine a manager thinking that automated 
+The career ladder sometimes looks like this: the manager starts as a QA lead, ‘grows’ his team from 5 to 10 QA engineers, then hires 5 more hence becoming a Head of QA department with 2 QA team leaders reporting to him.
+
+In this organisational structure automated tests might certainly look intimidating to this manger — almost a threat to their career growth.
+
+Can we do anything here?
+
+The only advice I can think of is: show the manager the obvious benefits they can get from autotests:
+
+1. there is a plenty of ‘manual QA’ engineers who consider their career growth to automated testing. If the manager supports this, chances are that the engineer will stay longer and provide more value
+2. with autotests implemented and the coverage raised to a significant level, ‘manual QA’ engineers are freed from constant routine repeated tasks of regression testing and therefore can spend more time on exploratory testing
+
+Both mean that the headcount will stay the same (or grow), so the autotest shouldn’t be a threat to the manager’s career growth, and with better quality that autotests combined with better manual QA, the manager will be able to showcase their better results to the upper management.
 
 advise here: show the benefits
 - QA can sit closer to developers -> time to market decrease
