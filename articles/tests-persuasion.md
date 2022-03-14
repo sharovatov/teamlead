@@ -23,7 +23,7 @@ I witnessed the following reasons for this seemingly irrational behavior:
 1. The manager doesn't see the rationality (i.e. the value) in autotests
 2. The manager once was a very smart programmer, most likely an individual contributor. They either really managed to keep the whole program AST and context in their head, or, more likely, thought they kept it.
 3. The manager has "number of features" as a KPI and they push the team to deliver as much as possible as soon as possible with little concern for quality (job security)
-4. The organisation is structured so that there's a separate QA department and the manager there gets promoted when the headcount grows
+4. The organisation is structured so that there's a separate ‘manual QA’ department and the manager there gets promoted when the headcount grows
 5. The company is focused on preparing for selling and everyone wants to deliver as much as possible as soon as possible
 6. The manager's individual motivation is "CV-driven": they aren't planning to stay long in the company but rather achive some quick (1-2 years) results and leave
 
@@ -80,6 +80,21 @@ How does trust build? It builds by people delivering what’s promised.
 What can we do here? Start with yourself — prove you’re trustworthy.
 
 I want to note here that we are not obliged to go this extra mile of course, but if our goal is (as discussed) to introduce autotests, we need to consider psychological issues that might stop us from succeeding.
+
+#### The manager of ‘manual QA’ department is afraid not to grow
+
+In some companies there is a separate ‘manual QA’ department where the manager wants to retain or increase the headcount. This might mean that that manager will push back any initiatives they might consider ‘dangerous’.
+
+And automated test certainly look intimidating — I can easily imagine a manager thinking that automated 
+
+advise here: show the benefits
+- QA can sit closer to developers -> time to market decrease
+- QA can grow to autotesters
+- QA can do more exploratory testing
+^ benefits for his team and his headcount
+
+
+
 
 - small steps
 - give your manager something to brag about
