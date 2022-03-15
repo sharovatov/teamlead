@@ -2,9 +2,9 @@
 
 It's a widely accepted consensus that automatic tests (and TDD) benefit software development process in the following ways:
 
-- saves time (reduce time to market) [link](https://www.techwell.com/sites/default/files/articles/XDD6027filelistfilename1_0.pdf)
-- improve quality and reduce total cost of ownership [link](https://martinfowler.com/articles/is-quality-worth-cost.html)
-- improve team morale (mundane repetitive tasks are among the sources of developers’ unhappiness)[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)
+- saves time (reduce time to market) [[link](https://www.techwell.com/sites/default/files/articles/XDD6027filelistfilename1_0.pdf)]
+- improve quality and reduce total cost of ownership [[link](https://martinfowler.com/articles/is-quality-worth-cost.html)]
+- improve team morale (mundane repetitive tasks are among the sources of developers’ unhappiness) [[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)]
 - reduce onboarding costs (developers have less fear of changing and breaking things) 
 
 Knowing all this, why do some managers still don't "allow" or discourage writing automated tests? You all have seen this I think: ‘we don’t have time for tests’ or ‘let’s ship this first, then next Q we’ll devote time for tests’ or ‘the estimate with tests is too big, let’s skip the tests’.
