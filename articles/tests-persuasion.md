@@ -2,11 +2,10 @@
 
 It's a widely accepted consensus that automatic tests (and TDD) benefit software development process in the following ways:
 
-- saves time (reduce time to market) [link]()
-- improve quality [link]()
-- reduce stress [link]()
-- reduce onboarding costs [link]()
-- reduce total cost of ownership [link]()
+- saves time (reduce time to market) [link](https://www.techwell.com/sites/default/files/articles/XDD6027filelistfilename1_0.pdf)
+- improve quality and reduce total cost of ownership [link](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- improve team morale (mundane repetitive tasks are among the sources of developers’ unhappiness)[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)
+- reduce onboarding costs (developers have less fear of changing and breaking things) 
 
 Knowing all this, why do some managers still don't "allow" or discourage writing automated tests? You all have seen this I think: ‘we don’t have time for tests’ or ‘let’s ship this first, then next Q we’ll devote time for tests’ or ‘the estimate with tests is too big, let’s skip the tests’.
 
@@ -97,6 +96,8 @@ The only advice I can think of is: show the manager the obvious benefits they ca
 2. with autotests implemented and the coverage raised to a significant level, ‘manual QA’ engineers are freed from constant routine repeated tasks of regression testing and therefore can spend more time on exploratory testing
 
 Both mean that the headcount will stay the same (or grow), so the autotest shouldn’t be a threat to the manager’s career growth, and with better quality that autotests combined with better manual QA, the manager will be able to showcase their better results to the upper management.
+
+This — showcasing the results to the upper management — might be very important 
 
 advise here: show the benefits
 - QA can sit closer to developers -> time to market decrease
