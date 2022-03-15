@@ -93,19 +93,11 @@ Can we do anything here?
 The only advice I can think of is: show the manager the obvious benefits they can get from autotests:
 
 1. there is a plenty of ‘manual QA’ engineers who consider their career growth to automated testing. If the manager supports this, chances are that the engineer will stay longer and provide more value
-2. with autotests implemented and the coverage raised to a significant level, ‘manual QA’ engineers are freed from constant routine repeated tasks of regression testing and therefore can spend more time on exploratory testing
+2. with autotests implemented and the coverage raised to a significant level, ‘manual QA’ engineers are freed from constant routine repeated tasks of regression testing and therefore can spend more time on exploratory testing (which might be more beneficial to the overall quality).
 
-Both mean that the headcount will stay the same (or grow), so the autotest shouldn’t be a threat to the manager’s career growth, and with better quality that autotests combined with better manual QA, the manager will be able to showcase their better results to the upper management.
+Every manager needs to showcase their results to the upper management. If the increased quality can be such a case and manual QA engineers start to have a clear career path to automating tests, this means that this manager becomes more ‘attractive’ to both management and potential employees.
 
-This — showcasing the results to the upper management — might be very important 
-
-advise here: show the benefits
-- QA can sit closer to developers -> time to market decrease
-- QA can grow to autotesters
-- QA can do more exploratory testing
-^ benefits for his team and his headcount
-
-
+Assuring better quality and hiring better QA engineers might help the manager deal with their upper management.
 
 
 - small steps
