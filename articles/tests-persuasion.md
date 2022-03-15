@@ -3,9 +3,9 @@
 It's a widely accepted consensus that automatic tests (and TDD) benefit software development process in the following ways:
 
 - saves time (reduce time to market) [[link](https://www.techwell.com/sites/default/files/articles/XDD6027filelistfilename1_0.pdf)]
-- improve quality and reduce total cost of ownership [[link](https://martinfowler.com/articles/is-quality-worth-cost.html)]
-- improve team morale (mundane repetitive tasks are among the sources of developers’ unhappiness) [[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)]
-- reduce onboarding costs (developers have less fear of changing and breaking things) 
+- improves quality and reduce total cost of ownership [[link](https://martinfowler.com/articles/is-quality-worth-cost.html)]
+- improves team morale (mundane repetitive tasks are among the sources of developers’ unhappiness) [[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)]
+- reduces onboarding costs (developers have less fear of changing and breaking things) 
 
 Knowing all this, why do some managers still don't "allow" or discourage writing automated tests? You all have seen this I think: ‘we don’t have time for tests’ or ‘let’s ship this first, then next Q we’ll devote time for tests’ or ‘the estimate with tests is too big, let’s skip the tests’.
 
@@ -15,7 +15,7 @@ There’s a great [set of episodes of You Are Not So Smart podcast](https://youa
 
 Being aware of this bias means that our rhetoric should change from ‘here are the facts, now we write autotests’ to something else.
 
-In order to address , we need to understand what ‘belief’ the manager has, what ‘influences’ their decision to avoid using tests.
+In order to address this, we need to understand what ‘belief’ the manager has, what ‘influences’ their decision to avoid using tests.
 
 I witnessed the following reasons for this seemingly irrational behavior:
 
@@ -42,7 +42,7 @@ However, even in this act of providing the rational arguments there might be som
 
 Your tone of voice and the way how you present the arguments: ‘negative instead of positive’. Managers are human beings too, and if your proposal sounds like ‘our code is all shit’, the manager will almost inevitably consider this (irrationally of course) as an attack to something valuable the whole team produced.
 
-If your aim is to introduce autotest and not to bully your manager or fellow developers, do yourself a favour — sound positive, frame the proposal as smth like ‘see the positive changes we can have if we introduce autotests’.
+If your aim is to introduce autotest and not to bully your manager or fellow developers, do yourself a favour — sound positive, frame the proposal as smth like ‘see the positive changes we can have if we introduce autotests’, and add some examples.
 
 #### Cost of implementation and fear
 
@@ -62,9 +62,11 @@ In most companies I worked with managers were promoted from developers, usually 
 
 Psychology calls this effect — [False consensus bias](https://www.sciencedirect.com/science/article/abs/pii/002210317790049X).
 
-The manager needs to understand that it’s the team result that they are is responsible for, and the team is comprised of people of different mindsets, experience and abilities.
+The manager needs to understand that it’s the team result that they are responsible for, and the team is comprised of people of different mindsets, experience and abilities.
 
 Try gently showing the manager how this behaviour might negatively impact the team performance (hence, their results), formulate your autotests proposal as a helping hand for the manager, as a measure which would lower the risk of human error in the team.
+
+One of the ways I found working was to show the manager _your_ vulnerability: show them how it was hard and stressful for you being not able to cope with the program, and how autotests helped _you_.
 
 #### Lack of trust
 
