@@ -97,12 +97,9 @@ The only advice I can think of is: show the manager the obvious benefits they ca
 
 Every manager needs to showcase their results to the upper management. If the increased quality can be such a case and manual QA engineers start to have a clear career path to automating tests, this means that this manager becomes more ‘attractive’ to both management and potential employees.
 
-Assuring better quality and hiring better QA engineers might help the manager deal with their upper management.
+Assuring better quality and hiring better QA engineers might help the manager deal with their upper management and show real effect on the product instead of just growing the headcount.
 
+---
+Some of the reasons why manager don’t want to support automated testing are very contextual and therefore are not possible to give general advice for.
 
-- small steps
-- give your manager something to brag about
-
-
-alternative way - do it quietly
-
+But the main idea I tried to explain is — if your goal is to improve quality, maybe it’s better to step into manager’s shoes and see their prospective to be able to help them agree with you want.
