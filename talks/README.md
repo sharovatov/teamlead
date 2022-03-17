@@ -1,4 +1,19 @@
 # Talks and lectures
 
-- 16 March 2022 [Metrics and KPIs](metrics.md)
-- 8 December 2021 [Deadlines and Estimations](estimations.md)
+## 16 March 2022: Metrics and KPIs — bad and ugly
+
+Talk given at codementor.io on 16th March 2022.
+
+- [Event page](https://www.codementor.io/events/metrics-and-kpis-dssvbhycfh)
+- [Slides](metrics-2022-03-17.key)
+- Video:
+
+[![Metrics and KPIs](https://img.youtube.com/vi/YB-SJhk1j4E/0.jpg)](https://www.youtube.com/watch?v=YB-SJhk1j4E&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY)
+
+## 8 December 2022: Deadlines and Estimations
+
+- [Event page](https://www.codementor.io/events/deadlines-and-estimations-dc87b33d2t)
+- [Slides](estimations_en.key)
+- Video:
+
+[![Deadlines and estimations](https://img.youtube.com/vi/tqoJOEjeAEw/0.jpg)](https://www.youtube.com/watch?v=tqoJOEjeAEw&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY&index=2)
