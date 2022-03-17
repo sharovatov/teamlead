@@ -10,7 +10,7 @@ Talk given at codementor.io on 16th March 2022.
 
 [![Metrics and KPIs](https://img.youtube.com/vi/YB-SJhk1j4E/0.jpg)](https://www.youtube.com/watch?v=YB-SJhk1j4E&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY)
 
-## 8 December 2022: Deadlines and Estimations
+## Deadlines and Estimations
 
 Talk given at codementor.io on 8th December 2021.
 
@@ -25,4 +25,5 @@ Talk given at codementor.io on 8th December 2021.
 Talk given at Wrike TechClub on 12th November 2021.
 
 - Video:
+
 [![Rationalisation culture in IT](https://img.youtube.com/vi/CDFXL4fMdik/0.jpg)](https://www.youtube.com/watch?v=CDFXL4fMdik&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY&index=4)
