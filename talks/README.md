@@ -1,5 +1,9 @@
 # Talks and lectures
 
+All talks can be found in [this Youtube playlist](https://www.youtube.com/playlist?list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY).
+
+Some talks in English I list below:
+
 ## Metrics and KPIs — bad and ugly
 
 Talk given at codementor.io on 16th March 2022.
@@ -27,3 +31,5 @@ Talk given at Wrike TechClub on 12th November 2021.
 - Video:
 
 [![Rationalisation culture in IT](https://img.youtube.com/vi/CDFXL4fMdik/0.jpg)](https://www.youtube.com/watch?v=CDFXL4fMdik&list=PLFtS8Ah0wZvWS37oveJ0-D5K6V7GWUpqY&index=4)
+
+
