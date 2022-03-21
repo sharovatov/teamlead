@@ -1,4 +1,4 @@
-# Книги, которые должен прочитать каждый тимлид
+# Books every manager must read
 
 ## General list
 - Taylor: https://www.amazon.com/Principles-Scientific-Management-Frederick-Taylor/dp/1897363893
