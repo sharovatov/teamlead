@@ -44,6 +44,8 @@ Your tone of voice and how you present the arguments: ‘negative instead of pos
 
 If you aim to introduce autotest and not to bully your manager or fellow developers, do yourself a favour — sound positive, frame the proposal as smth like ‘see the positive changes we can have if we introduce autotests’, and add some examples.
 
+One of the ways to sound more positive is called ‘[feedback sandwitch](https://fellow.app/blog/feedback/the-feedback-sandwich-should-you-use-it-pros-and-cons/#define)’. Usually it’s used by the managers to provide feedback to the staff, but the psychological effect is universal: we first say ‘good’ things, then ‘things to improve’ and then ‘good things’ again.
+
 #### Cost of implementation and fear
 
 If your manager approved autotests at the previous stage, that’s great.
