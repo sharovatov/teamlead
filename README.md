@@ -45,6 +45,7 @@ Pull requests and discussions are always welcome.
 - [Preparing developer’s firing starts on her first day](/articles/firing_en.md) (translations: [:ru: Russian](/articles/firing.md))
 - [Regular 1-1s aren’t as useful as people think](/articles/1-1_en.md) (translations: [:ru: Russian](/articles/1-1.md))
 - [Estimations aren’t rational](/articles/estimations_en.md) (translations: [:ru: Russian](/articles/estimations.md))
+- [How to grow your manager to support autotests](/articles/tests-persuasion.md)
 - [правовые нюансы увольнения](/articles/firing_law.md)
 - [github effect — how writing benefits me](/articles/github-effect_en.md) (translations: [:ru: Russian](/articles/github-effect.md))
 - [кружок качества](/articles/quality_circle.md)
