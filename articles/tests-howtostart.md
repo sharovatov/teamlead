@@ -67,10 +67,6 @@ As you can see, the obvious choice here would be to start automating ‘authoris
 
 Simple calculation will allow you to show your manager direct economical benefits of automating manual testing.
 
-Check the time in Jira
-Check the time in Qase
-
-
 ## How to start
 
 approaches:
