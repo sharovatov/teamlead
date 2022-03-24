@@ -29,6 +29,27 @@ TTM comprises of the time taken to pass all the steps required to develop and de
 
 Manual QA stage usually takes significant time: a feature awaits for the QA team to pick it for testing, then testing itself is done.
 
+Also manual QA stage implies huge delays in case when the feature is returned to development due to defects.
+
+The reason for the delay is that when the feature is passed to QA, the developer usually picks a new feature to work on, and when the tested feature is passed back to development, it has to wait again.
+
+If the developer picks the returned feature straight away, context switch costs apply.
+
+I’ve once written an article on [code review limits to applicability](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases):
+
+> This means that «blocking» CR introduces one more reason for developers to switch their context.
+>
+> There are multiple publications on how multitasking and switching contexts are ineffective:
+>
+> - [The myth of multitasking, Nass, 2013](https://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking)
+> - [Multitasking: Switching costs (american psychological association)](https://www.apa.org/research/action/multitask)
+> - [Executive Control of Cognitive Processes in Task Switching — Joshua S. Rubinstein, David E. Meyer, Jeffrey E. Evans](https://www.apa.org/pubs/journals/releases/xhp274763.pdf)
+> - [Reconfiguration of task-set: is it easier to switch to the weaker task?](https://pubmed.ncbi.nlm.nih.gov/11004879/)
+> - [Executive Control of Cognitive Processes in Task Switching](https://www.apa.org/pubs/journals/releases/xhp274763.pdf)
+>
+> There’s good scientific evidence that work on one single task at a time with as few context switches as possible.
+
+
 Autotests remove ‘awaiting’ stage altogether and decrease ‘testing’ stage time to the minimum.
 
 
