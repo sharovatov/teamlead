@@ -21,7 +21,7 @@ It’s also impossible to measure team morale with numbers, so this route is use
 
 What we can actually show is only two measurable things: onboarding cost (time) and time to market.
 
-However, onboarding costs will reduce noticeably only after some time.
+However, onboarding costs will reduce noticeably only after some time while we want to show immediate results.
 
 So we are left with showing how time to market is reduced.
 
@@ -31,7 +31,6 @@ Manual QA stage usually takes significant time: a feature awaits for the QA team
 
 Autotests remove ‘awaiting’ stage altogether and decrease ‘testing’ stage time to the minimum.
 
-This time reduction you should report to the manager.
 
 ## What to start with
 
