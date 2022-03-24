@@ -1,4 +1,4 @@
-# How do I grow my manager to support autotests?
+# How do I persuade my manager to support autotests?
 
 It's a widely accepted consensus that automatic tests (and TDD) benefit the software development process in the following ways:
 
