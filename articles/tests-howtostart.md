@@ -17,11 +17,13 @@ Let’s see what we can do with numbers:
 
 There’s a consensus in the software development area that [measuring quality is a bad idea](https://www.satisfice.com/blog/archives/487091), so I wouldn’t recommend trying to go that route.
 
----
+It’s also impossible to measure team morale with numbers, so this route is useless too.
 
+What we can actually show is only two measurable things: onboarding cost (time) and time to market.
 
+However, onboarding costs will reduce noticeably only after some time.
 
-The easiest way to show the visible outcome to the managers is to show reduced TTM (Time to market) and reduced TCO (total cost of ownership).
+So we are left with showing how time to market is reduced.
 
 TTM comprises of the time taken to pass all the steps required to develop and deliver certain functionality to the client.
 
