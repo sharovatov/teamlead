@@ -19,11 +19,11 @@ There’s a consensus in the software development area that [**measuring quality
 
 It’s also impossible to measure **team morale** with numbers, so this route is useless too.
 
-What we can actually show is only two measurable things: onboarding cost (time) and time to market.
+What we can actually show is only two measurable things: **onboarding cost** (time) and **time to market**.
 
 However, onboarding costs will reduce noticeably only after some time while we want to show immediate results.
 
-So we are left with showing how time to market is reduced.
+So we are left with showing how **time to market** is reduced.
 
 TTM comprises of the time taken to pass all the steps required to develop and deliver certain functionality to the client.
 
