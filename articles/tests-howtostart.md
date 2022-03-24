@@ -61,7 +61,7 @@ Pretty much every task tracker can show you the time a task spends in ‘testing
 
 Here’s what I have in my [Qase](https://qase.io) TMS:
 
-![testing time screenshot](testing_time.PNG)
+![testing time screenshot](https://github.com/sharovatov/teamlead/blob/master/articles/testing-time.PNG?raw=true)
 
 As you can see, the obvious choice here would be to start automating ‘authorisation’ first as it takes 9 minute to be tested manually every release.
 
