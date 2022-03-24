@@ -46,6 +46,8 @@ If a person leaves,
 
 ## Metrics and targets hurt performance
 
+Draft [here](metrics.md).
+
 ## Diversity over standards
 
 Diversity provides wider pool of options to choose from.
