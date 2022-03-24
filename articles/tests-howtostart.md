@@ -5,7 +5,7 @@ Once as you’ve [persuaded your manager](tests-persuasion.md) to support automa
 Quoting my previous article on the topic:
 
 > It's a widely accepted consensus that automatic tests (and TDD) benefit the software development process in the following ways:
-
+>
 > - saves time (reduces time to market) [[link](https://www.techwell.com/sites/default/files/articles/XDD6027filelistfilename1_0.pdf)]
 > - improves quality and lowers total cost of ownership [[link](https://martinfowler.com/articles/is-quality-worth-cost.html)]
 > - improves team morale (mundane, repetitive tasks are among the sources of developers’ unhappiness) [[link](https://github.com/sharovatov/teamlead/blob/master/articles/happiness.md)]
@@ -15,9 +15,9 @@ As you are the person introducing the autotests, you will most likely have to at
 
 Let’s see what we can do with numbers:
 
-There’s a consensus in the software development area that [measuring quality is a bad idea](https://www.satisfice.com/blog/archives/487091), so I wouldn’t recommend trying to go that route.
+There’s a consensus in the software development area that [**measuring quality** is a bad idea](https://www.satisfice.com/blog/archives/487091), so I wouldn’t recommend trying to go that route.
 
-It’s also impossible to measure team morale with numbers, so this route is useless too.
+It’s also impossible to measure **team morale** with numbers, so this route is useless too.
 
 What we can actually show is only two measurable things: onboarding cost (time) and time to market.
 
