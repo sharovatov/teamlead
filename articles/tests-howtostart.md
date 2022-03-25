@@ -82,7 +82,7 @@ But I’ve rarely seen managers knowing of this, hence this whole approach of sh
 So, to summarise:
 - you persuaded your manager to support autotests
 - you constantly show them immediate results
-- you gain trust to develop proper testing strategy
+- you gain trust to be able (and have resources) to develop proper testing strategy
 - you start doing what’s right
 
 To proceed with the proper testing strategy, first check Fowler’s [document](https://martinfowler.com/articles/practical-test-pyramid.html).
