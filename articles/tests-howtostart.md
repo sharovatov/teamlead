@@ -71,9 +71,13 @@ These 9 minutes yield **8 hours a year** spent on manual testing of this particu
 
 As soon as we automate this check, we can show our manager that TTM is reduced for 9 minutes for each task. This will inevitably gain us more trust.
 
+More trust you have, more you can do what you know is right, potentially something which cannot be ‘measured’ or is quantifiable.
+
+[Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) calls ‘managing only what’s quantifiable’ one of the [7 deadly diseases of management](https://deming.org/explore/seven-deadly-diseases/):
+
+> 5. Management by use only of visible figures, with little or no consideration of figures that are unknown or unknowable.
 
 
-- потом начинаем добавлять unit-test и прочее (см. статью фаулера)
 
 Go read Fowler’s [page on testing strategy first](https://martinfowler.com/articles/practical-test-pyramid.html)
 
