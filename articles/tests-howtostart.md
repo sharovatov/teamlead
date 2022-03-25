@@ -2,7 +2,7 @@
 
 This article is not about the technical details on how exactly to write autotest, but rather about the approach one could take to make sure that autotests initiative is not rejected.
 
-Once as you’ve [persuaded your manager](tests-persuasion.md) to support automated testing, you need to plan it right.
+Once you’ve [persuaded your manager](tests-persuasion.md) to support automated testing, you need to plan it right.
 
 Quoting my previous article on the topic:
 
@@ -37,7 +37,7 @@ The reason for the delay is that when the feature is passed to QA, the developer
 
 If the developer picks the returned feature straight away, context switch costs apply.
 
-I’ve mentioned studies on context switching costs in my [code review limits to applicability](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases):
+I’ve mentioned studies on context switching costs in my [code review limits to applicability](https://hackernoon.com/code-review-its-bad-expensive-and-ineffective-in-most-cases) article:
 
 > There are multiple publications on how multitasking and switching contexts are ineffective:
 >
@@ -55,7 +55,9 @@ This proves that manual QA phase should be reduced as:
 
 ## Where to start
 
-We need to start somewhere and as we want to show immediate ‘savings’ to our manager, we should pick tasks which have significant testing time.
+As we want to show our manager some immediate benefits, obvious idea would be to start with automatic something that would show immediate results.
+
+I’d advise to start automatic tasks which have significant ‘manual testing’ time.
 
 Pretty much every task tracker can show you the time a task spends in ‘testing’ phase, and if you use a test management system, you can get even more information.
 
@@ -64,8 +66,6 @@ Here’s what I have in my [Qase](https://qase.io) TMS:
 ![testing time screenshot](https://github.com/sharovatov/teamlead/blob/master/articles/testing-time.PNG?raw=true)
 
 As you can see, the obvious choice here would be to start automating ‘authorisation’ first as it takes 9 minute to be tested manually every release.
-
-Simple calculation will allow you to show your manager direct economical benefits of automating manual testing.
 
 ## How to start
 
