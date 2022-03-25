@@ -49,7 +49,7 @@ I’ve mentioned studies on context switching costs in my [code review limits to
 >
 > There’s good scientific evidence that it’s more effective to work on one single task at a time with as few context switches as possible.
 
-This proves that manual QA phase should be reduced as:
+This proves that in order to reduce time to market (and show immediate results in this initiative),  manual QA phase should be reduced as:
 - automatic tests run as soon as the developer runs them (0 waiting time)
 - automatic tests run quickly (much lower testing time) and therefore provide almost instant feedback meaning that there will be no context switching cost.
 
