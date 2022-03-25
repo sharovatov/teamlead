@@ -77,8 +77,14 @@ More trust you have, more you can do what **you know is right**, potentially som
 
 > 5. Management by use only of visible figures, with little or no consideration of figures that are unknown or unknowable.
 
+But I’ve rarely seen managers knowing of this, hence this whole approach of showing results and gaining trust to do something what’s truly right.
 
+So, to summarise:
+- you persuaded your manager to support autotests
+- you constantly show them immediate results
+- you gain trust to develop proper testing strategy
+- you start doing what’s right
 
-Go read Fowler’s [page on testing strategy first](https://martinfowler.com/articles/practical-test-pyramid.html)
+To proceed with the proper testing strategy, first check Fowler’s [document](https://martinfowler.com/articles/practical-test-pyramid.html).
 
 
