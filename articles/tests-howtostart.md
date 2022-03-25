@@ -55,9 +55,9 @@ This proves that in order to reduce time to market (and show immediate results i
 
 ## Where to start
 
-As we want to show our manager some immediate benefits, obvious idea would be to start with automatic something that would show immediate results.
+As we want to show our manager some immediate benefits, obvious idea would be to start with automating something that would show immediate results.
 
-I’d advise to start automatic tasks which have significant ‘manual testing’ time.
+I’d advise to start automating tasks which have significant ‘manual testing’ time.
 
 Pretty much every task tracker can show you the time a task spends in ‘testing’ phase, and if you use a test management system, you can get even more information.
 
@@ -66,6 +66,17 @@ Here’s what I have in my [Qase](https://qase.io) TMS:
 ![testing time screenshot](https://github.com/sharovatov/teamlead/blob/master/articles/testing-time.PNG?raw=true)
 
 As you can see, the obvious choice here would be to start automating ‘authorisation’ first as it takes 9 minute to be tested manually every release.
+
+These 9 minutes yield 8 hours per year spent on manual testing if we have 1 release per week.
+
+I think pretty much any manager would agree to devote a working day (or two) to have this saving in TTM.
+
+
+
+- вначале показываем immediate results in saving TTM и гейним трастkk
+- потом начинаем добавлять unit-test и прочее (см. статью фаулера)
+
+
 
 ## How to start
 
