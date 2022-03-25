@@ -2,7 +2,9 @@
 
 This article is not about the technical details on how exactly to write autotest, but rather about the approach one could take to make sure that autotests initiative is not rejected.
 
-Once you’ve [persuaded your manager](tests-persuasion.md) to support automated testing, you need to plan it right.
+Once you’ve [persuaded your manager](tests-persuasion.md) to support automated testing, you need to plan it right — the acceptance of the initiative doesn’t guarantee unlimited probation time.
+
+Remember, step into manager’s shoes: once having yielded to someone’s plan, you still nurture your doubts and hesitations. Provided there are no obvious (and most often measurable) results, those hesitations and doubts will cherish.
 
 Quoting my previous article on the topic:
 
