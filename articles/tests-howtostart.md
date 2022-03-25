@@ -69,20 +69,11 @@ As you can see, the obvious choice here would be to start automating ‘authoris
 
 These 9 minutes yield **8 hours a year** spent on manual testing of this particular feature if we have 1 release per week.
 
+As soon as we automate this check, we can show our manager that TTM is reduced for 9 minutes for each task. This will inevitably gain us more trust.
 
 
 
-- вначале показываем immediate results in saving TTM и гейним трастkk
 - потом начинаем добавлять unit-test и прочее (см. статью фаулера)
-
-
-
-## How to start
-
-approaches:
-- unit testing
-- end-to-end testing
-- integration testing
 
 Go read Fowler’s [page on testing strategy first](https://martinfowler.com/articles/practical-test-pyramid.html)
 
