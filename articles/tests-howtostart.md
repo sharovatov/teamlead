@@ -67,9 +67,8 @@ Here’s what I have in my [Qase](https://qase.io) TMS:
 
 As you can see, the obvious choice here would be to start automating ‘authorisation’ first as it takes 9 minute to be tested manually every release.
 
-These 9 minutes yield 8 hours per year spent on manual testing if we have 1 release per week.
+These 9 minutes yield **8 hours a year** spent on manual testing of this particular feature if we have 1 release per week.
 
-I think pretty much any manager would agree to devote a working day (or two) to have this saving in TTM.
 
 
 
