@@ -279,68 +279,6 @@ So if a developer sees that their individual performance will be somehow assesse
 
 
 
-??? Also more people in the team increases management costs:
-- more waste
-- harder planning
-
-
-Principles:
-- Less links in the chain, less information loss 
-	- crossfunctional (no silos)
-	- better whole thing vision
-- more frequent the feedback is gathered, less we divert
-- less people are occupied with negative social dynamics, more they can focus on retaining the information (less noise, more effective)
-	- happy
-	- to be able to contribute to the product (not just executing but partner)
-		- team autonomy is required and should be persistent, you can't change it later
-		it's your right of course, but the trust will be lost
-	- result attributed and valued (as less waste as possible)
-		- equally valued! if they are not important, why are they hired?
-		if someone's not important for the delivery, they need to go
-		if someone's important for the delivery, their work must be equally valued
-- t-shape (knowledge overlap)
-	- less interpretation mistakes
-	- it helps both to own
-	- more options to consider / more ways to find solutions to problems
-
-Team utilisation trap: https://www.youtube.com/watch?v=CostXs2p6r0
-
-Hence, the quality is 
-
-Producing is creating: we aim to create something that was just an idea.
-
-
-
-------
-
-
-Conway’s law — software represents the communication structure 
-=> 
-
-
-Quality software: team topology and atmosphere
-
-## Work conditions
-
-1. Happy engineers are more productive [link]()
-2. organisational structure
-
-
-Conway law:
-
-> The basic thesis ... is that organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations. We have seen that this fact has important implications for the management of system design. Primarily, we have found a criterion for the structuring of design organizations: a design effort should be organized according to the need for communication.
-
-
-
-
-
-
-
-Quality and performance 
-
-
-
-- TDD [Dave Farley on TDD & quality](https://www.youtube.com/watch?v=ln4WnxX-wrw)
 
 
 
