@@ -21,21 +21,29 @@ Let’s dig in and start with the definitions.
 
 ## What is quality?
 
-There are two standards defining the quality:
+Two standards are defining the quality:
 
 General one (for products) — [**ISO 9000**](https://efrcertification.com/Ref/ISO+9000-2005.pdf):
 
 > **quality**
 > degree to which a set of inherent characteristicts fulfil requirements
 
-And the one talking specifically about the software quality specifically — [**ISO 25000**](https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en):
+And the one talking specifically about the software quality — [**ISO 25000**](https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en):
 
 > **software quality**
 > capability of software product to satisfy stated and implied needs when used under specified conditions
 
-Both are talking about a "match" between what the client desired and what's present (produced).
+Both talk about a "match" between what the client desired and what's present (produced).
 
-We want to produce exactly what's needed or wanted, so the match is "maximised", i.e. the quality is at its highest.
+We want to produce exactly what's needed or wanted, so the match is "maximised", i.e., the quality is at its highest.
+
+A few areas of problems related to quality might occur when you create a team.
+
+For each area, I will try to give bits of advice.
+
+- [Information loss in conversion](#Information-loss-in-conversion)
+- [Quality loss due to team design](#Quality-loss-due-to-team-design)
+- …more to come…
 
 ## Information loss in conversion
 
@@ -345,3 +353,10 @@ Quality and performance
 - [Social Categorization and the Formation of Intergroup Attitudes in Children](https://www.jstor.org/stable/1131676)
 - [Ingroup Favoritism and Prejudice](https://opentextbc.ca/socialpsychology/chapter/ingroup-favoritism-and-prejudice/)
 - [Experiments in Intergroup Discrimination](https://www.jstor.org/stable/24927662)
+- [The Honda effect revisited](http://castletonconsulting.co.uk/wp-content/uploads/2013/07/The_Honda_effect_revisited.pdf)
+- [The influence of organisational structure on software quality: an empirical case study](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2008-11.pdf)
+- [Dave Farley on TDD & quality](https://www.youtube.com/watch?v=ln4WnxX-wrw)
+- [Four types of Shift Left testing](https://insights.sei.cmu.edu/blog/four-types-of-shift-left-testing/)
+- [How do personality, team processes and task characteristics relate to job satisfaction and software quality?](https://www.sciencedirect.com/science/article/abs/pii/S0950584908001080)
+
+
