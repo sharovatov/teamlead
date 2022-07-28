@@ -38,7 +38,7 @@ Pull requests and discussions are always welcome.
 - [менторство](/articles/mentorship.md)
 - [публичность и прозрачность](/articles/transparency.md)
 - [рациональность и инновации](/articles/innovations.md)
-- [все ребята хороши: рост или не рост?](/articles/growth-stability.md)
+- [все ребята хороши: рост или не рост?](/articles/growth.md)
 
 ## Process rationalisation
 - [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
