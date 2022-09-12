@@ -1,3 +1,6 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-information-loss-in-conversion/**
+
+
 # How to design a team that would produce software of good quality?
 
 As [Harold F. Dodge](https://asq.org/about-asq/honorary-members/dodge) said:
