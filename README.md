@@ -41,6 +41,8 @@ Pull requests and discussions are always welcome.
 - [все ребята хороши: рост или не рост?](/articles/growth-stability.md)
 
 ## Process rationalisation
+
+- [Quality and the team](/articles/team_quality.md)
 - [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
 - [Preparing developer’s firing starts on her first day](/articles/firing_en.md) (translations: [:ru: Russian](/articles/firing.md))
 - [Regular 1-1s aren’t as useful as people think](/articles/1-1_en.md) (translations: [:ru: Russian](/articles/1-1.md))
