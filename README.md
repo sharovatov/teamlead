@@ -42,7 +42,7 @@ Pull requests and discussions are always welcome.
 
 ## Process rationalisation
 
-- :heart_eyes:[Quality and the team](/articles/team_quality.md)
+- :heart_eyes: [Quality and the team](/articles/team_quality.md)
 - [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
 - [Preparing developer’s firing starts on her first day](/articles/firing_en.md) (translations: [:ru: Russian](/articles/firing.md))
 - [Regular 1-1s aren’t as useful as people think](/articles/1-1_en.md) (translations: [:ru: Russian](/articles/1-1.md))
@@ -58,7 +58,7 @@ Pull requests and discussions are always welcome.
 - [‘Speaking club’ — public speaking training](/speaking_club_en.md) (translations: [:ru: Russian](/speaking_club.md))
 
 ## Recommendations
-- [Books to read](/misc/books.md)
+- :books:[Books to read](/misc/books.md)
 - [Talks to watch](/misc/talks.md)
 - [Telegram channels](/misc/tg-channels.md)
 
