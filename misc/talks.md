@@ -5,7 +5,7 @@
 My personal recommendations:
 
 - [Russell L Ackoff From Mechanistic to Systemic thinking](https://www.youtube.com/watch?v=yGN5DBpW93g)
-- [Why Pull Requests Are A BAD IDEA](https://www.youtube.com/watch?v=ASOSEiJCyEM) — Dave Farley on doing code review via pull requests
+- Dave Farley on [Why Pull Requests Are A BAD IDEA](https://www.youtube.com/watch?v=ASOSEiJCyEM)
 - [Фил Дельгядо про дизайн-ревью](https://www.youtube.com/watch?v=4Y0XJXRZv6k) — Фил рассказывает о более эффективной практике, чем code review
 - [Виктор Фабриченко про теорию применения практик](https://drive.google.com/file/d/1Vv51uI0PIZ7_-sxVHPAI4wGmIjm5EFDD/view?usp=sharing) — Витя доходчиво объясняет, почему копирование практик неэффективно
 - [культурно-просветительский Центр АРХЭ](https://www.youtube.com/c/ЦентрАрхэ/videos) — для расширения кругозора и стимуляции любознательности
