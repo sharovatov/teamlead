@@ -9,6 +9,7 @@
 - Detmer: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
 - Sapolsky: https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
 - Akoff: https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342
+- Scholtes: https://www.amazon.com/dp/B086YXTTYP/ref=docs-os-doi_0
 
 ## Noestimates book
 
