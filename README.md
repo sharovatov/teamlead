@@ -40,9 +40,19 @@ Pull requests and discussions are always welcome.
 - [рациональность и инновации](/articles/innovations.md)
 - [все ребята хороши: рост или не рост?](/articles/growth.md)
 
+## :heart_eyes: Quality series
+- [Information loss](/articles/team_quality.md)
+- [Issues with processes](/articles/team_processes.md)
+- [Time pressure](/articles/team_pressure.md)
+- [Knowledge overlap](/articles/team_knowledge.md)
+- [Team size](/articles/team_size.md)
+- [Management complexity](/articles/team_complexity.md)
+- [Emotions and interest](/articles/team_emotions.md)
+- [Turnover](/articles/team_turnover.md)
+- [Performance reviews](/articles/team_perfreview.md)
+
 ## Process rationalisation
 
-- :heart_eyes: [Quality and the team](/articles/team_quality.md)
 - [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
 - [Preparing developer’s firing starts on her first day](/articles/firing_en.md) (translations: [:ru: Russian](/articles/firing.md))
 - [Regular 1-1s aren’t as useful as people think](/articles/1-1_en.md) (translations: [:ru: Russian](/articles/1-1.md))
