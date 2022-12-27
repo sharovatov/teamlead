@@ -50,6 +50,7 @@ Pull requests and discussions are always welcome.
 - [Emotions and interest](/articles/team_emotions.md)
 - [Turnover](/articles/team_turnover.md)
 - [Performance reviews](/articles/team_perfreview.md)
+- [Dogfooding and problem-solving](/articles/dogfooding.md)
 
 ## Process rationalisation
 
