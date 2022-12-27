@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/dogfooding-and-quality/**
+
 # Dogfooding and quality
 
 Many successful companies employ [Dogfooding practice](https://www.edume.com/blog/what-is-dogfooding):

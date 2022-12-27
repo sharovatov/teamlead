@@ -51,6 +51,7 @@ Pull requests and discussions are always welcome.
 - [Turnover](/articles/team_turnover.md)
 - [Performance reviews](/articles/team_perfreview.md)
 - [Dogfooding and problem-solving](/articles/dogfooding.md)
+- [Mental sets](/articles/mental-sets-and-quality.md)
 
 ## Process rationalisation
 

@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-team-design/**
+
 In the [first chapter](team_quality.md), I focused on team topology aspects that affect the information flow in principle.
 
 Here I will focus on the aspects of team design that influence people's behaviour (or motivation).

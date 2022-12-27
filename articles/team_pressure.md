@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-time-pressure/**
+
 In the previous [post](team_processes.md), I suggested considering getting rid of the whole concept of time pressure imposed on developers.
 
 Here I will review the most common scenarios when this concept emerges and think with you if the concept can be avoided.

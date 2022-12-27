@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-team-size/**
+
 # Management complexity grows with every member
 
 Every manager does their own bit of people management at work, even though many don’t realise it.

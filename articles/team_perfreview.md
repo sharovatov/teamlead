@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/performance-reviews-and-quality/**
+
 # Individual performance reviews and quality
 
 Most companies practice individual performance reviews (also called [performance appraisals](https://en.wikipedia.org/wiki/Performance_appraisal)).

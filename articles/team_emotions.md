@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-interest/**
+
 # Interest and quality
 
 Quality strongly depends on the system's efficiency of the [information flow](https://qase.io/blog/quality-and-information-loss-in-conversion/) — when information flow is effective, losses are lower, and quality is higher.

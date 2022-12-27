@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-and-turnover/**
+
 # Turnover effect on quality
 
 [Turnover](https://en.wikipedia.org/wiki/Turnover_(employment)):

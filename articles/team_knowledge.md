@@ -1,3 +1,5 @@
+**I wrote this post for Qase.io: https://qase.io/blog/quality-knowledge-overlap/**
+
 In [one of the previous articles](team_quality.md), I stated that team knowledge should overlap.
 
 How can one achieve that?
