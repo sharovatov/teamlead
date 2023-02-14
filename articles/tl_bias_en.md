@@ -55,6 +55,10 @@ Diversity provides wider pool of options to choose from.
 arguing, conflicts — only constructive
 can a conflict be constructive?
 
-## processes and approaches once decided should be often reconsidered to check if they still give value
+## Processes and approaches once decided should be often reconsidered to check if they still give value
 
-PDR (ref to my talk)
+- [my talk on PDR](https://www.youtube.com/watch?v=oxHzIdpLjmc)
+- [my talk on PDR in Russian](https://www.youtube.com/watch?v=1gKdzgjRirk)
+- [article on PDR in Russian](https://habr.com/ru/company/oleg-bunin/blog/715764/)
+
+
