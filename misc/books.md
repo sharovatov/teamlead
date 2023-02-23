@@ -1,6 +1,5 @@
 # Books every manager must read
 
-## General list
 - Taylor: https://www.amazon.com/Principles-Scientific-Management-Frederick-Taylor/dp/1897363893
 - Shewhart: https://www.amazon.com/gp/product/B00A735MMG
 - Deming: https://www.amazon.com/gp/product/B08BT5PK8V/
@@ -10,6 +9,11 @@
 - Sapolsky: https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
 - Akoff: https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342
 - Scholtes: https://www.amazon.com/dp/B086YXTTYP/ref=docs-os-doi_0
+- De Bono: https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/
+- Taleb: https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
+- Simon Sinek: https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8
+- Robert Axelrod: https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
+- Richard Dawkins: https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
 
 ## Noestimates book
 
