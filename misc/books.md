@@ -14,6 +14,8 @@
 - Simon Sinek: https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8
 - Robert Axelrod: https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
 - Richard Dawkins: https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
+- Simon Sinek: https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ
+- Daniel Pink: https://www.amazon.com/gp/product/B0033TI4BW
 
 ## Noestimates book
 
