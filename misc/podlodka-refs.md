@@ -114,4 +114,4 @@
 - [Teaching More by Grading Less (or Differently)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041495/)
 - [Belbin roles and their criticism](https://belbinnorthamerica.com/the-limitations-of-belbin/)
 - [The wisdom of teams](https://www.amazon.com/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B00WDDOS7I/)
-
+- [Team Creativity and Innovation](https://www.amazon.com/Team-Creativity-Innovation-Roni-Reiter-Palmon-ebook/dp/B0779BBZ8F)
