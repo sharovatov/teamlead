@@ -115,3 +115,4 @@
 - [Belbin roles and their criticism](https://belbinnorthamerica.com/the-limitations-of-belbin/)
 - [The wisdom of teams](https://www.amazon.com/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B00WDDOS7I/)
 - [Team Creativity and Innovation](https://www.amazon.com/Team-Creativity-Innovation-Roni-Reiter-Palmon-ebook/dp/B0779BBZ8F)
+- [The Relationship Between Mission Statements and Firm Performance: An Exploratory Study](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-6486.00121)
