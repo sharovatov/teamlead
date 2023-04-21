@@ -16,6 +16,9 @@
 - Richard Dawkins: https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
 - Simon Sinek: https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ
 - Daniel Pink: https://www.amazon.com/gp/product/B0033TI4BW
+- Britt Frank: https://www.amazon.com/gp/product/B097B3BHL6
+- Roni Reiter-Palmon: https://www.amazon.com/gp/product/B0779BBZ8F/
+- Jerry Z. Muller: https://www.amazon.com/gp/product/B07K458MZG/
 
 ## Noestimates book
 
