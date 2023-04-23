@@ -112,4 +112,7 @@
 - [A critique of grading: Policies, practices, and technical matters](https://www.researchgate.net/publication/324544815_A_critique_of_grading_Policies_practices_and_technical_matters)
 - [If Grades don’t Advance Learning, Why Do We Give Them?](https://blog.williamferriter.com/2015/09/18/if-grades-dont-advance-learning-why-do-we-give-them/)
 - [Teaching More by Grading Less (or Differently)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041495/)
-
+- [Belbin roles and their criticism](https://belbinnorthamerica.com/the-limitations-of-belbin/)
+- [The wisdom of teams](https://www.amazon.com/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B00WDDOS7I/)
+- [Team Creativity and Innovation](https://www.amazon.com/Team-Creativity-Innovation-Roni-Reiter-Palmon-ebook/dp/B0779BBZ8F)
+- [The Relationship Between Mission Statements and Firm Performance: An Exploratory Study](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-6486.00121)
