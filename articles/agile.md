@@ -1,3 +1,7 @@
+**I wrote this post for Qase.io: https://qase.io/blog/benefits-of-agile-product-development/**
+
+-----
+
 As per the [CHAOS 2009 report](https://www.classes.cs.uchicago.edu/archive/2014/fall/51210-1/required.reading/Standish.Group.Chaos.2009.pdf), 70% of projects worldwide fail due to project management issues. The [CISQ 2020 report](https://www.it-cisq.org/cisq-files/pdf/CPSQ-2020-report.pdf) states that substandard software quality led to a cost of around $2.08 trillion for the United States in 2020 alone.
 
 The rationale behind the failure of project management involving long-term planning and fixed requirements is straightforward: the market evolves at a pace that outstrips the adaptability of any predetermined plan.
