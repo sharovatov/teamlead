@@ -52,6 +52,7 @@ Pull requests and discussions are always welcome.
 - [Performance reviews](/articles/team_perfreview.md)
 - [Dogfooding and problem-solving](/articles/dogfooding.md)
 - [Mental sets](/articles/mental-sets-and-quality.md)
+- [Agile product development benefits](/articles/agile.md)
 
 ## Process rationalisation
 
