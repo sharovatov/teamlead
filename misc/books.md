@@ -162,5 +162,5 @@ Good review of all the ways how estimations hurt your company and how you can av
 
 Матфей составил прямо-таки показательно качественный учебник по психолингвистике: о том, как взаимосвязаны речь, язык и мышление.
 
-Купить можно [в Wiley](https://www.wiley.com/en-us/Introduction+to+Psycholinguistics%3A+Understanding+Language+Science-p-9781405198622)
+Купить можно [на амазоне]([https://www.wiley.com/en-us/Introduction+to+Psycholinguistics%3A+Understanding+Language+Science-p-9781405198622](https://www.amazon.com/Introduction-Psycholinguistics-Understanding-Language-Science/dp/1405198621))
 
