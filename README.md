@@ -24,7 +24,6 @@ Pull requests and discussions are always welcome.
 
 - [employee lifecycle — from searching for a job to leaving it](/articles/lifecycle_en.md) (translations: [:ru: Russian](/articles/lifecycle.md))
 - [what to ask a company during or before the interview](/articles/company_interview_en.md) (translations: [:ru: Russian](/articles/company_interview.md))
-- [наём — что с ним не так](/articles/hiring.md)
 - [словарь рекрутера](/articles/recruiting.md)
 - [FAQ рекрутера](/articles/recruiter_FAQ.md)
 - [примитив роста и развития](/articles/growth.md)
@@ -54,7 +53,7 @@ Pull requests and discussions are always welcome.
 - [Mental sets](/articles/mental-sets-and-quality.md)
 - [Agile product development benefits](/articles/agile.md)
 - [12 tips for improving software testing in teams](/articles/12-tips.md)
-- [Hiring quality — CVs](hiring.md)
+- [Hiring quality — CVs](hiring2.md)
 - [QA, QC and Quality](qa-vs-qc.md)
 - [Software quality: the generalist vs the specialist](specialist-generalist.md)
 - [Turnover effect on quality](turnover.md)
