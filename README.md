@@ -53,6 +53,11 @@ Pull requests and discussions are always welcome.
 - [Dogfooding and problem-solving](/articles/dogfooding.md)
 - [Mental sets](/articles/mental-sets-and-quality.md)
 - [Agile product development benefits](/articles/agile.md)
+- [12 tips for improving software testing in teams](/articles/12-tips.md)
+- [Hiring quality — CVs](hiring.md)
+- [QA, QC and Quality](qa-vs-qc.md)
+- [Software quality: the generalist vs the specialist](specialist-generalist.md)
+- [Turnover effect on quality](turnover.md)
 
 ## Process rationalisation
 
