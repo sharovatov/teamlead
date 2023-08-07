@@ -53,10 +53,11 @@ Pull requests and discussions are always welcome.
 - [Mental sets](/articles/mental-sets-and-quality.md)
 - [Agile product development benefits](/articles/agile.md)
 - [12 tips for improving software testing in teams](/articles/12-tips.md)
-- [Hiring quality — CVs](hiring2.md)
-- [QA, QC and Quality](qa-vs-qc.md)
-- [Software quality: the generalist vs the specialist](specialist-generalist.md)
-- [Turnover effect on quality](turnover.md)
+- [Hiring quality — CVs](articles/hiring2.md)
+- [QA, QC and Quality](articles/qa-vs-qc.md)
+- [Software quality: the generalist vs the specialist](articles/specialist-generalist.md)
+- [Turnover effect on quality](articles/turnover.md)
+- [Mob programming](articles/mob.md)
 
 ## Process rationalisation
 
