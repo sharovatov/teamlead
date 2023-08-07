@@ -58,7 +58,7 @@ Pull requests and discussions are always welcome.
 - [Software quality: the generalist vs the specialist](articles/specialist-generalist.md)
 - [Turnover effect on quality](articles/turnover.md)
 - [Mob programming](articles/mob.md)
-
+- [Ergonomics of a remote workplace](articles/remote.md)
 ## Process rationalisation
 
 - [‘code review’ review — history and effectiveness ](/articles/codereview_en.md) (translations: [:ru: Russian](/articles/codereview.md))
