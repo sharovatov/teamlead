@@ -19,6 +19,7 @@
 - Britt Frank: https://www.amazon.com/gp/product/B097B3BHL6
 - Roni Reiter-Palmon: https://www.amazon.com/gp/product/B0779BBZ8F/
 - Jerry Z. Muller: https://www.amazon.com/gp/product/B07K458MZG/
+- Peter M. Senge: [The Fifth Discipline: The art and practice of the learning organization](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B003ELY7OW/)
 
 ## Noestimates book
 
