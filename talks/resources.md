@@ -1,5 +1,7 @@
 # Links and resources
 
+- [My LinkedIn](https://www.linkedin.com/in/vsharovatov/)
+
 ## Myths
 - [Quality can be measured](https://qase.io/blog/qa-myth-busting-quality-can-be-measured/)
 - [More testing means better quality](https://qase.io/blog/qa-myth-busting-more-testing-means-better-quality/)
